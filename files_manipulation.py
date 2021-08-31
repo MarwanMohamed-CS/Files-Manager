@@ -4,24 +4,30 @@ import re
 import colorama
 import pdb
 import prettytable
+import shutil
+import datetime
+import stat
 from time import sleep
 from docx import Document
 from docx.shared import Inches, Cm, RGBColor
 from docx2pdf import convert
 from docx.enum.text import WD_ALIGN_PARAGRAPH
 from guessit import guessit
+from files_paths import settings
 
 
 class File():
     '''Carries info of a file and has file management methods'''
 
-    def __init__(self, path, file_type, dir_tag='', size=0, surface=False):
+    def __init__(self, path, file_type, dir_tag='', size=0, epoch_creation_date=0, surface=False, hard_disk='',):
         self.name = os.path.basename(path)
         self.path = path
         self.dir_tag = dir_tag
         self.file_type = file_type
         self.size = size
         self.surface = surface
+        self.hard_disk = hard_disk
+        self.epoch_creation_date = epoch_creation_date
 
     def get_size(self):
         '''returns size(int or float) of file and unit(str) of that size'''
@@ -34,8 +40,7 @@ class File():
             size = int(size)
         elif self.size < 10**9:  # converts bytes to MBs
             # 1048576 is 1024 * 1024
-            size = self.size/1048576
-            size = round(size, 1)  # rounds to a total of 4 digits
+            size = self.size//1048576
             unit = 'MB'
         else:  # if size>10^9 converts to GBs
             # 1073741824 is 1024 * 1024 * 1024
@@ -47,10 +52,77 @@ class File():
         return size, unit
 
     def set_index(self, index):
+        '''
+        sets index for the file so that we can choose it for operations like opening,
+        printing tree...etc
+        '''
         self.index = index
+
+    def get_creation_date(self):
+        '''
+        returns a nametuple with the date and the time of the day of the creation of the file
+        '''
+        datetime_time = datetime.datetime.fromtimestamp(
+            float(self.epoch_creation_date))
+        datetime_time = str(datetime_time)
+        formated_date_in_days, formated_date_in_hm = datetime_time.split(
+            ' ')   # hm stands for hours/mins
+        #date_formater = collections.namedtuple('creation_date', 'date time')
+        return formated_date_in_days, formated_date_in_hm
+
+
+def remove_ext(file_name):
+    '''
+    returns file name without it's extension
+    '''
+    for index, letter in enumerate(file_name[::-1]):
+        if letter == '.':
+            return file_name[: -index - 1]
+
+
+def to_folder(file_path, folder_name=''):
+    '''
+    sends file_path to a folder of it's own name or to a folder with folder_name if it's passed
+    '''
+    if folder_name:
+        folder_path = os.path.join(os.path.dirname(
+            remove_ext(file_path)), folder_name)
+    else:
+        folder_path = remove_ext(file_path)
+    new_file_path = folder_path + '\\' + os.path.basename(file_path)
+    os.mkdir(folder_path)
+    shutil.copy(file_path, new_file_path)
+    os.remove(file_path)
+
+
+def binary_search(paths, search_for):
+    searchForWords = search_for.split()
+    start = 0
+    end = len(paths) - 1
+    while start <= end:
+        middle_index = int((start + end) / 2)
+        midpoint = paths[middle_index].name
+        if midpoint > searchForWords[0]:
+            end = middle_index - 1
+        elif midpoint < searchForWords[0]:
+            start = middle_index + 1
+        else:
+            print(midpoint)
+    input()
+
+
+def organize_files(paths):
+    for path in paths:
+        if path.surface and path.file_type == 'movie' and os.path.isfile(path.path) and path.dir_tag == 'this pc e':
+            input(path.path)
+            to_folder(path.path)
+            print('waiting')
 
 
 def parse_inp(inp):
+    '''
+    parses the input and returns a dictionary containing the corresponding properties to the cmd found
+    '''
     net_inp, cmd = get_cmd(inp)
     net_inp, dir_tag = get_dir_tag(inp)
     if cmd:
@@ -62,7 +134,66 @@ def parse_inp(inp):
 
 
 def get_cmd(inp):
-    '''Returns a dictionary containing the details of the command written'''
+    '''
+    returns a dictionary containing the properties corresponding to the inp passed
+    '''
+    def assign_prop(cmd, cmd_tag):
+        '''assigns the properties to the cmd dictionary depedning on the cmd_tag given'''
+        if cmd_tag == '-dups':  # to change what function catches as commands
+            cmd['func name'] = 'print_duplicates'
+        elif cmd_tag == '-all movies':
+            cmd['func name'] = 'get_clips'
+            cmd['file type'] = 'movie'
+            cmd['hard disk'] = []
+        elif cmd_tag == '-all tv':
+            cmd['func name'] = 'get_clips'
+            cmd['file type'] = 'tv series'
+        elif cmd_tag == '-all animes':
+            cmd['func name'] = 'get_clips'
+            cmd['file type'] = 'anime'
+        elif cmd_tag == '-pc e':
+            cmd['func name'] = 'get_clips'
+            cmd['dir tag'] = 'this pc e'
+        elif cmd_tag == '-pc f':
+            cmd['func name'] = 'get_clips'
+            cmd['dir tag'] = 'this pc f'
+        elif cmd_tag == '-pc tv':
+            cmd['func name'] = 'get_clips'
+            cmd['file type'] = 'tv series'
+            cmd['dir tag'] = 'this pc'
+        elif cmd_tag == '-pc movies':
+            cmd['func name'] = 'get_clips'
+            cmd['file type'] = 'movie'
+            cmd['dir tag'] = 'this pc'
+        elif cmd_tag == '-2 tera movies':
+            cmd['func name'] = 'get_clips'
+            cmd['file type'] = 'movie'
+            cmd['dir tag'] = '2 tera movies'
+        elif cmd_tag == '-2 tera tv':
+            cmd['func name'] = 'get_clips'
+            cmd['file type'] = 'tv series'
+            cmd['dir tag'] = '2 tera tv'
+        elif cmd_tag == '-2 tera animes':
+            cmd['func name'] = 'get_clips'
+            cmd['file type'] = 'anime'
+            cmd['dir tag'] = '2 tera animes'
+        elif cmd_tag == '-1 tera movies':
+            cmd['func name'] = 'get_clips'
+            cmd['file type'] = 'movie'
+            cmd['dir tag'] = '1 tera movies'
+        elif cmd_tag == '-1 tera tv':
+            cmd['func name'] = 'get_clips'
+            cmd['file type'] = 'tv series'
+            cmd['dir tag'] = '1 tera tv'
+        elif cmd_tag == '-1 tera animes':
+            cmd['func name'] = 'get_clips'
+            cmd['file type'] = 'anime'
+            cmd['dir tag'] = '1 tera animes'
+        elif cmd_tag == '-u' or cmd_tag == '-update':
+            cmd['func name'] = 'update'
+        elif cmd_tag == '-new':
+            cmd['func name'] = 'get_clips'
+            cmd['file type'] = 'new'
     match = re.search('-.*', inp)
     cmd = {}
     if match:
@@ -70,63 +201,13 @@ def get_cmd(inp):
         net_inp = inp.replace(cmd_tag, '')
     else:
         return inp, cmd
-
-    if cmd_tag == '-dups':  # to change what function catches as commands
-        # just change the if coniditon nothing else
-        cmd['func name'] = 'print_duplicates'
-    elif cmd_tag == '-all movies':
-        cmd['func name'] = 'get_clips'
-        cmd['file type'] = 'movie'
-    elif cmd_tag == '-all tv':
-        cmd['func name'] = 'get_clips'
-        cmd['file type'] = 'tv series'
-    elif cmd_tag == '-all animes':
-        cmd['func name'] = 'get_clips'
-        cmd['file type'] = 'anime'
-    elif cmd_tag == '-this pc e':
-        cmd['func name'] = 'get_clips'
-        cmd['dir tag'] = 'this pc e'
-    elif cmd_tag == '-this pc f':
-        cmd['func name'] = 'get_clips'
-        cmd['dir tag'] = 'this pc f'
-    elif cmd_tag == '-this pc tv':
-        cmd['func name'] = 'get_clips'
-        cmd['file type'] = 'tv series'
-        cmd['dir tag'] = 'this pc'
-    elif cmd_tag == '-this pc movies':
-        cmd['func name'] = 'get_clips'
-        cmd['file type'] = 'movie'
-        cmd['dir tag'] = 'this pc'
-    elif cmd_tag == '-2 tera movies':
-        cmd['func name'] = 'get_clips'
-        cmd['file type'] = 'movie'
-        cmd['dir tag'] = '2 tera movies'
-    elif cmd_tag == '-2 tera tv':
-        cmd['func name'] = 'get_clips'
-        cmd['file type'] = 'tv series'
-        cmd['dir tag'] = '2 tera tv'
-    elif cmd_tag == '-2 tera animes':
-        cmd['func name'] = 'get_clips'
-        cmd['file type'] = 'anime'
-        cmd['dir tag'] = '2 tera animes'
-    elif cmd_tag == '-1 tera movies':
-        cmd['func name'] = 'get_clips'
-        cmd['file type'] = 'movie'
-        cmd['dir tag'] = '1 tera movies'
-    elif cmd_tag == '-1 tera tv':
-        cmd['func name'] = 'get_clips'
-        cmd['file type'] = 'tv series'
-        cmd['dir tag'] = '1 tera tv'
-    elif cmd_tag == '-1 tera animes':
-        cmd['func name'] = 'get_clips'
-        cmd['file type'] = 'anime'
-        cmd['dir tag'] = '1 tera animes'
+    assign_prop(cmd, cmd_tag)
     return net_inp, cmd
 
 
 def get_dir_tag(inp):
     '''returns directory tag(if exists) and input line without the tag in it'''
-    match = re.search(r'''^         ((this \s pc (\s(e|f))? (?=\s))  
+    match = re.search(r'''^         ((this \s pc (\s(e|f))? (?=\s))
                         # this pc followed by e or f opt.,followed by space(not consumed)
                                                         |
                                 ((1|2) \s tera (\s (movies|tv|animes) )? (?=\s)))''',
@@ -144,12 +225,16 @@ def get_dir_tag(inp):
 
 
 def search(paths, search_for, dir_tag=''):
-    '''returns a list of File class objects thatcarry the results's data/details.'''
+    '''returns a list of File class objects that carry the results's data/details.'''
     os.system('cls')
     search_for = search_for.lower().split()
     SEARCH_WORDS_COUNT = len(search_for)
     results = []
     index = 0
+    for path in paths:
+        if path.surface == True and (to_unit(path.size)[1] =='KB' or (to_unit(path.size)[1] =='MB' and int(to_unit(path.size)[0]) < 600)):
+            print(path.path)
+    input()
     for path in paths:
         matches_count = 0
         if path.surface and search_for[0] in path.name.lower():
@@ -169,41 +254,71 @@ def search(paths, search_for, dir_tag=''):
     return results
 
 
+
+def delete(file_path):
+    os.chmod(file_path, stat.S_IWRITE)
+    os.remove(file_path)
+
+
+
 def print_results(results, dups=False):
     '''
-    takes in results of a search (File objects or Dup objects) and prints their info in a formatted
-    manner
-     '''
+        takes in results of a search (File objects or Dup objects) and prints their info in a formatted
+        manner
+        '''
     colorama.init()
     os.system('cls')
-    print(colorama.Fore.YELLOW+'\n\n\t\t\t\t\t\t\tResults\n\n\n')
+    print(colorama.Fore.YELLOW+'\n\n\t\t\t\t\t\t\tResults:' +
+          ' ' * 2 + str(len(results)) + '\n\n\n')
     if not dups:
         if len(results) != 0:
             table = prettytable.PrettyTable([colorama.Fore.YELLOW+'N',
-                                                colorama.Fore.YELLOW+'Names',
-                                                colorama.Fore.YELLOW+'Dir Tag',
-                                                colorama.Fore.YELLOW+'Size'])
+                                             colorama.Fore.YELLOW+'Names',
+                                             colorama.Fore.YELLOW+'Dir Tag',
+                                             colorama.Fore.YELLOW+'Size',
+                                             colorama.Fore.YELLOW+'Creation Date'])
             num = 1
-            for result in results:
+
+            if type(results[-1]) == int: # if the end results contains the size of of all the results
+                size_table = prettytable.PrettyTable([colorama.Fore.YELLOW+'Totale Size',
+                                                      ])
+                totale_results_size = results[-1]
+                totale_results_size, unit = to_unit(totale_results_size)
+                size_table.add_row([
+                    colorama.Fore.LIGHTBLUE_EX+f'{str(totale_results_size)} {unit}'])
+                end = len(results) - 2
+            else:
+                end = len(results)
+            
+            for result in results[:end]:
                 size, unit = result.get_size()
+                if num == settings.RESULTS_LIMIT + 1:
+                    break
+                date, time = result.get_creation_date()
                 table.add_row([colorama.Fore.LIGHTBLUE_EX+f'{num}',
-                                colorama.Fore.LIGHTBLUE_EX+f'{result.name:80}',
-                                colorama.Fore.LIGHTBLUE_EX+f'{result.dir_tag:10}',
-                                colorama.Fore.LIGHTBLUE_EX+f'{size:<6} {unit}'])
+                               colorama.Fore.LIGHTBLUE_EX+f'{result.name:80}',
+                               colorama.Fore.LIGHTBLUE_EX +
+                               f'{result.dir_tag.title():<10}',
+                               colorama.Fore.LIGHTBLUE_EX +
+                               f'{size:<4} {unit}',
+                               colorama.Fore.LIGHTBLUE_EX + f'{date}'])
                 num += 1
-                # print(colorama.Fore.LIGHTBLUE_EX + f'{result.name:75}             {result.dir_tag:50}\n')
-            print(table)
+            if type(results[-1]) == int: # if the end results contains the size of of all the results
+                print(table)
+                print(size_table)
+            else:
+                print(table)
         else:
             print(' ' * 51 + '----No results----')
     else:
         for result in results:
             if len(result.dir_tags) > 4:  # prints only 3 and .... the rest
-                dir_tags = results.dir_tags[:3]
-                dir_tags.append('....')
+                dir_tags = ', '.join(results.dir_tags[:3])
+                dir_tags += ('....')
             else:
-                dir_tags = result.dir_tags
-            dir_tags = ' | '.join(dir_tags)
-            print(colorama.Fore.RED + f'{result.name:70} {dir_tags:50}\n')
+                dir_tags = ', '.join(result.dir_tags)
+            print(colorama.Fore.BLUE +
+                  f'{result.name:70} {colorama.Fore.RED}{dir_tags.title():50}\n')
 
 
 def get_duplicates(clips):
@@ -234,21 +349,27 @@ def get_duplicates(clips):
 
 
 def to_unit(size):
+    '''returns size as float\int and an str containing size Unit'''
     # size is in bytes
     # 10^3 > KB
     # 10^6 > MB
     if size < 10**6:  # converts bytes to KBs
         size = size/1024
+        size = int(size)
         unit = 'KB'
     elif size < 10**9:  # converts bytes to MBs
         # 1048576 is 1024 * 1024
-        size = size/1048576
+        size = size/1024**2
+        size = int(size)
         unit = 'MB'
-    else:  # if size>10^9 converts to GBs
-        # 1073741824 is 1024 * 1024 * 1024
-        size = size/1073741824
+    elif size < 10**12: # converts to GBs
+        size = size/ 1024**3
+        size = round(size, 1)
         unit = 'GB'
-    size = round(size, 4)  # rounds to a totale of 4 digits
+    else:# converts to TBs  
+        size = size/1024**4
+        size = round(size, 3)  # rounds to a totale of 3 digits
+        unit = 'TB'
     size = str(size)
     return size, unit
 
@@ -278,29 +399,44 @@ def print_tree(paths):
 
 def get_clips(paths, cmd):
     '''
-    returns a chunk of clips according to dir tag and file type carried by the Cmd Object only(ex:-this pc movies)
+    returns a chunk of clips according to dir tag and file type of the Cmd Object(ex:-this pc movies) totale size of results(in bytes) is appended
+    to the back of the list. 
     '''
     clips = []
     index = 0
-    if len(cmd.keys()) == 3:
+    results_size = 0
+    if 'file type' in cmd.keys():
         if 'dir tag' in cmd.keys():
             for path in paths:
-                if path.surface and cmd['dir tag'] == path.dir_tag.lower():
+                if path.surface and cmd['dir tag'] == path.dir_tag.lower() and cmd['file type'] == path.file_type:
                     path.set_index(index)
                     clips.append(path)
+                    results_size += path.size
                     index += 1
-        elif 'file type' in cmd.keys():
+        elif cmd['file type'] == 'new':
+            creation_ordered_paths = paths[:]
+            creation_ordered_paths.sort(
+                key=lambda x: x.epoch_creation_date, reverse=True)
+            for path in creation_ordered_paths:
+                if path.surface:
+                    clips.append(path)
+                    results_size += path.size
+                    index += 1
+        else:
             for path in paths:
                 if path.surface and cmd['file type'] == path.file_type:
                     path.set_index(index)
                     clips.append(path)
+                    results_size += path.size
                     index += 1
-    elif 'dir tag' in cmd.keys():  # it means a a specific dir is to be searched
+    else:
         for path in paths:
-            if path.surface and cmd['dir tag'] in path.dir_tag.lower() and path.file_type == cmd['file type']:
+            if path.surface and cmd['dir tag'] == path.dir_tag:
                 path.set_index(index)
                 clips.append(path)
+                results_size += path.size
                 index += 1
+    clips.append(results_size)
     return clips
 
 
@@ -309,19 +445,26 @@ def get_tree(paths, results, end_cmd):
     returns a list of the tree of the current result's file path
                     (actual full path is used to search)
     '''
-    match = re.search(r'tree \d{1,}', end_cmd)
+    match = re.search(r'tree(\s\d{1,})?', end_cmd)
     if match:
-        num = match.group().split(' ')[1]
-        inp_num = int(num)
+        try:
+            inp_num = match.group().split(' ')[1]
+            inp_num = int(inp_num)
+        except:
+            inp_num = None
     else:
         print('something wrong with the cmd..')
         sleep(1)
-    if inp_num > len(results):
-        print("out of index")
-    for result in results:
-        if result.index + 1 == inp_num:
-            root = result
-            break
+    if inp_num:
+        if inp_num > len(results):
+            print("out of index")
+        for result in results:
+            if result.index + 1 == inp_num:
+                root = result
+                break
+    else:  # no specfic num was passed
+        root = results[0]
+
     tree = []
     # because result.path isn't in in it's dirname, look down
     tree.append(root)
@@ -357,7 +500,11 @@ def create_pdf(results, inp, pdf_name='results',):
         row.cells[2].paragraphs[0].alignment = WD_ALIGN_PARAGRAPH.LEFT
         row.cells[2].text = ''
         row.cells[3].text = 'Location'
-        for index, result in enumerate(results):
+        if type(results[-1]) == int:
+            end = len(results) - 2
+        else:
+            end = len(results) - 1
+        for index, result in enumerate(results[:end]):
             row = table.rows[index+1]
             row.cells[0].width = Inches(11)
             row.cells[0].text = result.name
@@ -370,7 +517,13 @@ def create_pdf(results, inp, pdf_name='results',):
             row.cells[2].paragraphs[0].alignment = WD_ALIGN_PARAGRAPH.LEFT
             row.cells[2].text = f'{unit:<3}'
             row.cells[3].width = Inches(4)
-            row.cells[3].text = result.dir_tag
+            dir_tag = result.dir_tag.lower()
+            if 'tv' in dir_tag.lower():
+                dir_tag = dir_tag.replace('tv', 'TV')
+            elif 'pc' in dir_tag.lower():
+                dir_tag = dir_tag.replace('pc', 'PC')
+            dir_tag = dir_tag.title()
+            row.cells[3].text = dir_tag
 
     def create_docx(results, dest_path, docx_name='temp'):
         '''Takes in a list of results and the word file name(without .docx)

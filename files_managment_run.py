@@ -4,9 +4,12 @@ import time
 import os
 import collections
 import re
+import time
+from pprint import pprint
 from time import sleep
 import files_manipulation as fm
-import settings
+from files_paths import settings
+
 
 
 def update():
@@ -36,22 +39,25 @@ def update():
             continue
         paths = []
         sizes = []
+        file_details = []
         txt_path = f'{CURR_DIR}{os.sep}{txt}'
         for root, dirs, files in os.walk(details['clips path']):
             paths.append(root)
             sizes.append(os.path.getsize(paths[-1]))
+            file_details.append(os.path.getctime(root))
             for f in files:
                 paths.append(f'{root}{os.sep}{f}')
                 try:
                     sizes.append(os.path.getsize(paths[-1]))
+                    file_details.append(os.path.getctime(f'{root}{os.sep}{f}'))
                 except FileNotFoundError:
                     with open('errors.txt', 'a') as file_obj:
                         file_obj.write(f'{Exception}\n')
         calc_size(paths, sizes)
         try:
             with open(txt_path, 'w') as file_object:
-                for path, size in zip(paths, sizes):
-                    file_object.write(f'{path}|{size}\n')
+                for path, size, file_detail in zip(paths, sizes, file_details):
+                    file_object.write(f'{path}|{size}|{file_detail}\n')
                 print(f'Updated {details["clips path"]}')
         except:
             pass
@@ -68,12 +74,13 @@ def read():
         path = f'{CURR_DIR}/{path}'
         if not os.path.exists(path):
             continue
+        
         with open(path) as file_object:
             lines = file_object.read()
             lines = lines.split('\n')
             del lines[-1]
             for line in lines:
-                file_path, file_size = line.split('|')
+                file_path, file_size, file_details = line.split('|')
                 if os.path.dirname(file_path) == details['clips path']:
                     surface = True
                 else:
@@ -82,7 +89,9 @@ def read():
                                      details['file type'],
                                      details['dir tag'],
                                      int(file_size),
+                                     file_details,
                                      surface,
+                                     details['hard disk'],
                                      ))
     return paths
 
@@ -90,14 +99,13 @@ def read():
 def open_file(results, end_cmd):
     '''takes in a File object instance and opens it's directory and the file itself'''
     error = True
-    num_match = re.search(r'open \d{1,}', end_cmd)
+    num_match = re.search(r'open(\s\d{1,})?', end_cmd)
     if num_match:
-        num = num_match.group().split()[1]
-        num = int(num)
-    else:
-        print("invalid command..")
-        sleep(2)
-        return
+        try:
+            num = num_match.group().split()[1]
+            num = int(num)
+        except:
+            num = 1
 
     for result in results:
         if result.index == num - 1:
@@ -130,8 +138,13 @@ def open_file(results, end_cmd):
 
 if __name__ == '__main__':
     os.system('cls')
-    update()
+    print('loading...')
     paths = read()
+    os.system('cls')
+    size = 0
+    for path in paths:
+        if path.file_type == 'movie':
+            size += path.size
     while True:
         os.system('cls')
         inp = input(f'{colorama.Fore.GREEN}Name: {colorama.Fore.WHITE}')
@@ -149,10 +162,12 @@ if __name__ == '__main__':
             elif cmd['func name'] == 'get_clips':
                 results = fm.get_clips(paths, cmd)
                 fm.print_results(results)
+            elif cmd['func name'] == 'update':
+                update()
+                paths = read()
         elif cmd['type'] == 'dir tag':
             results = fm.search(paths, net_inp, cmd['dir tag'])
             fm.print_results(results)
-
         end_cmd = input(colorama.Fore.WHITE)
         if 'open' in end_cmd:
             open_file(results, end_cmd)
@@ -164,3 +179,4 @@ if __name__ == '__main__':
                           inp=end_cmd)
         elif end_cmd == 'clean':
             fm.clean()
+                    

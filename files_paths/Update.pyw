@@ -1,90 +1,96 @@
-import os, datetime
+import os
+import datetime
+import settings
 from time import sleep
 
-def update(**kwargs):
-    """
-    writes to a collections of .txts the trees of files and folders inside
+
+def calc_size(paths, sizes):
+    '''
+    calculates size of each path and modifies it inside of size list
+    '''
+    net_sizes = sizes[:]
+    for net_paths_index, net_path in enumerate(paths):
+        for net_paths_iterator_index, net_path_iterator in enumerate(paths[net_paths_index+1:]):
+            if net_path in net_path_iterator:
+                sizes[net_paths_index] += net_sizes[net_paths_index +
+                                                    net_paths_iterator_index]
+            else:
+                break
+
+
+def generate_txt(**kwargs):
+    '''
+    generates txt file with format: path|size|epock_creation_date
+    requires txt_path, sizes, paths, file_details(just for printing nothing else)
+    '''
+    txt_path = kwargs['txt_path'].split('\\')[1]  # get correct relative path
+    with open(txt_path, 'w') as file_object:
+        for path, size, file_detail in zip(kwargs['paths'], kwargs['sizes'], kwargs['file_details']):
+            file_object.write(f'{path}|{size}|{file_detail}\n')
+        print(f'Updated {kwargs["details"]["clips path"]}')
+    # if removed the .txt is going to be overwrriten even if path doesn't exist
+
+
+def update():
+    '''
+    Writes to a collections of .txts the trees of files and folders inside
     specific dirs
-    """
-    def calc_size(paths, sizes):
-       """calculates the real size of each path directly changing sizes list"""
-       net_sizes = sizes[:]
-       for index, path_outer in enumerate(paths):
-           for path_inner in paths[index:]:
-               if path_outer in path_inner:
-                   for hooked_index, path_inner_2 in enumerate(paths[index:]):
-                       if path_outer == path_inner_2:
-                           continue
-                       if path_outer in path_inner_2:
-                           sizes[index] += net_sizes[hooked_index+index]
-                       else:
-                           break
-                   break
-    
-    paths_txts = {"H:/Anime_2Tera":           "2_tera_animes_tree.txt",
-                  "H:/Movies_2Tera":          "2_tera_movies_tree.txt",
-                  "H:/TV Series_2Tera":       "2_tera_tv_tree.txt",
-                  "F:/Movies":                "main_hard_movies_f_tree.txt",
-                  "F:/TV Series":             "main hard_f_tv_series_tree.txt",
-                  "E:/Movies(2)":             "main_hard_movies_e_tree.txt",
-                  "G:/Anime_1Tera":           "1_tera_animes_tree.txt",
-                  "G:/Movies_1Tera":          "1_tera_movies_tree.txt",
-                  "G:/TV Series_1Tera":       "1_tera_tv_tree.txt",
-                  "E:/TV Series":             "main hard_e_tv_series_tree.txt", }
-    for dir_path, txt in paths_txts.items():
-        if not os.path.exists(dir_path):
+    '''
+    for txt_path, details in settings.txts.items():
+        if not os.path.exists(details['clips path']):
             continue
         paths = []
         sizes = []
-        txt_path = f"{txt}"#change this according to 
-        #current directory
-        for root, dirs, files in os.walk(dir_path):
+        file_details = []
+        for root, dirs, files in os.walk(details['clips path']):
             paths.append(root)
             sizes.append(os.path.getsize(paths[-1]))
+            file_details.append(os.path.getctime(root))
             for f in files:
-                paths.append(f"{root}{os.sep}{f}")
-                sizes.append(os.path.getsize(paths[-1]))
+                paths.append(f'{root}{os.sep}{f}')
+                try:
+                    sizes.append(os.path.getsize(paths[-1]))
+                    file_details.append(os.path.getctime(f'{root}{os.sep}{f}'))
+                except Exception:
+                    with open('errors.txt', 'a+') as file_obj:
+                        file_obj.write(f'{Exception}\n')
         calc_size(paths, sizes)
-        with open(txt_path, "w",encoding="utf-8") as file_object:#needs to be unicode
-            #the default is ascii
-            for path, size in zip(paths, sizes):
-                file_object.write(f"{path}|{size}\n")
-            print(f"Updated {dir_path}")
-    # if removed the .txt is going to be overwrriten even if path doesn't exist
-            
+        # if 'course' in txt_path:
+        #     for size, file_detail in zip(sizes,file_details):
+        #         print(size, file_detail)
+        generate_txt(paths=paths,
+                     sizes=sizes,
+                     details = details,
+                     file_details=file_details,
+                     txt_path= txt_path)
+    
+
+
 ###Main###
 update()
-updated_g=False
-updated_h=False
+updated_1_tera = False
+updated_2_tera = False
 while True:
-    print("====big loop====")
     while True:
-        print("-smal loop-")
-        if os.path.exists("H:/") and os.path.exists("G:/"):
-            path="Both"
-            print("both")
-            updated_h=True
-            updated_g=True
+        if os.path.exists(settings.dir_name_1_tera) and os.path.exists(settings.dir_name_2_tera):
+            path = 'Both'
+            updated_1_tera = True
+            updated_2_tera = True
             break
-        elif os.path.exists("H:/") and updated_h==False:
-            print("2 tera")
-            path="H:/ (2 Tera)"
-            updated_h=True
+        elif os.path.exists(settings.dir_name_2_tera) and updated_2_tera == False:
+            print('2 tera')
+            path = 'H:/ (2 Tera)'
+            updated_2_tera = True
             break
-        elif os.path.exists("G:/") and updated_g==False:
-            print("1 tera")
-            path="G:/ (1 tera)"
-            updated_g=True
+        elif os.path.exists(settings.dir_name_1_tera) and updated_1_tera == False:
+            print('1 tera')
+            path = 'G:/ (1 tera)'
+            updated_1_tera = True
             break
         else:
             sleep(1)
-    print("left checking loop")
-    update()#remember that it updates everything
-    with open("update.txt","a") as file_object:
-        file_object.write(f"{datetime.datetime.now()}  updated: {path}\n")
-    if updated_h==True and updated_g==True:
+    update()  # remember that it updates everything
+    with open('update.txt', 'a') as file_object:
+        file_object.write(f'{datetime.datetime.now()}  updated: {path}\n')
+    if updated_1_tera == True and updated_2_tera == True:
         exit()
-    
-    
-   
-        
