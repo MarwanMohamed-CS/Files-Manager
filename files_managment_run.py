@@ -79,9 +79,12 @@ def read():
             lines = file_object.read()
             lines = lines.split('\n')
             del lines[-1]
+            surface_path = lines[0].split('|')[0]
+            input(surface_path)
+            
             for line in lines:
                 file_path, file_size, file_details = line.split('|')
-                if os.path.dirname(file_path) == details['clips path']:
+                if os.path.dirname(file_path) == surface_path:
                     surface = True
                 else:
                     surface = False
@@ -142,9 +145,6 @@ if __name__ == '__main__':
     paths = read()
     os.system('cls')
     size = 0
-    for path in paths:
-        if path.file_type == 'movie':
-            size += path.size
     while True:
         os.system('cls')
         inp = input(f'{colorama.Fore.GREEN}Name: {colorama.Fore.WHITE}')
