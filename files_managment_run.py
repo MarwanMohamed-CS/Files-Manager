@@ -9,7 +9,6 @@ from time import sleep
 from guessit import guessit
 import files_manipulation as fm
 from files_paths import settings
-from files_paths import Update
 
 def update():
     '''
@@ -171,7 +170,6 @@ def main():
     os.system('cls')
     print('loading...')
     paths = read()    
-    os.system('python ')
     while True:
         os.system('cls')
         inp = input(f'{colorama.Fore.GREEN}Name: {colorama.Fore.WHITE}')
@@ -191,8 +189,7 @@ def main():
                 results = fm.get_clips(paths, cmd)
                 fm.print_results(results)
             elif cmd['func name'] == 'update':
-                Update.update_all()
-                paths = read()
+                pass
             elif cmd['func name'] == 'get_stats':
                 file_types = fm.get_stats(cmd, paths)
                 fm.print_stats(file_types)

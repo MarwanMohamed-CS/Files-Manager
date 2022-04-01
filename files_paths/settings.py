@@ -105,5 +105,6 @@ EMPTY_SIZE = 1024**2 * 200  # means 200MB is the empty size of a folder
 DESKTOP_PATH = r'C:\Users\COMPU1\Desktop'
 TO_DELETE_TXT_PATH = r'files_paths\\to_delete.txt'
 
+RESULTS_LIMIT = 100
 
 txts = get_txt()

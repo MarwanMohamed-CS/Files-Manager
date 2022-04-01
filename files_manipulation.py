@@ -232,10 +232,6 @@ def search(paths, search_for, dir_tag=''):
     results = []
     index = 0
     for path in paths:
-        if path.surface == True and (to_unit(path.size)[1] =='KB' or (to_unit(path.size)[1] =='MB' and int(to_unit(path.size)[0]) < 600)):
-            print(path.path)
-    input()
-    for path in paths:
         matches_count = 0
         if path.surface and search_for[0] in path.name.lower():
             for word in search_for:
@@ -277,7 +273,8 @@ def print_results(results, dups=False):
                                              colorama.Fore.YELLOW+'Creation Date'])
             num = 1
 
-            if type(results[-1]) == int: # if the end results contains the size of of all the results
+            # if the end results contains the size of of all the results
+            if type(results[-1]) == int:
                 size_table = prettytable.PrettyTable([colorama.Fore.YELLOW+'Totale Size',
                                                       ])
                 totale_results_size = results[-1]
@@ -287,7 +284,7 @@ def print_results(results, dups=False):
                 end = len(results) - 2
             else:
                 end = len(results)
-            
+
             for result in results[:end]:
                 size, unit = result.get_size()
                 if num == settings.RESULTS_LIMIT + 1:
@@ -301,7 +298,8 @@ def print_results(results, dups=False):
                                f'{size:<4} {unit}',
                                colorama.Fore.LIGHTBLUE_EX + f'{date}'])
                 num += 1
-            if type(results[-1]) == int: # if the end results contains the size of of all the results
+            # if the end results contains the size of of all the results
+            if type(results[-1]) == int:
                 print(table)
                 print(size_table)
             else:
@@ -360,11 +358,11 @@ def to_unit(size):
         size = size/1024**2
         size = int(size)
         unit = 'MB'
-    elif size < 10**12: # converts to GBs
-        size = size/ 1024**3
+    elif size < 10**12:  # converts to GBs
+        size = size / 1024**3
         size = round(size, 1)
         unit = 'GB'
-    else:# converts to TBs  
+    else:  # converts to TBs
         size = size/1024**4
         size = round(size, 3)  # rounds to a totale of 3 digits
         unit = 'TB'
