@@ -254,11 +254,9 @@ def search(paths, search_for, dir_tag=''):
     return results
 
 
-
 def delete(file_path):
     os.chmod(file_path, stat.S_IWRITE)
     os.remove(file_path)
-
 
 
 def print_results(results, dups=False):
