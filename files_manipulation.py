@@ -112,7 +112,7 @@ def binary_search(paths, search_for):
 
 def organize_files(paths):
     for path in paths:
-        if path.surface and path.file_type == 'movie' and os.path.isfile(path.path) and path.dir_tag == 'this pc e':
+        if path.surface and path.file_type == 'movie' kand os.path.isfile(path.path) and path.dir_tag == 'this pc e':
             input(path.path)
             to_folder(path.path)
             print('waiting')

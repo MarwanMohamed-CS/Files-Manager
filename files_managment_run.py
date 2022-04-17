@@ -4,6 +4,7 @@ import re
 from send2trash import send2trash
 from time import sleep
 from guessit import guessit
+from FilesManager import FilesManager
 import files_manipulation as fm
 from files_paths import settings
 
@@ -189,6 +190,8 @@ def get_rars_dirs(paths):
 def main():
     os.system('cls')
     print('loading...')
+    fm = FilesManager()
+    
     paths = read()
 
     while True:
