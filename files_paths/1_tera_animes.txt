@@ -1,0 +1,1022 @@
+H:Anime_1Tera|250551611481|1449861251.373069
+H:Anime_1Tera\list.txt|2942|1590871561.0341954
+H:Anime_1Tera\Afro Samurai|8192|1471024242.146403
+H:Anime_1Tera\Afro Samurai\desktop.ini|45|1471024325.811803
+H:Anime_1Tera\Akame Ga Kill|3315734322|1471024325.8148031
+H:Anime_1Tera\Akame Ga Kill\Akame Ga Kill Ep.1.mp4|284596570|1471024325.8228033
+H:Anime_1Tera\Akame Ga Kill\Akame Ga Kill Ep.10.mp4|125711701|1471024335.581803
+H:Anime_1Tera\Akame Ga Kill\Akame Ga Kill Ep.11.mp4|125854269|1471024340.094803
+H:Anime_1Tera\Akame Ga Kill\Akame Ga Kill Ep.12.mp4|125754288|1471024344.4538033
+H:Anime_1Tera\Akame Ga Kill\Akame Ga Kill Ep.13.mp4|125747001|1471024348.8238032
+H:Anime_1Tera\Akame Ga Kill\Akame Ga Kill Ep.14.mp4|125715521|1471024353.995803
+H:Anime_1Tera\Akame Ga Kill\Akame Ga Kill Ep.15.mp4|125679419|1471024358.844803
+H:Anime_1Tera\Akame Ga Kill\Akame Ga Kill Ep.16.mp4|129349268|1471024363.6498032
+H:Anime_1Tera\Akame Ga Kill\Akame Ga Kill Ep.17.mp4|124778871|1471024368.311803
+H:Anime_1Tera\Akame Ga Kill\Akame Ga Kill Ep.18.mp4|125864462|1471024373.0888033
+H:Anime_1Tera\Akame Ga Kill\Akame Ga Kill Ep.19.mp4|143654983|1471024377.7908032
+H:Anime_1Tera\Akame Ga Kill\Akame Ga Kill Ep.2.mp4|125897818|1471024383.0328033
+H:Anime_1Tera\Akame Ga Kill\Akame Ga Kill Ep.20.mp4|125730421|1471024387.742803
+H:Anime_1Tera\Akame Ga Kill\Akame Ga Kill Ep.21.mp4|125961035|1471024393.0018032
+H:Anime_1Tera\Akame Ga Kill\Akame Ga Kill Ep.22.mp4|126622821|1471024398.3308032
+H:Anime_1Tera\Akame Ga Kill\Akame Ga Kill Ep.23.mp4|126266327|1471024402.9208033
+H:Anime_1Tera\Akame Ga Kill\Akame Ga Kill Ep.24.mp4|241329087|1471024407.7438033
+H:Anime_1Tera\Akame Ga Kill\Akame Ga Kill Ep.3.mp4|125899330|1471024416.0068033
+H:Anime_1Tera\Akame Ga Kill\Akame Ga Kill Ep.4.mp4|125865187|1471024420.6258032
+H:Anime_1Tera\Akame Ga Kill\Akame Ga Kill Ep.5.mp4|125871597|1471024425.9208033
+H:Anime_1Tera\Akame Ga Kill\Akame Ga Kill Ep.6.mp4|125890142|1471024431.4578032
+H:Anime_1Tera\Akame Ga Kill\Akame Ga Kill Ep.7.mp4|125751320|1471024436.7308033
+H:Anime_1Tera\Akame Ga Kill\Akame Ga Kill Ep.8.mp4|125970986|1471024441.9018033
+H:Anime_1Tera\Akame Ga Kill\Akame Ga Kill Ep.9.mp4|125955514|1471024446.492803
+H:Anime_1Tera\Akame Ga Kill\desktop.ini|169|1471024450.933803
+H:Anime_1Tera\Aldnoah Zero|3951497689|1471024450.9358032
+H:Anime_1Tera\Aldnoah Zero\Aldnoah Zero S1|1865689880|1471024450.936803
+H:Anime_1Tera\Aldnoah Zero\Aldnoah Zero S1\Aldnoah Zero Ep.1.mkv|154767839|1471024450.9378033
+H:Anime_1Tera\Aldnoah Zero\Aldnoah Zero S1\Aldnoah Zero Ep.10.mkv|124043101|1471024457.3068032
+H:Anime_1Tera\Aldnoah Zero\Aldnoah Zero S1\Aldnoah Zero Ep.11.mkv|180629038|1471024462.176803
+H:Anime_1Tera\Aldnoah Zero\Aldnoah Zero S1\Aldnoah Zero Ep.12.mkv|238987378|1471024469.1338031
+H:Anime_1Tera\Aldnoah Zero\Aldnoah Zero S1\Aldnoah Zero Ep.2.mkv|195261130|1471024478.2022033
+H:Anime_1Tera\Aldnoah Zero\Aldnoah Zero S1\Aldnoah Zero Ep.3.mkv|195062072|1471024485.9778032
+H:Anime_1Tera\Aldnoah Zero\Aldnoah Zero S1\Aldnoah Zero Ep.4.mkv|179720209|1471024493.0610032
+H:Anime_1Tera\Aldnoah Zero\Aldnoah Zero S1\Aldnoah Zero Ep.5.mkv|159166289|1471024499.8234034
+H:Anime_1Tera\Aldnoah Zero\Aldnoah Zero S1\Aldnoah Zero Ep.6.mkv|130382802|1471024505.2808032
+H:Anime_1Tera\Aldnoah Zero\Aldnoah Zero S1\Aldnoah Zero Ep.7.mkv|172219422|1471024510.7036033
+H:Anime_1Tera\Aldnoah Zero\Aldnoah Zero S1\Aldnoah Zero Ep.8.mkv|135442408|1471024517.4380033
+H:Anime_1Tera\Aldnoah Zero\Aldnoah Zero S1\Aldnoah Zero Ep.9.mkv|140966267|1471024522.2140033
+H:Anime_1Tera\Aldnoah Zero\Aldnoah Zero S2|1944849734|1471024528.4446034
+H:Anime_1Tera\Aldnoah Zero\Aldnoah Zero S2\Aldnoah Zero Ep.1.mkv|148616961|1471024528.5150034
+H:Anime_1Tera\Aldnoah Zero\Aldnoah Zero S2\Aldnoah Zero Ep.10.mkv|189156660|1471024533.7228034
+H:Anime_1Tera\Aldnoah Zero\Aldnoah Zero S2\Aldnoah Zero Ep.11.mkv|139414704|1471024540.0886035
+H:Anime_1Tera\Aldnoah Zero\Aldnoah Zero S2\Aldnoah Zero Ep.12.mkv|244516514|1471024546.0572035
+H:Anime_1Tera\Aldnoah Zero\Aldnoah Zero S2\Aldnoah Zero Ep.2.mkv|180962175|1471024555.2342036
+H:Anime_1Tera\Aldnoah Zero\Aldnoah Zero S2\Aldnoah Zero Ep.3.mkv|204396126|1471024562.4152036
+H:Anime_1Tera\Aldnoah Zero\Aldnoah Zero S2\Aldnoah Zero Ep.4.mkv|180954501|1471024570.2592034
+H:Anime_1Tera\Aldnoah Zero\Aldnoah Zero S2\Aldnoah Zero Ep.5.mkv|134642986|1471024577.6962035
+H:Anime_1Tera\Aldnoah Zero\Aldnoah Zero S2\Aldnoah Zero Ep.6.mkv|201749835|1471024582.7202034
+H:Anime_1Tera\Aldnoah Zero\Aldnoah Zero S2\Aldnoah Zero Ep.7.mkv|154897231|1471024590.0282035
+H:Anime_1Tera\Aldnoah Zero\Aldnoah Zero S2\Aldnoah Zero Ep.8.mkv|165533849|1471024595.6682036
+H:Anime_1Tera\Aldnoah Zero\Aldnoah Zero S2\Aldnoah Zero Ep.9.mkv|187177783|1471024601.9662035
+H:Anime_1Tera\Arslan Senki|10478396271|1445008000.0041413
+H:Anime_1Tera\Arslan Senki\S1|7045683945|1589533022.7355585
+H:Anime_1Tera\Arslan Senki\S1\Arslan Senki Ep.1.mp4|277949825|1445008000.0761454
+H:Anime_1Tera\Arslan Senki\S1\Arslan Senki Ep.10.mp4|262748592|1445008857.6481957
+H:Anime_1Tera\Arslan Senki\S1\Arslan Senki Ep.11.mp4|263160494|1445008929.92733
+H:Anime_1Tera\Arslan Senki\S1\Arslan Senki Ep.12.mp4|263344177|1445009001.8684447
+H:Anime_1Tera\Arslan Senki\S1\Arslan Senki Ep.13.5.mp4|262158995|1445009145.0396335
+H:Anime_1Tera\Arslan Senki\S1\Arslan Senki Ep.13.mp4|263300013|1445009072.474483
+H:Anime_1Tera\Arslan Senki\S1\Arslan Senki Ep.14.mp4|263776422|1445009216.8567412
+H:Anime_1Tera\Arslan Senki\S1\Arslan Senki Ep.15.mp4|265594154|1445009288.3118284
+H:Anime_1Tera\Arslan Senki\S1\Arslan Senki Ep.16.mp4|293112608|1445009357.2317703
+H:Anime_1Tera\Arslan Senki\S1\Arslan Senki Ep.17.mp4|293124197|1445009436.9043274
+H:Anime_1Tera\Arslan Senki\S1\Arslan Senki Ep.18.mp4|283082225|1445009515.7448368
+H:Anime_1Tera\Arslan Senki\S1\Arslan Senki Ep.19.mp4|311586955|1445009591.8781912
+H:Anime_1Tera\Arslan Senki\S1\Arslan Senki Ep.2.mp4|268761532|1445008193.5612123
+H:Anime_1Tera\Arslan Senki\S1\Arslan Senki Ep.20.mp4|311836762|1445009675.845994
+H:Anime_1Tera\Arslan Senki\S1\Arslan Senki Ep.21.mp4|293622613|1445009760.5258374
+H:Anime_1Tera\Arslan Senki\S1\Arslan Senki Ep.22.mp4|293466095|1445009841.4434657
+H:Anime_1Tera\Arslan Senki\S1\Arslan Senki Ep.23.mp4|293025308|1445009923.0671341
+H:Anime_1Tera\Arslan Senki\S1\Arslan Senki Ep.24.mp4|316114484|1450466782.052121
+H:Anime_1Tera\Arslan Senki\S1\Arslan Senki Ep.25 End.mp4|353553042|1450466811.793822
+H:Anime_1Tera\Arslan Senki\S1\Arslan Senki Ep.3.mp4|268804541|1445008301.5573893
+H:Anime_1Tera\Arslan Senki\S1\Arslan Senki Ep.4.mp4|240946684|1445008417.0349941
+H:Anime_1Tera\Arslan Senki\S1\Arslan Senki Ep.5.mp4|268825967|1445008480.4356203
+H:Anime_1Tera\Arslan Senki\S1\Arslan Senki Ep.6.mp4|291754926|1445008554.5368588
+H:Anime_1Tera\Arslan Senki\S1\Arslan Senki Ep.7.mp4|273122501|1445008632.8953407
+H:Anime_1Tera\Arslan Senki\S1\Arslan Senki Ep.8.mp4|268894449|1445008708.4206605
+H:Anime_1Tera\Arslan Senki\S1\Arslan Senki Ep.9.mp4|278175849|1445008781.2748275
+H:Anime_1Tera\Arslan Senki\S2|3154536477|1589533012.846791
+H:Anime_1Tera\Arslan Senki\S2\[zi-m.com] Arslan Senki Fuujin Ranbu HD .EP01.mp4|284939726|1589533012.8607538
+H:Anime_1Tera\Arslan Senki\S2\[zi-m.com] Arslan Senki Fuujin Ranbu HD .EP01.ogv|115626700|1589533038.099366
+H:Anime_1Tera\Arslan Senki\S2\[zi-m.com] Arslan Senki Fuujin Ranbu HD .EP02.mp4|283216196|1589533048.7036955
+H:Anime_1Tera\Arslan Senki\S2\[zi-m.com] Arslan Senki Fuujin Ranbu HD .EP02.ogv|115526407|1589533075.8879354
+H:Anime_1Tera\Arslan Senki\S2\[zi-m.com] Arslan Senki Fuujin Ranbu HD .EP03.mp4|277579971|1589533087.8761537
+H:Anime_1Tera\Arslan Senki\S2\[zi-m.com] Arslan Senki Fuujin Ranbu HD .EP03.ogv|115306020|1589533115.2338653
+H:Anime_1Tera\Arslan Senki\S2\[zi-m.com] Arslan Senki Fuujin Ranbu HD .EP04.mp4|293707634|1589533126.0612905
+H:Anime_1Tera\Arslan Senki\S2\[zi-m.com] Arslan Senki Fuujin Ranbu HD .EP04.ogv|115695204|1589533155.7503119
+H:Anime_1Tera\Arslan Senki\S2\[zi-m.com] Arslan Senki Fuujin Ranbu HD .EP05.mp4|284077019|1589533168.3786924
+H:Anime_1Tera\Arslan Senki\S2\[zi-m.com] Arslan Senki Fuujin Ranbu HD .EP05.ogv|114203986|1589533204.0064092
+H:Anime_1Tera\Arslan Senki\S2\[zi-m.com] Arslan Senki Fuujin Ranbu HD .EP06.mp4|265644554|1589533218.747464
+H:Anime_1Tera\Arslan Senki\S2\[zi-m.com] Arslan Senki Fuujin Ranbu HD .EP06.ogv|113746219|1589533255.7049387
+H:Anime_1Tera\Arslan Senki\S2\[zi-m.com] Arslan Senki Fuujin Ranbu HD .EP07.mp4|272602581|1589533270.311118
+H:Anime_1Tera\Arslan Senki\S2\[zi-m.com] Arslan Senki Fuujin Ranbu HD .EP07.ogv|114910067|1589533305.8906841
+H:Anime_1Tera\Arslan Senki\S2\[zi-m.com] Arslan Senki Fuujin Ranbu HD .EP08.mp4|272430688|1589533325.7846355
+H:Anime_1Tera\Arslan Senki\S2\[zi-m.com] Arslan Senki Fuujin Ranbu HD .EP08.ogv|115307121|1589533365.567589
+H:Anime_1Tera\Arslan Senki\S2\~uTorrentPartFile_BD400000.dat|17167616|1589533385.0492287
+H:Anime_1Tera\Avatar The Last Airbender|12632700042|1444546987.1097212
+H:Anime_1Tera\Avatar The Last Airbender\Book 1|3987087854|1444627615.2835414
+H:Anime_1Tera\Avatar The Last Airbender\Book 1\Avatar The Last Airbender Ep.1.avi|190084432|1444548760.5153978
+H:Anime_1Tera\Avatar The Last Airbender\Book 1\Avatar The Last Airbender Ep.10.avi|210983510|1444550375.5275745
+H:Anime_1Tera\Avatar The Last Airbender\Book 1\Avatar The Last Airbender Ep.11.avi|210975158|1444550438.7525356
+H:Anime_1Tera\Avatar The Last Airbender\Book 1\Avatar The Last Airbender Ep.12.avi|210932732|1444550455.4855309
+H:Anime_1Tera\Avatar The Last Airbender\Book 1\Avatar The Last Airbender Ep.13.avi|210991154|1444550479.7747538
+H:Anime_1Tera\Avatar The Last Airbender\Book 1\Avatar The Last Airbender Ep.14.avi|211008420|1444550494.4508033
+H:Anime_1Tera\Avatar The Last Airbender\Book 1\Avatar The Last Airbender Ep.15.avi|210986972|1444550579.1185193
+H:Anime_1Tera\Avatar The Last Airbender\Book 1\Avatar The Last Airbender Ep.16.avi|210960724|1444562853.3363042
+H:Anime_1Tera\Avatar The Last Airbender\Book 1\Avatar The Last Airbender Ep.17.avi|210982612|1444562874.842651
+H:Anime_1Tera\Avatar The Last Airbender\Book 1\Avatar The Last Airbender Ep.18.avi|210998724|1444562922.2867565
+H:Anime_1Tera\Avatar The Last Airbender\Book 1\Avatar The Last Airbender Ep.19.avi|210990926|1444562970.192566
+H:Anime_1Tera\Avatar The Last Airbender\Book 1\Avatar The Last Airbender Ep.2.avi|210882772|1444548774.8188522
+H:Anime_1Tera\Avatar The Last Airbender\Book 1\Avatar The Last Airbender Ep.20.avi|210985494|1444563008.274386
+H:Anime_1Tera\Avatar The Last Airbender\Book 1\Avatar The Last Airbender Ep.3.avi|210900996|1444548832.8031015
+H:Anime_1Tera\Avatar The Last Airbender\Book 1\Avatar The Last Airbender Ep.4.avi|210872550|1444548863.8550406
+H:Anime_1Tera\Avatar The Last Airbender\Book 1\Avatar The Last Airbender Ep.5.avi|210939982|1444548979.07567
+H:Anime_1Tera\Avatar The Last Airbender\Book 1\Avatar The Last Airbender Ep.6.avi|210840226|1444550241.494014
+H:Anime_1Tera\Avatar The Last Airbender\Book 1\Avatar The Last Airbender Ep.7.avi|210968908|1444550311.6622095
+H:Anime_1Tera\Avatar The Last Airbender\Book 1\Avatar The Last Airbender Ep.8.avi|210785178|1444550260.466858
+H:Anime_1Tera\Avatar The Last Airbender\Book 1\Avatar The Last Airbender Ep.9.avi|210895556|1444550357.7323415
+H:Anime_1Tera\Avatar The Last Airbender\Book 2|4005107212|1444627551.4840891
+H:Anime_1Tera\Avatar The Last Airbender\Book 2\Avatar The Last Airbender Ep.1.avi|210786502|1444536794.6092746
+H:Anime_1Tera\Avatar The Last Airbender\Book 2\Avatar The Last Airbender Ep.10.avi|210799364|1444540262.8900962
+H:Anime_1Tera\Avatar The Last Airbender\Book 2\Avatar The Last Airbender Ep.11.avi|210732980|1444540277.8142197
+H:Anime_1Tera\Avatar The Last Airbender\Book 2\Avatar The Last Airbender Ep.12.avi|210654674|1444540294.5141332
+H:Anime_1Tera\Avatar The Last Airbender\Book 2\Avatar The Last Airbender Ep.13.avi|210783946|1444543804.737423
+H:Anime_1Tera\Avatar The Last Airbender\Book 2\Avatar The Last Airbender Ep.14.avi|210808286|1444543844.4483213
+H:Anime_1Tera\Avatar The Last Airbender\Book 2\Avatar The Last Airbender Ep.15.avi|210819788|1444544228.1470594
+H:Anime_1Tera\Avatar The Last Airbender\Book 2\Avatar The Last Airbender Ep.16.avi|210805948|1444544244.4264786
+H:Anime_1Tera\Avatar The Last Airbender\Book 2\Avatar The Last Airbender Ep.17.avi|210807378|1444546647.3017051
+H:Anime_1Tera\Avatar The Last Airbender\Book 2\Avatar The Last Airbender Ep.18.avi|210873246|1444546660.542482
+H:Anime_1Tera\Avatar The Last Airbender\Book 2\Avatar The Last Airbender Ep.19.avi|210820540|1444546690.0533214
+H:Anime_1Tera\Avatar The Last Airbender\Book 2\Avatar The Last Airbender Ep.2.avi|210802418|1444536896.2786205
+H:Anime_1Tera\Avatar The Last Airbender\Book 2\Avatar The Last Airbender Ep.20.avi|210779666|1444546706.0838857
+H:Anime_1Tera\Avatar The Last Airbender\Book 2\Avatar The Last Airbender Ep.3.avi|210777396|1444537006.8901184
+H:Anime_1Tera\Avatar The Last Airbender\Book 2\Avatar The Last Airbender Ep.4.avi|210830938|1444538541.1752877
+H:Anime_1Tera\Avatar The Last Airbender\Book 2\Avatar The Last Airbender Ep.5.avi|210832518|1444538645.382085
+H:Anime_1Tera\Avatar The Last Airbender\Book 2\Avatar The Last Airbender Ep.6.avi|210785728|1444538671.2776737
+H:Anime_1Tera\Avatar The Last Airbender\Book 2\Avatar The Last Airbender Ep.7.avi|210812464|1444540128.2912064
+H:Anime_1Tera\Avatar The Last Airbender\Book 2\Avatar The Last Airbender Ep.8.avi|210777048|1444540161.841201
+H:Anime_1Tera\Avatar The Last Airbender\Book 2\Avatar The Last Airbender Ep.9.avi|210807946|1444540201.0092075
+H:Anime_1Tera\Avatar The Last Airbender\Book 3|4218817858|1444633717.7911212
+H:Anime_1Tera\Avatar The Last Airbender\Book 3\Avatar The Last Airbender Ep.1.avi|211042186|1444627729.187197
+H:Anime_1Tera\Avatar The Last Airbender\Book 3\Avatar The Last Airbender Ep.10.avi|210831564|1444631558.0306106
+H:Anime_1Tera\Avatar The Last Airbender\Book 3\Avatar The Last Airbender Ep.11.avi|210857786|1444633317.397932
+H:Anime_1Tera\Avatar The Last Airbender\Book 3\Avatar The Last Airbender Ep.12.avi|210848370|1444633341.4106133
+H:Anime_1Tera\Avatar The Last Airbender\Book 3\Avatar The Last Airbender Ep.13.avi|210869748|1444633463.6704183
+H:Anime_1Tera\Avatar The Last Airbender\Book 3\Avatar The Last Airbender Ep.14.avi|210845142|1444633432.49698
+H:Anime_1Tera\Avatar The Last Airbender\Book 3\Avatar The Last Airbender Ep.15.avi|210650286|1444633491.802075
+H:Anime_1Tera\Avatar The Last Airbender\Book 3\Avatar The Last Airbender Ep.16.avi|210732292|1444633513.3763804
+H:Anime_1Tera\Avatar The Last Airbender\Book 3\Avatar The Last Airbender Ep.17.avi|210671410|1444633533.2142067
+H:Anime_1Tera\Avatar The Last Airbender\Book 3\Avatar The Last Airbender Ep.18.avi|210646972|1444633548.6633575
+H:Anime_1Tera\Avatar The Last Airbender\Book 3\Avatar The Last Airbender Ep.19.avi|210908356|1444633570.868711
+H:Anime_1Tera\Avatar The Last Airbender\Book 3\Avatar The Last Airbender Ep.2.avi|211014322|1444627761.7612479
+H:Anime_1Tera\Avatar The Last Airbender\Book 3\Avatar The Last Airbender Ep.20.avi|210893804|1444633588.0363977
+H:Anime_1Tera\Avatar The Last Airbender\Book 3\Avatar The Last Airbender Ep.21.mp4|212349992|1444633611.6979337
+H:Anime_1Tera\Avatar The Last Airbender\Book 3\Avatar The Last Airbender Ep.3.avi|210969498|1444627782.101091
+H:Anime_1Tera\Avatar The Last Airbender\Book 3\Avatar The Last Airbender Ep.4.avi|211020530|1444628098.6478555
+H:Anime_1Tera\Avatar The Last Airbender\Book 3\Avatar The Last Airbender Ep.5.avi|211049164|1444629930.12711
+H:Anime_1Tera\Avatar The Last Airbender\Book 3\Avatar The Last Airbender Ep.6.avi|210786100|1444629946.9009745
+H:Anime_1Tera\Avatar The Last Airbender\Book 3\Avatar The Last Airbender Ep.7.avi|211064458|1444629973.929176
+H:Anime_1Tera\Avatar The Last Airbender\Book 3\Avatar The Last Airbender Ep.8.avi|210749494|1444631525.3070915
+H:Anime_1Tera\Avatar The Last Airbender\Book 3\Avatar The Last Airbender Ep.9.avi|211031552|1444631541.8808782
+H:Anime_1Tera\Avatar The Legend Of Korra|11449578270|1446244797.032641
+H:Anime_1Tera\Avatar The Legend Of Korra\S1|1632031532|1446245017.8066618
+H:Anime_1Tera\Avatar The Legend Of Korra\S1\Avatar Legend Of Kora Ep.1.2.avi|177216435|1446245017.8076591
+H:Anime_1Tera\Avatar The Legend Of Korra\S1\Avatar Legend Of Kora Ep.10.mp4|84353253|1446245030.532145
+H:Anime_1Tera\Avatar The Legend Of Korra\S1\Avatar Legend Of Kora Ep.11.mp4|140481873|1446245033.4072466
+H:Anime_1Tera\Avatar The Legend Of Korra\S1\Avatar Legend Of Kora Ep.12.mp4|147278707|1446245040.4017496
+H:Anime_1Tera\Avatar The Legend Of Korra\S1\Avatar Legend Of Kora Ep.3.mp4|251237120|1446245048.436421
+H:Anime_1Tera\Avatar The Legend Of Korra\S1\Avatar Legend Of Kora Ep.4.mp4|82518785|1446245058.8286216
+H:Anime_1Tera\Avatar The Legend Of Korra\S1\Avatar Legend Of Kora Ep.5.mp4|250015056|1446245064.21903
+H:Anime_1Tera\Avatar The Legend Of Korra\S1\Avatar Legend Of Kora Ep.6.mp4|251049303|1446245079.0830352
+H:Anime_1Tera\Avatar The Legend Of Korra\S1\Avatar Legend Of Kora Ep.7.mp4|82939288|1446245093.0933473
+H:Anime_1Tera\Avatar The Legend Of Korra\S1\Avatar Legend Of Kora Ep.8.mp4|81128860|1446245098.5364785
+H:Anime_1Tera\Avatar The Legend Of Korra\S1\Avatar Legend Of Kora Ep.9.mp4|83804660|1446245099.931151
+H:Anime_1Tera\Avatar The Legend Of Korra\S1\desktop.ini|79|1446245109.8671308
+H:Anime_1Tera\Avatar The Legend Of Korra\S2|3198868741|1446245109.870133
+H:Anime_1Tera\Avatar The Legend Of Korra\S2\Avatar Legend Of Kora Ep.1.avi|285331456|1446245109.871131
+H:Anime_1Tera\Avatar The Legend Of Korra\S2\Avatar Legend Of Kora Ep.10.mkv|170203438|1446245124.3765714
+H:Anime_1Tera\Avatar The Legend Of Korra\S2\Avatar Legend Of Kora Ep.11.mp4|209786549|1446245249.980203
+H:Anime_1Tera\Avatar The Legend Of Korra\S2\Avatar Legend Of Kora Ep.12.mp4|178333593|1446245264.1609232
+H:Anime_1Tera\Avatar The Legend Of Korra\S2\Avatar Legend Of Kora Ep.13.mp4|284552487|1446245273.7735393
+H:Anime_1Tera\Avatar The Legend Of Korra\S2\Avatar Legend Of Kora Ep.14.mp4|278243682|1446245292.5940125
+H:Anime_1Tera\Avatar The Legend Of Korra\S2\Avatar Legend Of Kora Ep.2.mp4|209338368|1446245134.9510758
+H:Anime_1Tera\Avatar The Legend Of Korra\S2\Avatar Legend Of Kora Ep.3.mp4|160350208|1446245146.7924345
+H:Anime_1Tera\Avatar The Legend Of Korra\S2\Avatar Legend Of Kora Ep.4.mp4|148041728|1446245163.360666
+H:Anime_1Tera\Avatar The Legend Of Korra\S2\Avatar Legend Of Kora Ep.5.avi|240066560|1446245173.8450897
+H:Anime_1Tera\Avatar The Legend Of Korra\S2\Avatar Legend Of Kora Ep.6.mp4|274932193|1446245189.5858805
+H:Anime_1Tera\Avatar The Legend Of Korra\S2\Avatar Legend Of Kora Ep.7.mp4|265738829|1446245205.9993522
+H:Anime_1Tera\Avatar The Legend Of Korra\S2\Avatar Legend Of Kora Ep.8.mp4|326849902|1446245221.4122324
+H:Anime_1Tera\Avatar The Legend Of Korra\S2\Avatar Legend Of Kora Ep.9.mkv|167091556|1446245242.4950047
+H:Anime_1Tera\Avatar The Legend Of Korra\S2\desktop.ini|79|1446245249.8659582
+H:Anime_1Tera\Avatar The Legend Of Korra\S3|3438600764|1446244837.054438
+H:Anime_1Tera\Avatar The Legend Of Korra\S3\Avatar Legend Of Kora Ep.1.2.mp4|552360594|1446244837.055438
+H:Anime_1Tera\Avatar The Legend Of Korra\S3\Avatar Legend Of Kora Ep.10.mp4|262173566|1446244858.597155
+H:Anime_1Tera\Avatar The Legend Of Korra\S3\Avatar Legend Of Kora Ep.11.mkv|316041327|1446244551.2528212
+H:Anime_1Tera\Avatar The Legend Of Korra\S3\Avatar Legend Of Kora Ep.12.mp4|256937444|1446244870.9798281
+H:Anime_1Tera\Avatar The Legend Of Korra\S3\Avatar Legend Of Kora Ep.13.mp4|308713310|1446244886.4409704
+H:Anime_1Tera\Avatar The Legend Of Korra\S3\Avatar Legend Of Kora Ep.3.mp4|305997617|1446244904.6313684
+H:Anime_1Tera\Avatar The Legend Of Korra\S3\Avatar Legend Of Kora Ep.4.mp4|323717961|1446244921.935971
+H:Anime_1Tera\Avatar The Legend Of Korra\S3\Avatar Legend Of Kora Ep.5.mp4|279329282|1446244939.6702416
+H:Anime_1Tera\Avatar The Legend Of Korra\S3\Avatar Legend Of Kora Ep.6.mp4|262291870|1446244960.3784955
+H:Anime_1Tera\Avatar The Legend Of Korra\S3\Avatar Legend Of Kora Ep.7.mp4|288546888|1446244972.3839538
+H:Anime_1Tera\Avatar The Legend Of Korra\S3\Avatar Legend Of Kora Ep.8.mp4|282482713|1446244988.3774002
+H:Anime_1Tera\Avatar The Legend Of Korra\S3\Avatar Legend Of Kora Ep.9.mp4|218642582|1446245003.4387069
+H:Anime_1Tera\Avatar The Legend Of Korra\S4|2961450877|1446211745.1201708
+H:Anime_1Tera\Avatar The Legend Of Korra\S4\Avatar The Legend Of Korra Ep.1.mp4|241368765|1446211818.7203805
+H:Anime_1Tera\Avatar The Legend Of Korra\S4\Avatar The Legend Of Korra Ep.10.mp4|233779491|1446211856.3055303
+H:Anime_1Tera\Avatar The Legend Of Korra\S4\Avatar The Legend Of Korra Ep.11.mp4|243478807|1446211890.6574953
+H:Anime_1Tera\Avatar The Legend Of Korra\S4\Avatar The Legend Of Korra Ep.12.mp4|273116463|1446211926.145525
+H:Anime_1Tera\Avatar The Legend Of Korra\S4\Avatar The Legend Of Korra Ep.13.mp4|352896466|1446211963.6226685
+H:Anime_1Tera\Avatar The Legend Of Korra\S4\Avatar The Legend Of Korra Ep.2.mp4|190046501|1446211745.2501783
+H:Anime_1Tera\Avatar The Legend Of Korra\S4\Avatar The Legend Of Korra Ep.3.mp4|219455583|1446212005.5820684
+H:Anime_1Tera\Avatar The Legend Of Korra\S4\Avatar The Legend Of Korra Ep.4.mkv|148305468|1446212027.062297
+H:Anime_1Tera\Avatar The Legend Of Korra\S4\Avatar The Legend Of Korra Ep.5.mp4|264172789|1446211773.4707925
+H:Anime_1Tera\Avatar The Legend Of Korra\S4\Avatar The Legend Of Korra Ep.6.mp4|266252007|1446212042.9742072
+H:Anime_1Tera\Avatar The Legend Of Korra\S4\Avatar The Legend Of Korra Ep.7.mp4|271591116|1446212073.2129369
+H:Anime_1Tera\Avatar The Legend Of Korra\S4\Avatar The Legend Of Korra Ep.8.mp4|256979229|1446212099.633448
+H:Anime_1Tera\Avatar The Legend Of Korra\S4\Avatar The Legend Of Korra Ep.9.mp4|237791381|1446212128.2650857
+H:Anime_1Tera\Charlotte|3620085199|1444522864.1666682
+H:Anime_1Tera\Charlotte\Charlotte Ep.1.mp4|314677036|1444508940.7299995
+H:Anime_1Tera\Charlotte\Charlotte Ep.10.mp4|314784134|1444515869.7303307
+H:Anime_1Tera\Charlotte\Charlotte Ep.11.mp4|315178505|1444515953.7956407
+H:Anime_1Tera\Charlotte\Charlotte Ep.12.mp4|293488320|1444516012.1769311
+H:Anime_1Tera\Charlotte\Charlotte Ep.13.mp4|336277473|1444516085.6091614
+H:Anime_1Tera\Charlotte\Charlotte Ep.2.mp4|262381600|1444509159.0027885
+H:Anime_1Tera\Charlotte\Charlotte Ep.3.mp4|262084489|1444509240.6070683
+H:Anime_1Tera\Charlotte\Charlotte Ep.4.mp4|262350970|1444509805.908013
+H:Anime_1Tera\Charlotte\Charlotte Ep.5.mp4|314688115|1444509837.7296395
+H:Anime_1Tera\Charlotte\Charlotte Ep.6.mp4|314710394|1444513250.0860057
+H:Anime_1Tera\Charlotte\Charlotte Ep.7.mp4|314729961|1444513281.9886198
+H:Anime_1Tera\Charlotte\Charlotte Ep.8.mp4|314726010|1444513313.389244
+H:Anime_1Tera\Charlotte\Charlotte Ep.9.mp4|293923054|1444513422.732697
+H:Anime_1Tera\Clym|4688065123|1446224460.7781284
+H:Anime_1Tera\Clym\Clym Ep.1.avi|189424221|1446224460.789129
+H:Anime_1Tera\Clym\Clym Ep.10.avi|189540181|1446224465.6224055
+H:Anime_1Tera\Clym\Clym Ep.11.avi|189439824|1446224470.8857064
+H:Anime_1Tera\Clym\Clym Ep.12.avi|189449585|1446224474.0098853
+H:Anime_1Tera\Clym\Clym Ep.13.avi|189542604|1446224477.711097
+H:Anime_1Tera\Clym\Clym Ep.14.avi|189448661|1446224482.7193835
+H:Anime_1Tera\Clym\Clym Ep.15.avi|189430737|1446224484.8955078
+H:Anime_1Tera\Clym\Clym Ep.16.avi|189422793|1446224489.6627805
+H:Anime_1Tera\Clym\Clym Ep.17.avi|189570293|1446224495.2420995
+H:Anime_1Tera\Clym\Clym Ep.18.avi|189571930|1446224500.8244188
+H:Anime_1Tera\Clym\Clym Ep.19.avi|189493614|1446224506.5727477
+H:Anime_1Tera\Clym\Clym Ep.2.avi|189472910|1446224510.8339913
+H:Anime_1Tera\Clym\Clym Ep.20.avi|189603211|1446224516.266302
+H:Anime_1Tera\Clym\Clym Ep.21.avi|189442252|1446224520.284532
+H:Anime_1Tera\Clym\Clym Ep.22.mp4|140807574|1446224524.2247574
+H:Anime_1Tera\Clym\Clym Ep.23.avi|189500000|1446224528.3929958
+H:Anime_1Tera\Clym\Clym Ep.24.avi|189330594|1446224533.851308
+H:Anime_1Tera\Clym\Clym Ep.25.avi|189494626|1446224539.3446221
+H:Anime_1Tera\Clym\Clym Ep.26.avi|189536136|1446224544.322907
+H:Anime_1Tera\Clym\Clym Ep.3.avi|189452419|1446224546.2450168
+H:Anime_1Tera\Clym\Clym Ep.4.avi|189396967|1446224551.5793219
+H:Anime_1Tera\Clym\Clym Ep.5.avi|189415103|1446224556.9976318
+H:Anime_1Tera\Clym\Clym Ep.6.avi|189419241|1446224562.6429548
+H:Anime_1Tera\Clym\Clym Ep.7.avi|189375492|1446224566.0451493
+H:Anime_1Tera\Clym\Clym Ep.8.avi|189467771|1446224568.7013013
+H:Anime_1Tera\Clym\Clym Ep.9.avi|189482255|1446224574.0926096
+H:Anime_1Tera\Corpse Party Tortured|4502366930|1449869919.5198586
+H:Anime_1Tera\Corpse Party Tortured\Corpse Party Tortured Ep.1.mp4|1285246117|1449869919.5228589
+H:Anime_1Tera\Corpse Party Tortured\Corpse Party Tortured Ep.2.mp4|1608481388|1449869968.84368
+H:Anime_1Tera\Corpse Party Tortured\Corpse Party Tortured Ep.3.mp4|1608631233|1449870029.9931774
+H:Anime_1Tera\Corpse Party Tortured\Corpse Party Tortured Ep.4.mp4|1391913973|1449870091.8827174
+H:Anime_1Tera\Danganropa|4773759492|1470005623.1061072
+H:Anime_1Tera\Danganropa\www.animesan1.com_Danganronpa_HD__EP01.mkv|313887633|1469968960.0871024
+H:Anime_1Tera\Danganropa\www.animesan1.com_Danganronpa_HD__EP02.mkv|364355033|1469968988.2517135
+H:Anime_1Tera\Danganropa\www.animesan1.com_Danganronpa_HD__EP03.mkv|265199468|1469970886.0832632
+H:Anime_1Tera\Danganropa\www.animesan1.com_Danganronpa_HD__EP04.mkv|303767988|1469973025.3686233
+H:Anime_1Tera\Danganropa\www.animesan1.com_Danganronpa_HD__EP05.mkv|360964967|1469973047.8589096
+H:Anime_1Tera\Danganropa\www.animesan1.com_Danganronpa_HD__EP06.mkv|528939354|1469974635.054692
+H:Anime_1Tera\Danganropa\www.animesan1.com_Danganronpa_HD__EP07.mkv|586502252|1469974677.6621292
+H:Anime_1Tera\Danganropa\www.animesan1.com_Danganronpa_HD__EP08.mkv|471341795|1469981769.6827695
+H:Anime_1Tera\Danganropa\www.animesan1.com_Danganronpa_HD__EP09.mkv|459927587|1469982116.6726162
+H:Anime_1Tera\Danganropa\www.animesan1.com_Danganronpa_HD__EP10.mkv|457153039|1469982162.4732358
+H:Anime_1Tera\Danganropa\www.animesan1.com_Danganronpa_HD__EP11.mkv|386756288|1469982261.6699095
+H:Anime_1Tera\Danganropa\www.animesan1.com_Danganronpa_HD__EP12.mkv|274955896|1469983727.1057277
+H:Anime_1Tera\Danganropa\www.animesan1.com_Danganronpa_HD__EP13.mkv|337954862|1469983755.9663785
+H:Anime_1Tera\DanMachi|3236480647|1452143869.4791498
+H:Anime_1Tera\DanMachi\DanMachi Ep.1.mp4|279704656|1452143869.5191522
+H:Anime_1Tera\DanMachi\DanMachi Ep.10.mp4|252422564|1452143888.9862657
+H:Anime_1Tera\DanMachi\DanMachi Ep.11.mp4|275392949|1452143906.5382695
+H:Anime_1Tera\DanMachi\DanMachi Ep.12.mp4|271813645|1452143926.0063832
+H:Anime_1Tera\DanMachi\DanMachi Ep.13.mp4|243948116|1452143944.6694505
+H:Anime_1Tera\DanMachi\DanMachi Ep.2.mp4|291144574|1452143961.5344152
+H:Anime_1Tera\DanMachi\DanMachi Ep.3.mp4|262126735|1452143982.2445998
+H:Anime_1Tera\DanMachi\DanMachi Ep.4.mp4|320934539|1452144000.8626647
+H:Anime_1Tera\DanMachi\DanMachi Ep.5.mp4|256497296|1452144023.8369787
+H:Anime_1Tera\DanMachi\DanMachi Ep.6.mp4|233213384|1452144046.0172472
+H:Anime_1Tera\DanMachi\DanMachi Ep.7.mp4|281285822|1452144060.7450898
+H:Anime_1Tera\DanMachi\DanMachi Ep.8.mp4|267988175|1452144078.826124
+H:Anime_1Tera\DanMachi\DanMachi Ep.9.mp4|256577611|1452144097.7472062
+H:Anime_1Tera\Darker Than Black|8804736174|1451585503.830598
+H:Anime_1Tera\Darker Than Black\1.mp4|209214487|1451585503.8325982
+H:Anime_1Tera\Darker Than Black\10.mp4|209469102|1451585513.9901793
+H:Anime_1Tera\Darker Than Black\11.mp4|209405654|1451585523.9067464
+H:Anime_1Tera\Darker Than Black\12.mp4|209233525|1451585533.6783054
+H:Anime_1Tera\Darker Than Black\13.mp4|209406316|1451585543.511868
+H:Anime_1Tera\Darker Than Black\14.mp4|209352875|1451585552.9974103
+H:Anime_1Tera\Darker Than Black\15.mp4|209458400|1451585562.4879532
+H:Anime_1Tera\Darker Than Black\16.mp4|209390460|1451585572.5275276
+H:Anime_1Tera\Darker Than Black\17.mp4|209437292|1451585582.4590955
+H:Anime_1Tera\Darker Than Black\18.mp4|209401671|1451585592.1996527
+H:Anime_1Tera\Darker Than Black\19.mp4|209391729|1451585602.1942244
+H:Anime_1Tera\Darker Than Black\2.mp4|209136135|1451585613.746885
+H:Anime_1Tera\Darker Than Black\20.mp4|209327360|1451585626.126593
+H:Anime_1Tera\Darker Than Black\21.mp4|209357350|1451585636.8852086
+H:Anime_1Tera\Darker Than Black\22.mp4|209467363|1451585647.733829
+H:Anime_1Tera\Darker Than Black\23.mp4|209336751|1451585657.1073651
+H:Anime_1Tera\Darker Than Black\24.mp4|209366607|1451585666.9869301
+H:Anime_1Tera\Darker Than Black\25.mp4|209215851|1451585677.0265045
+H:Anime_1Tera\Darker Than Black\3.mp4|209337026|1451585686.9390714
+H:Anime_1Tera\Darker Than Black\4.mp4|209343114|1451585696.7276313
+H:Anime_1Tera\Darker Than Black\5.mp4|209311371|1451585706.7962072
+H:Anime_1Tera\Darker Than Black\6.mp4|209372214|1451585716.2597485
+H:Anime_1Tera\Darker Than Black\7.mp4|209043589|1451585725.5672808
+H:Anime_1Tera\Darker Than Black\8.mp4|209388226|1451585735.1548293
+H:Anime_1Tera\Darker Than Black\9.mp4|209413416|1451585745.080397
+H:Anime_1Tera\Darker Than Black\desktop.ini|73|1451585754.8929582
+H:Anime_1Tera\Darker Than Black\Darker Than Black  S2|2503863578|1451585754.9139595
+H:Anime_1Tera\Darker Than Black\Darker Than Black  S2\Darker Than Black S2  @    se7ro.com   @ m7agic.com @ lovestoorey210.blogspot.com  @  BY  @   love_stoorey210.jpg|36811|1451585754.9479613
+H:Anime_1Tera\Darker Than Black\Darker Than Black  S2\KEANBL  @ S2 @     0002  @ M7agic.com @  Se7ro.com @ lovestoorey210.blogspot.com @  BY @ love_stoorey210 .mp4|208395291|1451585754.9549618
+H:Anime_1Tera\Darker Than Black\Darker Than Black  S2\KEANBL  @ S2 @     0003  @ M7agic.com @  Se7ro.com @ lovestoorey210.blogspot.com @  BY @ love_stoorey210 .mp4|260961757|1451585764.4755063
+H:Anime_1Tera\Darker Than Black\Darker Than Black  S2\KEANBL  @ S2 @     0004  @ M7agic.com @  Se7ro.com @ lovestoorey210.blogspot.com @  BY @ love_stoorey210 .mp4|260940733|1451585776.6122005
+H:Anime_1Tera\Darker Than Black\Darker Than Black  S2\KEANBL  @ S2 @     0005  @ M7agic.com @  Se7ro.com @ lovestoorey210.blogspot.com @  BY @ love_stoorey210 .mp4|261892885|1451585788.301869
+H:Anime_1Tera\Darker Than Black\Darker Than Black  S2\KEANBL  @ S2 @     0006  @ M7agic.com @  Se7ro.com @ lovestoorey210.blogspot.com @  BY @ love_stoorey210 .mp4|260987706|1451585800.117545
+H:Anime_1Tera\Darker Than Black\Darker Than Black  S2\KEANBL  @ S2 @     0007  @ M7agic.com @  Se7ro.com @ lovestoorey210.blogspot.com @  BY @ love_stoorey210 .mp4|260897055|1451585811.5621996
+H:Anime_1Tera\Darker Than Black\Darker Than Black  S2\KEANBL  @ S2 @     0008  @ M7agic.com @  Se7ro.com @ lovestoorey210.blogspot.com @  BY @ love_stoorey210 .mp4|261035893|1451585823.0198548
+H:Anime_1Tera\Darker Than Black\Darker Than Black  S2\KEANBL  @ S2 @     0009  @ M7agic.com @  Se7ro.com @ lovestoorey210.blogspot.com @  BY @ love_stoorey210 .mp4|262000879|1451585834.9915395
+H:Anime_1Tera\Darker Than Black\Darker Than Black  S2\KEANBL  @ S2 @     0010  @ M7agic.com @  Se7ro.com @ lovestoorey210.blogspot.com @  BY @ love_stoorey210 .mp4|205786541|1451585846.8772194
+H:Anime_1Tera\Darker Than Black\Darker Than Black  S2\KEANBL  @ S2 @     0011  @ M7agic.com @  Se7ro.com @ lovestoorey210.blogspot.com @  BY @ love_stoorey210 .mp4|260911643|1451585856.0937464
+H:Anime_1Tera\Darker Than Black\Darker Than Black  S2\KEANBL  @ S2 @     0012  @ M7agic.com @  Se7ro.com @ lovestoorey210.blogspot.com @  BY @ love_stoorey210 .mp4|260992042|1451585867.727412
+H:Anime_1Tera\Darker Than Black\Darker Than Black Ova|806302597|1451585879.041059
+H:Anime_1Tera\Darker Than Black\Darker Than Black Ova\1.mp4|261883581|1451585879.0420592
+H:Anime_1Tera\Darker Than Black\Darker Than Black Ova\2.mp4|261737123|1451585890.9737415
+H:Anime_1Tera\Darker Than Black\Darker Than Black Ova\3.mp4|282681893|1451585902.8084185
+H:Anime_1Tera\Darker Than Black\Darker Than Black Ova\4.mp4|261751886|1451585915.5521474
+H:Anime_1Tera\Deadman Wonderland|2956098881|1442821361.2233138
+H:Anime_1Tera\Deadman Wonderland\Deadman Wonderland Ep.1.mp4|208515310|1442821468.065425
+H:Anime_1Tera\Deadman Wonderland\Deadman Wonderland Ep.10.mp4|262031346|1442828915.6534026
+H:Anime_1Tera\Deadman Wonderland\Deadman Wonderland Ep.11.mp4|104799085|1442831924.4334948
+H:Anime_1Tera\Deadman Wonderland\Deadman Wonderland Ep.12.mp4|262222301|1442831967.6979694
+H:Anime_1Tera\Deadman Wonderland\Deadman Wonderland Ep.2.mp4|262420663|1442821541.1616058
+H:Anime_1Tera\Deadman Wonderland\Deadman Wonderland Ep.3.mp4|262279239|1442823270.9875462
+H:Anime_1Tera\Deadman Wonderland\Deadman Wonderland Ep.4.mp4|262033870|1442823312.0948975
+H:Anime_1Tera\Deadman Wonderland\Deadman Wonderland Ep.5.mp4|262267783|1442825153.6892304
+H:Anime_1Tera\Deadman Wonderland\Deadman Wonderland Ep.6.mp4|262071055|1442825175.9505038
+H:Anime_1Tera\Deadman Wonderland\Deadman Wonderland Ep.7.mp4|262324619|1442826777.2930954
+H:Anime_1Tera\Deadman Wonderland\Deadman Wonderland Ep.8.mp4|272656128|1442826777.2930954
+H:Anime_1Tera\Deadman Wonderland\Deadman Wonderland Ep.9.mp4|272469290|1442828901.9506187
+H:Anime_1Tera\Deadman Wonderland\Deadman Wonderland Special Episode.mp4|283223142|1442840998.573506
+H:Anime_1Tera\Death Parade|2786059186|1449870822.284494
+H:Anime_1Tera\Death Parade\Death Parade Ep.1.mp4|267921730|1449870822.2964945
+H:Anime_1Tera\Death Parade\Death Parade Ep.10.mp4|262496062|1449870835.7522643
+H:Anime_1Tera\Death Parade\Death Parade Ep.11.mp4|262135447|1449870848.9180171
+H:Anime_1Tera\Death Parade\Death Parade Ep.12.mp4|262017153|1449870861.9687636
+H:Anime_1Tera\Death Parade\Death Parade Ep.2.mp4|262285445|1449870875.0755134
+H:Anime_1Tera\Death Parade\Death Parade Ep.3.mp4|241277831|1449870887.9862518
+H:Anime_1Tera\Death Parade\Death Parade Ep.4.mp4|262336675|1449870898.8898754
+H:Anime_1Tera\Death Parade\Death Parade Ep.5.mp4|241405017|1449870912.3826473
+H:Anime_1Tera\Death Parade\Death Parade Ep.6.mp4|241256720|1449870923.5432856
+H:Anime_1Tera\Death Parade\Death Parade Ep.7.mp4|241404505|1449870934.619919
+H:Anime_1Tera\Death Parade\Death Parade Ep.8.mp4|241514409|1449870946.6766088
+H:Anime_1Tera\Death Parade\Death Parade Ep.9.mp4|262094861|1449870958.8273036
+H:Anime_1Tera\Elfen Lied|5959384339|1449868943.718046
+H:Anime_1Tera\Elfen Lied\Elfen Lied Ep.1.mkv|513261368|1449868943.7480476
+H:Anime_1Tera\Elfen Lied\Elfen Lied Ep.10.mkv|453886075|1449868970.659587
+H:Anime_1Tera\Elfen Lied\Elfen Lied Ep.11.mkv|478593924|1449868991.5947845
+H:Anime_1Tera\Elfen Lied\Elfen Lied Ep.12.mkv|501586414|1449869013.9260616
+H:Anime_1Tera\Elfen Lied\Elfen Lied Ep.13.mkv|419496093|1449869037.2083933
+H:Anime_1Tera\Elfen Lied\Elfen Lied Ep.2.mkv|686444099|1449869056.7405105
+H:Anime_1Tera\Elfen Lied\Elfen Lied Ep.3.mkv|452864088|1449869086.1601932
+H:Anime_1Tera\Elfen Lied\Elfen Lied Ep.4.mkv|490994240|1449869107.5364158
+H:Anime_1Tera\Elfen Lied\Elfen Lied Ep.5.mkv|477332521|1449869130.6467378
+H:Anime_1Tera\Elfen Lied\Elfen Lied Ep.6.mkv|571945593|1449869152.8100054
+H:Anime_1Tera\Elfen Lied\Elfen Lied Ep.7.mkv|452616302|1449869179.410527
+H:Anime_1Tera\Elfen Lied\Elfen Lied Ep.8.mkv|460355430|1449869199.04765
+H:Anime_1Tera\Elfen Lied\Elfen Lied Ep.9.mkv|508486641|1449869220.5838819
+H:Anime_1Tera\Fate Zero|18688644708|1443177267.9366982
+H:Anime_1Tera\Fate Zero\Fate Zero S1|5271353655|1443222150.2268183
+H:Anime_1Tera\Fate Zero\Fate Zero S1\Fate Zero Ep.1.mp4|429890092|1443177301.3566096
+H:Anime_1Tera\Fate Zero\Fate Zero S1\Fate Zero Ep.10.mp4|451011068|1443190543.7960339
+H:Anime_1Tera\Fate Zero\Fate Zero S1\Fate Zero Ep.11.mp4|451096006|1443192153.5321054
+H:Anime_1Tera\Fate Zero\Fate Zero S1\Fate Zero Ep.12.mp4|424803174|1443194225.6556242
+H:Anime_1Tera\Fate Zero\Fate Zero S1\Fate Zero Ep.13 End.mp4|445688993|1443219063.874289
+H:Anime_1Tera\Fate Zero\Fate Zero S1\Fate Zero Ep.2.mp4|420567484|1443179415.6915426
+H:Anime_1Tera\Fate Zero\Fate Zero S1\Fate Zero Ep.3.mp4|441495792|1443180490.8860402
+H:Anime_1Tera\Fate Zero\Fate Zero S1\Fate Zero Ep.4.mp4|450809898|1443181945.3422303
+H:Anime_1Tera\Fate Zero\Fate Zero S1\Fate Zero Ep.5.mp4|455875117|1443183451.9664044
+H:Anime_1Tera\Fate Zero\Fate Zero S1\Fate Zero Ep.6.mp4|419400822|1443184783.8065813
+H:Anime_1Tera\Fate Zero\Fate Zero S1\Fate Zero Ep.7.mp4|440451401|1443186652.966491
+H:Anime_1Tera\Fate Zero\Fate Zero S1\Fate Zero Ep.8.mp4|440255616|1443187971.4019012
+H:Anime_1Tera\Fate Zero\Fate Zero S1\Fate Zero Ep.9.mp4|419618005|1443189271.7752783
+H:Anime_1Tera\Fate Zero\Fate Zero S2|4596563346|1443223616.128663
+H:Anime_1Tera\Fate Zero\Fate Zero S2\Fate  Zero Ep.5.mp4|408694362|1443275974.5623107
+H:Anime_1Tera\Fate Zero\Fate Zero S2\Fate Zero Ep.1.mp4|440344536|1443221233.3803778
+H:Anime_1Tera\Fate Zero\Fate Zero S2\Fate Zero Ep.10.mp4|446733116|1443305056.380778
+H:Anime_1Tera\Fate Zero\Fate Zero S2\Fate Zero Ep.11.mp4|430248318|1443308745.3327742
+H:Anime_1Tera\Fate Zero\Fate Zero S2\Fate Zero Ep.12.mp4|419441262|1443309995.9853072
+H:Anime_1Tera\Fate Zero\Fate Zero S2\Fate Zero Ep.2.mp4|524235896|1443223740.3537683
+H:Anime_1Tera\Fate Zero\Fate Zero S2\Fate Zero Ep.3.mp4|472033624|1443268098.943851
+H:Anime_1Tera\Fate Zero\Fate Zero S2\Fate Zero Ep.4.mp4|337948773|1443273822.0161922
+H:Anime_1Tera\Fate Zero\Fate Zero S2\Fate Zero Ep.6.mp4|367050145|1443279380.672129
+H:Anime_1Tera\Fate Zero\Fate Zero S2\Fate Zero Ep.7.mp4|361659731|1443280561.4596663
+H:Anime_1Tera\Fate Zero\Fate Zero S2\Fate Zero Ep.8.mp4|388165391|1443307174.9869554
+H:Anime_1Tera\Fate Zero\Fate Zero S2\Fate Zero Ep.9.mp4|367005890|1443306337.554057
+H:Anime_1Tera\Fate Zero\OVAs(Not Sure they are connected to this Fate Zero)|1703653634|1589533130.383662
+H:Anime_1Tera\Fate Zero\OVAs(Not Sure they are connected to this Fate Zero)\[Animop.com] FSN - TV - Reproduction I [HD].mkv|1070904526|1477264905.5405855
+H:Anime_1Tera\Fate Zero\OVAs(Not Sure they are connected to this Fate Zero)\[Animop.com] FSN - TV - Reproduction II [HD][720p].mp4|632740916|1477264932.598133
+H:Anime_1Tera\Fate Zero\OVAs(Not Sure they are connected to this Fate Zero)\[Animop.com] FSN.UBW.Prologue [HD][720p].mp4|386350154|1477264784.6286695
+H:Anime_1Tera\Fate Zero Unlimited Blade Work|5944104120|1451581556.9459665
+H:Anime_1Tera\Fate Zero Unlimited Blade Work\S1|2479041202|1456559648.2042975
+H:Anime_1Tera\Fate Zero Unlimited Blade Work\S1\00.mp4|211681494|1451581556.9479668
+H:Anime_1Tera\Fate Zero Unlimited Blade Work\S1\1.mp4|196076837|1451581573.3069024
+H:Anime_1Tera\Fate Zero Unlimited Blade Work\S1\10.mkv|154910096|1451581588.3697639
+H:Anime_1Tera\Fate Zero Unlimited Blade Work\S1\11.mkv|160466841|1451581601.5555182
+H:Anime_1Tera\Fate Zero Unlimited Blade Work\S1\12.mkv|311703986|1451581615.6463242
+H:Anime_1Tera\Fate Zero Unlimited Blade Work\S1\2.mp4|220721061|1451581641.7888193
+H:Anime_1Tera\Fate Zero Unlimited Blade Work\S1\3.mp4|313810796|1451581658.8437948
+H:Anime_1Tera\Fate Zero Unlimited Blade Work\S1\4.mkv|157803043|1451581682.607154
+H:Anime_1Tera\Fate Zero Unlimited Blade Work\S1\5.mp4|221537708|1451581695.3308153
+H:Anime_1Tera\Fate Zero Unlimited Blade Work\S1\6.mkv|248891353|1451581714.3262691
+H:Anime_1Tera\Fate Zero Unlimited Blade Work\S1\7.mkv|124554421|1451581740.266368
+H:Anime_1Tera\Fate Zero Unlimited Blade Work\S1\8.mkv|156875374|1451581749.3548558
+H:Anime_1Tera\Fate Zero Unlimited Blade Work\S1\9.mkv|160157667|1451581761.8964868
+H:Anime_1Tera\Fate Zero Unlimited Blade Work\S2|3304913443|1456559636.050368
+H:Anime_1Tera\Fate Zero Unlimited Blade Work\S2\[Otaku-AnimeHD.CoM] - FS NU B W S2 - 01.mp4|301956894|1456486227.8089178
+H:Anime_1Tera\Fate Zero Unlimited Blade Work\S2\[Otaku-AnimeHD.CoM] - FS NU B W S2 - 02.mp4|290524839|1456486254.4696815
+H:Anime_1Tera\Fate Zero Unlimited Blade Work\S2\[Otaku-AnimeHD.CoM] - FS NU B W S2 - 03.mp4|370291688|1456486280.4598398
+H:Anime_1Tera\Fate Zero Unlimited Blade Work\S2\[Otaku-AnimeHD.CoM] - FS NU B W S2 - 04.mp4|202540459|1456486314.4707649
+H:Anime_1Tera\Fate Zero Unlimited Blade Work\S2\[Otaku-AnimeHD.CoM] - FS NU B W S2 - 05.mp4|275448749|1456486334.6492808
+H:Anime_1Tera\Fate Zero Unlimited Blade Work\S2\[Otaku-AnimeHD.CoM] - FS NU B W S2 - 06.mp4|273708620|1456486359.5561502
+H:Anime_1Tera\Fate Zero Unlimited Blade Work\S2\[Otaku-AnimeHD.CoM] - FS NU B W S2 - 07.mp4|228531017|1456486383.7184415
+H:Anime_1Tera\Fate Zero Unlimited Blade Work\S2\[Otaku-AnimeHD.CoM] - FS NU B W S2 - 08.mp4|262112253|1456486406.3545332
+H:Anime_1Tera\Fate Zero Unlimited Blade Work\S2\[Otaku-AnimeHD.CoM] - FS NU B W S2 - 09.mp4|279499598|1456486433.151906
+H:Anime_1Tera\Fate Zero Unlimited Blade Work\S2\[Otaku-AnimeHD.CoM] - FS NU B W S2 - 10.mp4|267853094|1456486466.8433783
+H:Anime_1Tera\Fate Zero Unlimited Blade Work\S2\[Otaku-AnimeHD.CoM] - FS NU B W S2 - 11.mp4|260757090|1456486488.3960743
+H:Anime_1Tera\Fate Zero Unlimited Blade Work\S2\[Otaku-AnimeHD.CoM] - FS NU B W S2 - 12.mp4|291680950|1456486536.3165245
+H:Anime_1Tera\Fate Zero Unlimited Blade Work\S2\[Otaku-AnimeHD.CoM] - FS NU B W S2 - 13.mp4|199991237|1456486587.426588
+H:Anime_1Tera\Full Metal Alchemist|15866067009|1442136115.3848758
+H:Anime_1Tera\Full Metal Alchemist\FMA Ep.1.Avi|153873878|1442132466.074147
+H:Anime_1Tera\Full Metal Alchemist\FMA Ep.10.mp4|256624041|1442138769.073658
+H:Anime_1Tera\Full Metal Alchemist\FMA Ep.11.mp4|256914094|1442142509.6676078
+H:Anime_1Tera\Full Metal Alchemist\FMA EP.12.mp4|256726668|1442144332.8798895
+H:Anime_1Tera\Full Metal Alchemist\FMA Ep.13.mp4|257064082|1442145271.525577
+H:Anime_1Tera\Full Metal Alchemist\FMA EP.14.mp4|256994294|1442148025.8681164
+H:Anime_1Tera\Full Metal Alchemist\FMA Ep.15.mp4|256942176|1442148053.958723
+H:Anime_1Tera\Full Metal Alchemist\FMA Ep.16.mp4|183476074|1442148749.0244787
+H:Anime_1Tera\Full Metal Alchemist\FMA Ep.17.mp4|260984414|1442181527.630808
+H:Anime_1Tera\Full Metal Alchemist\FMA Ep.18.mp4|254774200|1442182731.5856705
+H:Anime_1Tera\Full Metal Alchemist\FMA Ep.19.mp4|254743463|1442184005.4505312
+H:Anime_1Tera\Full Metal Alchemist\FMA Ep.2.MP4|193025105|1442132316.830611
+H:Anime_1Tera\Full Metal Alchemist\FMA Ep.20.mp4|258955262|1442185617.8187535
+H:Anime_1Tera\Full Metal Alchemist\FMA Ep.21.mp4|258799809|1442186612.4026403
+H:Anime_1Tera\Full Metal Alchemist\FMA Ep.22.mp4|258933723|1442187891.9238248
+H:Anime_1Tera\Full Metal Alchemist\FMA Ep.23.mp4|252661037|1442190595.9384856
+H:Anime_1Tera\Full Metal Alchemist\FMA Ep.24.mp4|258919246|1442199857.8602371
+H:Anime_1Tera\Full Metal Alchemist\FMA EP.25.mp4|259022510|1442203099.3736413
+H:Anime_1Tera\Full Metal Alchemist\FMA Ep.26.mp4|256818781|1442211875.1265855
+H:Anime_1Tera\Full Metal Alchemist\FMA Ep.27.mp4|256907921|1442212873.2196732
+H:Anime_1Tera\Full Metal Alchemist\FMA Ep.28.mp4|256777581|1442212893.499833
+H:Anime_1Tera\Full Metal Alchemist\FMA Ep.29.mkv|255385108|1442212927.8287966
+H:Anime_1Tera\Full Metal Alchemist\FMA Ep.3.MP4|193025492|1442134241.9187195
+H:Anime_1Tera\Full Metal Alchemist\FMA Ep.30.mp4|255696995|1442215014.0131197
+H:Anime_1Tera\Full Metal Alchemist\FMA Ep.31.mp4|256937054|1442215052.2603073
+H:Anime_1Tera\Full Metal Alchemist\FMA Ep.32.mp4|265276108|1442215078.9248323
+H:Anime_1Tera\Full Metal Alchemist\FMA Ep.33.mp4|256854999|1442217384.418699
+H:Anime_1Tera\Full Metal Alchemist\FMA EP.34.mp4|262127407|1442217412.4863043
+H:Anime_1Tera\Full Metal Alchemist\FMA Ep.35.mp4|260999993|1442217451.1635165
+H:Anime_1Tera\Full Metal Alchemist\FMA Ep.36.mp4|256858707|1442220372.1305864
+H:Anime_1Tera\Full Metal Alchemist\FMA EP.37.mp4|256945026|1442220391.5876994
+H:Anime_1Tera\Full Metal Alchemist\FMA Ep.38.mp4|256864333|1442220419.2262802
+H:Anime_1Tera\Full Metal Alchemist\FMA Ep.39.mp4|256774664|1442220448.932979
+H:Anime_1Tera\Full Metal Alchemist\FMA Ep.4.mp4|256636784|1442135146.6264658
+H:Anime_1Tera\Full Metal Alchemist\FMA Ep.40.mp4|256491376|1442220483.38795
+H:Anime_1Tera\Full Metal Alchemist\FMA Ep.41.mp4|260707891|1442223783.0766814
+H:Anime_1Tera\Full Metal Alchemist\FMA Ep.42.mp4|256677297|1442223803.174831
+H:Anime_1Tera\Full Metal Alchemist\FMA Ep.43.mp4|256666433|1442223825.6361156
+H:Anime_1Tera\Full Metal Alchemist\FMA Ep.44.mp4|256575567|1442223845.5522547
+H:Anime_1Tera\Full Metal Alchemist\FMA EP.45.mp4|256612782|1442223864.3123279
+H:Anime_1Tera\Full Metal Alchemist\FMA Ep.46.mkv|260428241|1442229914.4243743
+H:Anime_1Tera\Full Metal Alchemist\FMA Ep.47.mp4|256799890|1442229826.8443651
+H:Anime_1Tera\Full Metal Alchemist\FMA Ep.48.mp4|256588224|1442229933.3954594
+H:Anime_1Tera\Full Metal Alchemist\FMA Ep.49.mp4|261853070|1442229957.7638533
+H:Anime_1Tera\Full Metal Alchemist\FMA Ep.5.mp4|256732062|1442135530.093399
+H:Anime_1Tera\Full Metal Alchemist\FMA Ep.50.mp4|110090037|1442233077.1402714
+H:Anime_1Tera\Full Metal Alchemist\FMA Ep.51.mp4|256665542|1442269428.3361423
+H:Anime_1Tera\Full Metal Alchemist\FMA Ep.52.mp4|255607836|1442269437.4776652
+H:Anime_1Tera\Full Metal Alchemist\FMA Ep.53.mp4|256589362|1442269444.312056
+H:Anime_1Tera\Full Metal Alchemist\FMA Ep.54.mp4|206549262|1442273429.1769772
+H:Anime_1Tera\Full Metal Alchemist\FMA Ep.55.mp4|110458221|1442273451.830273
+H:Anime_1Tera\Full Metal Alchemist\FMA Ep.56.mp4|109765133|1442273522.2413
+H:Anime_1Tera\Full Metal Alchemist\FMA Ep.57.mp4|321642934|1442275931.184084
+H:Anime_1Tera\Full Metal Alchemist\FMA Ep.58.mp4|280353526|1442275968.323208
+H:Anime_1Tera\Full Metal Alchemist\FMA Ep.59.mp4|231702655|1442275994.442702
+H:Anime_1Tera\Full Metal Alchemist\FMA Ep.6.mp4|256719459|1442136036.157344
+H:Anime_1Tera\Full Metal Alchemist\FMA Ep.60.mp4|305881185|1442275945.7709181
+H:Anime_1Tera\Full Metal Alchemist\FMA Ep.61.mp4|341457928|1442275898.4722128
+H:Anime_1Tera\Full Metal Alchemist\FMA Ep.62.mp4|416254802|1442275841.7449682
+H:Anime_1Tera\Full Metal Alchemist\FMA Ep.63.mp4|386416096|1442275887.3515768
+H:Anime_1Tera\Full Metal Alchemist\FMA Ep.64 End.mp4|220070328|1442276028.9416752
+H:Anime_1Tera\Full Metal Alchemist\FMA Ep.7.mp4|256711336|1442136782.4750311
+H:Anime_1Tera\Full Metal Alchemist\FMA Ep.8.mp4|256620161|1442137299.037577
+H:Anime_1Tera\Full Metal Alchemist\FMA Ep.9.mp4|256793869|1442138045.3972661
+H:Anime_1Tera\Gangasta|4059738951|1444383624.9545567
+H:Anime_1Tera\Gangasta\Gangasta Ep.1.mp4|314654223|1444366912.403612
+H:Anime_1Tera\Gangasta\Gangasta Ep.10.mp4|310104211|1444381199.06316
+H:Anime_1Tera\Gangasta\Gangasta Ep.11.mp4|329510569|1444382145.0992417
+H:Anime_1Tera\Gangasta\Gangasta Ep.12.mp4|353920361|1444383581.697727
+H:Anime_1Tera\Gangasta\Gangasta Ep.2.mp4|377463804|1444353133.4563665
+H:Anime_1Tera\Gangasta\Gangasta Ep.3.mp4|555373606|1444362325.193325
+H:Anime_1Tera\Gangasta\Gangasta Ep.4.mp4|313195887|1444365028.713481
+H:Anime_1Tera\Gangasta\Gangasta Ep.5.mp4|293667612|1444366156.5839877
+H:Anime_1Tera\Gangasta\Gangasta Ep.6.mp4|243325914|1444366912.403612
+H:Anime_1Tera\Gangasta\Gangasta Ep.7.mp4|319854453|1444367594.3822782
+H:Anime_1Tera\Gangasta\Gangasta Ep.8.mp4|299279890|1444369397.2656522
+H:Anime_1Tera\Gangasta\Gangasta Ep.9.5.mp4|349380229|1444380207.742578
+H:Anime_1Tera\Gangasta\Gangasta Ep.9.mp4|525630905|1444371091.1386335
+H:Anime_1Tera\Gate|5890331983|1444451733.8173108
+H:Anime_1Tera\Gate\S1|3092778542|1589533292.5888822
+H:Anime_1Tera\Gate\S1\Gate  Ep.1.mp4|303190894|1444430458.2748744
+H:Anime_1Tera\Gate\S1\Gate  Ep.10.mp4|269971659|1444449448.4768457
+H:Anime_1Tera\Gate\S1\Gate  Ep.11.mp4|273370764|1444450179.774355
+H:Anime_1Tera\Gate\S1\Gate  Ep.12 End.mp4|276610783|1444450849.7873836
+H:Anime_1Tera\Gate\S1\Gate  Ep.2.mp4|250871020|1444430664.1499424
+H:Anime_1Tera\Gate\S1\Gate  Ep.3.mp4|357967410|1444430690.1115904
+H:Anime_1Tera\Gate\S1\Gate  Ep.4.mp4|270796004|1444439986.3104837
+H:Anime_1Tera\Gate\S1\Gate  Ep.5.mp4|253549818|1444440103.9333825
+H:Anime_1Tera\Gate\S1\Gate  Ep.6.mp4|299413655|1444440136.5935795
+H:Anime_1Tera\Gate\S1\Gate  Ep.7.mp4|250532298|1444440180.4867957
+H:Anime_1Tera\Gate\S1\Gate  Ep.8.mp4|286496045|1444440242.5427973
+H:Anime_1Tera\Gate\S1\Gate  Ep.9.mp4|234409883|1444448561.4565372
+H:Anime_1Tera\Gate\S2|2563143558|1589533298.106007
+H:Anime_1Tera\Gate\S2\[Animop.com] GATE.S2 - 001 [HD][720p].mp4|249177083|1469884325.7317307
+H:Anime_1Tera\Gate\S2\[Animop.com] GATE.S2 - 002 [HD][720p].mp4|216749071|1469884343.421068
+H:Anime_1Tera\Gate\S2\[Animop.com] GATE.S2 - 003 [HD][720p].mp4|222927167|1469884361.6335473
+H:Anime_1Tera\Gate\S2\[Animop.com] GATE.S2 - 004 [HD][720p].mp4|244059981|1469884378.8970141
+H:Anime_1Tera\Gate\S2\[Animop.com] GATE.S2 - 005 [HD][720p].mp4|263339866|1469884396.7724752
+H:Anime_1Tera\Gate\S2\[Animop.com] GATE.S2 - 006 [HD][720p].mp4|207425125|1469884419.7834425
+H:Anime_1Tera\Gate\S2\[Animop.com] GATE.S2 - 007 [HD][720p].mp4|250435007|1469884438.4451568
+H:Anime_1Tera\Gate\S2\[Animop.com] GATE.S2 - 008 [HD][720p].mp4|208811518|1469884460.7187421
+H:Anime_1Tera\Gate\S2\[Animop.com] GATE.S2 - 009 [HD][720p].mp4|210615031|1469884477.8274524
+H:Anime_1Tera\Gate\S2\[Animop.com] GATE.S2 - 010 [HD][720p].mp4|219119240|1469884493.4158938
+H:Anime_1Tera\Gate\S2\[Animop.com] GATE.S2 - 011 [HD][720p].mp4|270476277|1469884509.6357164
+H:Anime_1Tera\Gate\S2\[Animop.com] GATE.S2 - 012 [HD][720p].mp4|246735081|1469884527.227723
+H:Anime_1Tera\Hellsing|9505948151|1438576672.976518
+H:Anime_1Tera\Hellsing\Hellsing Ultimate  Ep.1.mkv|963065803|1438576736.7991683
+H:Anime_1Tera\Hellsing\Hellsing Ultimate  Ep.10.mkv|1417964652|1439394090.5426362
+H:Anime_1Tera\Hellsing\Hellsing Ultimate  Ep.3.mkv|1152345413|1438737985.9714937
+H:Anime_1Tera\Hellsing\Hellsing Ultimate  Ep.4.mkv|1240253837|1438741835.3346646
+H:Anime_1Tera\Hellsing\Hellsing Ultimate  Ep.5.mkv|1100932293|1438814763.9251823
+H:Anime_1Tera\Hellsing\Hellsing Ultimate  Ep.6.mkv|1296564224|1438820449.4983785
+H:Anime_1Tera\Hellsing\Hellsing Ultimate  Ep.9.mkv|995135759|1439363328.4071426
+H:Anime_1Tera\Hellsing\Hellsing Ultimate Ep.2.mkv|889519107|1438581935.4055116
+H:Anime_1Tera\Hellsing\Hellsing2|450162967|1462901112.7513418
+H:Anime_1Tera\Hellsing\Hellsing2\[Animok] Hellsing Ultimate The Dawn - 01 FHD By Monster.mp4|230335956|1462895146.7614655
+H:Anime_1Tera\Hellsing\Hellsing2\[Animok] Hellsing Ultimate The Dawn - 02 FHD By Monster.mp4|219818819|1462895151.56274
+H:Anime_1Tera\Hellsing\Hellsing2\[Animok] Hellsing Ultimate The Dawn - 03 FHD By Monster.mp4|367036362|1462895156.1250012
+H:Anime_1Tera\Hyouka|2756919766|1449876653.49202
+H:Anime_1Tera\Hyouka\Hyouka Ep.1.MP4|261748299|1449865592.37436
+H:Anime_1Tera\Hyouka\Hyouka Ep.10.MP4|237532402|1449871124.0637548
+H:Anime_1Tera\Hyouka\Hyouka Ep.11.MP4|244297403|1449871139.4806366
+H:Anime_1Tera\Hyouka\Hyouka Ep.12.MP4|245032847|1449871171.397462
+H:Anime_1Tera\Hyouka\Hyouka Ep.2.MP4|244851353|1449868956.1597576
+H:Anime_1Tera\Hyouka\Hyouka Ep.3.MP4|253930129|1449864130.4547431
+H:Anime_1Tera\Hyouka\Hyouka Ep.4.MP4|268984453|1449864150.8429093
+H:Anime_1Tera\Hyouka\Hyouka Ep.5.MP4|279171388|1449864164.630698
+H:Anime_1Tera\Hyouka\Hyouka Ep.6.MP4|232941233|1449864209.7742798
+H:Anime_1Tera\Hyouka\Hyouka Ep.7.MP4|241958031|1449868987.5285518
+H:Anime_1Tera\Hyouka\Hyouka Ep.8.MP4|246464036|1449870107.7236233
+H:Anime_1Tera\Hyouka\Hyouka Ep.9.MP4|261450060|1449870142.7826285
+H:Anime_1Tera\Monster|11940120393|1451582479.1059282
+H:Anime_1Tera\Monster\www.animesan1.com]Monster EP10.mp4|113390356|1451582479.106928
+H:Anime_1Tera\Monster\www.animesan1.com]Monster EP11.mp4|119569840|1451582484.543239
+H:Anime_1Tera\Monster\www.animesan1.com]Monster EP12.mp4|110212802|1451582490.7945967
+H:Anime_1Tera\Monster\www.animesan1.com]Monster EP13.mp4|129434010|1451582496.5299246
+H:Anime_1Tera\Monster\www.animesan1.com]Monster EP14.mp4|189006155|1451582502.73728
+H:Anime_1Tera\Monster\www.animesan1.com]Monster EP15.mp4|155596033|1451582511.48578
+H:Anime_1Tera\Monster\www.animesan1.com]Monster EP16.mp4|115410133|1451582519.0342119
+H:Anime_1Tera\Monster\www.animesan1.com]Monster EP17.mp4|118925830|1451582524.7315378
+H:Anime_1Tera\Monster\www.animesan1.com]Monster EP18.mp4|109698470|1451582530.5788722
+H:Anime_1Tera\Monster\www.animesan1.com]Monster EP19.mp4|188947154|1451582535.8451734
+H:Anime_1Tera\Monster\www.animesan1.com]Monster EP1_2.mp4|133393012|1451582545.1237042
+H:Anime_1Tera\Monster\www.animesan1.com]Monster EP2.mp4|124808718|1451582551.4230645
+H:Anime_1Tera\Monster\www.animesan1.com]Monster EP20.mp4|123796080|1451582557.3704045
+H:Anime_1Tera\Monster\www.animesan1.com]Monster EP21.mp4|181020293|1451582563.602761
+H:Anime_1Tera\Monster\www.animesan1.com]Monster EP22.mp4|165437706|1451582572.274257
+H:Anime_1Tera\Monster\www.animesan1.com]Monster EP23.mp4|192472236|1451582580.6077337
+H:Anime_1Tera\Monster\www.animesan1.com]Monster EP24.mp4|148979089|1451582589.739256
+H:Anime_1Tera\Monster\www.animesan1.com]Monster EP25.mp4|145085065|1451582596.7266555
+H:Anime_1Tera\Monster\www.animesan1.com]Monster EP26.mp4|173636934|1451582603.8040605
+H:Anime_1Tera\Monster\www.animesan1.com]Monster EP27.mp4|155810282|1451582611.9905286
+H:Anime_1Tera\Monster\www.animesan1.com]Monster EP28.mp4|162915385|1451582619.70397
+H:Anime_1Tera\Monster\www.animesan1.com]Monster EP29.mp4|170121632|1451582627.1263945
+H:Anime_1Tera\Monster\www.animesan1.com]Monster EP3.mp4|136964548|1451582635.0698488
+H:Anime_1Tera\Monster\www.animesan1.com]Monster EP30.mp4|177438183|1451582641.5032167
+H:Anime_1Tera\Monster\www.animesan1.com]Monster EP31.mp4|145484861|1451582649.6146808
+H:Anime_1Tera\Monster\www.animesan1.com]Monster EP32.mp4|192572713|1451582656.2250588
+H:Anime_1Tera\Monster\www.animesan1.com]Monster EP33.mp4|200404133|1451582665.7476034
+H:Anime_1Tera\Monster\www.animesan1.com]Monster EP34.mp4|173242212|1451582675.1531415
+H:Anime_1Tera\Monster\www.animesan1.com]Monster EP35.mp4|171417118|1451582683.239604
+H:Anime_1Tera\Monster\www.animesan1.com]Monster EP36.mp4|179744733|1451582690.9530451
+H:Anime_1Tera\Monster\www.animesan1.com]Monster EP37.mp4|230637697|1451582699.2625203
+H:Anime_1Tera\Monster\www.animesan1.com]Monster EP38.mp4|208055430|1451582709.7671213
+H:Anime_1Tera\Monster\www.animesan1.com]Monster EP39.mp4|188978342|1451582719.417673
+H:Anime_1Tera\Monster\www.animesan1.com]Monster EP4.mp4|112929490|1451582728.9491613
+H:Anime_1Tera\Monster\www.animesan1.com]Monster EP40.mp4|209322026|1451582734.9814584
+H:Anime_1Tera\Monster\www.animesan1.com]Monster EP41.mp4|160193282|1451582744.9528804
+H:Anime_1Tera\Monster\www.animesan1.com]Monster EP42.mp4|160920854|1451582752.4431894
+H:Anime_1Tera\Monster\www.animesan1.com]Monster EP43.mp4|147594078|1451582760.122496
+H:Anime_1Tera\Monster\www.animesan1.com]Monster EP44.mp4|148550078|1451582767.0087557
+H:Anime_1Tera\Monster\www.animesan1.com]Monster EP45.mp4|156206254|1451582773.875039
+H:Anime_1Tera\Monster\www.animesan1.com]Monster EP46.mp4|176583147|1451582781.4173572
+H:Anime_1Tera\Monster\www.animesan1.com]Monster EP47.mp4|194200833|1451582789.8887253
+H:Anime_1Tera\Monster\www.animesan1.com]Monster EP48.mp4|186162684|1451582799.1031768
+H:Anime_1Tera\Monster\www.animesan1.com]Monster EP49.mp4|156379275|1451582807.7165525
+H:Anime_1Tera\Monster\www.animesan1.com]Monster EP5.mp4|126143686|1451582815.1588938
+H:Anime_1Tera\Monster\www.animesan1.com]Monster EP50.mp4|166698598|1451582821.0361657
+H:Anime_1Tera\Monster\www.animesan1.com]Monster EP51.mp4|169980226|1451582828.5634904
+H:Anime_1Tera\Monster\www.animesan1.com]Monster EP52.mp4|150673646|1451582836.731877
+H:Anime_1Tera\Monster\www.animesan1.com]Monster EP53.mp4|157213734|1451582844.054185
+H:Anime_1Tera\Monster\www.animesan1.com]Monster EP54.mp4|192516809|1451582851.7265792
+H:Anime_1Tera\Monster\www.animesan1.com]Monster EP55.mp4|152449614|1451582861.4059837
+H:Anime_1Tera\Monster\www.animesan1.com]Monster EP56.mp4|231815330|1451582868.6403146
+H:Anime_1Tera\Monster\www.animesan1.com]Monster EP57.mp4|167903616|1451582878.995749
+H:Anime_1Tera\Monster\www.animesan1.com]Monster EP58.mp4|165087975|1451582886.620095
+H:Anime_1Tera\Monster\www.animesan1.com]Monster EP59.mp4|189000630|1451582894.3974378
+H:Anime_1Tera\Monster\www.animesan1.com]Monster EP6.mp4|120594610|1451582903.5078318
+H:Anime_1Tera\Monster\www.animesan1.com]Monster EP60.mp4|158219465|1451582908.8910503
+H:Anime_1Tera\Monster\www.animesan1.com]Monster EP61.mp4|156750986|1451582916.2763317
+H:Anime_1Tera\Monster\www.animesan1.com]Monster EP62.mp4|152179461|1451582925.005678
+H:Anime_1Tera\Monster\www.animesan1.com]Monster EP63.mp4|157772686|1451582932.3509476
+H:Anime_1Tera\Monster\www.animesan1.com]Monster EP64.mp4|171509700|1451582940.0342603
+H:Anime_1Tera\Monster\www.animesan1.com]Monster EP65.mp4|205443316|1451582948.6785913
+H:Anime_1Tera\Monster\www.animesan1.com]Monster EP66.mp4|181073808|1451582958.041956
+H:Anime_1Tera\Monster\www.animesan1.com]Monster EP67.mp4|202760103|1451582967.0853908
+H:Anime_1Tera\Monster\www.animesan1.com]Monster EP68.mp4|154367582|1451582978.1020207
+H:Anime_1Tera\Monster\www.animesan1.com]Monster EP69.mp4|188856663|1451582986.6805115
+H:Anime_1Tera\Monster\www.animesan1.com]Monster EP7.mp4|111438412|1451582995.6800263
+H:Anime_1Tera\Monster\www.animesan1.com]Monster EP70.mp4|179650921|1451583001.2573452
+H:Anime_1Tera\Monster\www.animesan1.com]Monster EP71.mp4|189863842|1451583009.3438077
+H:Anime_1Tera\Monster\www.animesan1.com]Monster EP72.mp4|196441557|1451583018.0153036
+H:Anime_1Tera\Monster\www.animesan1.com]Monster EP73.mp4|185484332|1451583027.4028406
+H:Anime_1Tera\Monster\www.animesan1.com]Monster EP74END.mp4|188838557|1451583036.0383346
+H:Anime_1Tera\Monster\www.animesan1.com]Monster EP8.mp4|127659422|1451583045.5248773
+H:Anime_1Tera\Monster\www.animesan1.com]Monster EP9.mp4|137496564|1451583051.4282148
+H:Anime_1Tera\My Youth|5584920118|1445210009.6207533
+H:Anime_1Tera\My Youth\S1|2762222314|1445291453.1426525
+H:Anime_1Tera\My Youth\S1\My Youth Ep.1.mp4|262060512|1445191622.9799516
+H:Anime_1Tera\My Youth\S1\My Youth Ep.10.mp4|234531804|1445190138.7692845
+H:Anime_1Tera\My Youth\S1\My Youth Ep.11.mp4|209647923|1445190218.076607
+H:Anime_1Tera\My Youth\S1\My Youth Ep.12.mp4|241086327|1445190260.0710862
+H:Anime_1Tera\My Youth\S1\My Youth Ep.13.mp4|241421914|1445190283.9290552
+H:Anime_1Tera\My Youth\S1\My Youth Ep.2.mp4|210780525|1445189769.9898098
+H:Anime_1Tera\My Youth\S1\My Youth Ep.3.mp4|251448246|1445189806.0038707
+H:Anime_1Tera\My Youth\S1\My Youth Ep.4.mp4|251641661|1445189843.327003
+H:Anime_1Tera\My Youth\S1\My Youth Ep.5.mp4|209517824|1445189935.740412
+H:Anime_1Tera\My Youth\S1\My Youth Ep.6.mp4|209716279|1445189972.7034638
+H:Anime_1Tera\My Youth\S1\My Youth Ep.7.mp4|209745179|1445190015.7589614
+H:Anime_1Tera\My Youth\S1\My Youth Ep.8.mp4|230615928|1445190051.768201
+H:Anime_1Tera\My Youth\S1\My Youth Ep.9.mp4|225476627|1445190089.492447
+H:Anime_1Tera\My Youth\S2|2597229369|1445291440.4413626
+H:Anime_1Tera\My Youth\S2\My Youth Ep.1.mp4|142147029|1445283199.7193563
+H:Anime_1Tera\My Youth\S2\My Youth Ep.10.mp4|243065287|1445294101.7159643
+H:Anime_1Tera\My Youth\S2\My Youth Ep.11.mp4|278725866|1445295301.202062
+H:Anime_1Tera\My Youth\S2\My Youth Ep.12.mp4|231644379|1445295344.7791126
+H:Anime_1Tera\My Youth\S2\My Youth Ep.13.mp4|226840587|1445297349.5688286
+H:Anime_1Tera\My Youth\S2\My Youth Ep.2.mp4|176549425|1445284287.0241046
+H:Anime_1Tera\My Youth\S2\My Youth Ep.3.mp4|210562562|1445284858.1973214
+H:Anime_1Tera\My Youth\S2\My Youth Ep.4.mp4|220186632|1445289572.4905417
+H:Anime_1Tera\My Youth\S2\My Youth Ep.5.mp4|218781072|1445289663.2284324
+H:Anime_1Tera\My Youth\S2\My Youth Ep.6.mp4|208179358|1445290802.9953463
+H:Anime_1Tera\My Youth\S2\My Youth Ep.7.mp4|225893288|1445291344.7130497
+H:Anime_1Tera\My Youth\S2\My Youth Ep.8.mp4|214645692|1445292281.736503
+H:Anime_1Tera\My Youth\S2\My Youth Ep.9.mp4|268254191|1445294059.9238346
+H:Anime_1Tera\Nanatsu no Taizai|12386339586|1451577823.1814075
+H:Anime_1Tera\Nanatsu no Taizai\Mid Season between 1 and 3|814291751|1589533698.533304
+H:Anime_1Tera\Nanatsu no Taizai\Mid Season between 1 and 3\[Zi-m.com] Nanatsu no Taizai - Seisen no Shirushi.EP01HD.mp4|274932129|1479503969.2912219
+H:Anime_1Tera\Nanatsu no Taizai\Mid Season between 1 and 3\[Zi-m.com] Nanatsu no Taizai - Seisen no Shirushi.EP02HD.mp4|274729045|1479503982.0459514
+H:Anime_1Tera\Nanatsu no Taizai\Mid Season between 1 and 3\[Zi-m.com] Nanatsu no Taizai - Seisen no Shirushi.EP03HD.mp4|264622385|1479503999.0179222
+H:Anime_1Tera\Nanatsu no Taizai\Mid Season between 1 and 3\[Zi-m.com] Nanatsu no Taizai - Seisen no Shirushi.EP04HD.mp4|282980957|1479504018.7940533
+H:Anime_1Tera\Nanatsu no Taizai\S1|6295408357|1589533593.9008281
+H:Anime_1Tera\Nanatsu no Taizai\S1\1.mp4|277892002|1451577823.1844077
+H:Anime_1Tera\Nanatsu no Taizai\S1\10.mp4|277998158|1451577844.0536013
+H:Anime_1Tera\Nanatsu no Taizai\S1\11.mp4|277927985|1451577861.0505736
+H:Anime_1Tera\Nanatsu no Taizai\S1\12.mp4|277910125|1451577881.5927484
+H:Anime_1Tera\Nanatsu no Taizai\S1\13.mp4|241029825|1451577903.280989
+H:Anime_1Tera\Nanatsu no Taizai\S1\14.mp4|277910608|1451577919.613923
+H:Anime_1Tera\Nanatsu no Taizai\S1\15.mp4|241029864|1451577944.3473377
+H:Anime_1Tera\Nanatsu no Taizai\S1\16.mp4|277951421|1451577963.7434473
+H:Anime_1Tera\Nanatsu no Taizai\S1\17.mp4|277710592|1451577985.5336936
+H:Anime_1Tera\Nanatsu no Taizai\S1\18.mp4|275056088|1451578006.7589076
+H:Anime_1Tera\Nanatsu no Taizai\S1\19.mp4|277912205|1451578025.7809956
+H:Anime_1Tera\Nanatsu no Taizai\S1\2.mp4|277970210|1451578047.8302567
+H:Anime_1Tera\Nanatsu no Taizai\S1\20.mp4|274880550|1451578070.0495274
+H:Anime_1Tera\Nanatsu no Taizai\S1\21.mp4|278052755|1451578090.0436711
+H:Anime_1Tera\Nanatsu no Taizai\S1\22.mp4|277986971|1451578113.5880177
+H:Anime_1Tera\Nanatsu no Taizai\S1\23.mp4|297924298|1451578133.523158
+H:Anime_1Tera\Nanatsu no Taizai\S1\24.mp4|241050571|1451578156.5694761
+H:Anime_1Tera\Nanatsu no Taizai\S1\3.mp4|277986372|1451578176.4756148
+H:Anime_1Tera\Nanatsu no Taizai\S1\4.mp4|277811391|1451578196.9407854
+H:Anime_1Tera\Nanatsu no Taizai\S1\5.mp4|277831464|1451578218.7310317
+H:Anime_1Tera\Nanatsu no Taizai\S1\6.mp4|277789440|1451578240.6772869
+H:Anime_1Tera\Nanatsu no Taizai\S1\7.mp4|277902812|1451578262.5745392
+H:Anime_1Tera\Nanatsu no Taizai\S1\8.mp4|277884458|1451578287.2859528
+H:Anime_1Tera\Nanatsu no Taizai\S1\9.mp4|277883885|1451578313.656461
+H:Anime_1Tera\Nanatsu no Taizai\S2|4715795116|1589529373.6568327
+H:Anime_1Tera\Nanatsu no Taizai\S2\[AnimeRG] Nanatsu no Taizai Season 2 -  -  01 [x265 720p 10bit] [JRR].mkv|208031191|1533133559.5542884
+H:Anime_1Tera\Nanatsu no Taizai\S2\[AnimeRG] Nanatsu no Taizai Season 2 -  -  02 [x265 720p 10bit] [JRR].mkv|205137493|1533133663.7862504
+H:Anime_1Tera\Nanatsu no Taizai\S2\[AnimeRG] Nanatsu no Taizai Season 2 -  -  03 [x265 720p 10bit] [JRR].mkv|229925146|1533133677.3170242
+H:Anime_1Tera\Nanatsu no Taizai\S2\[AnimeRG] Nanatsu no Taizai Season 2 -  -  04 [x265 720p 10bit] [JRR].mkv|249404164|1533133715.5632117
+H:Anime_1Tera\Nanatsu no Taizai\S2\[AnimeRG] Nanatsu no Taizai Season 2 -  -  05 [x265 720p 10bit] [JRR].mkv|263272059|1533133737.964493
+H:Anime_1Tera\Nanatsu no Taizai\S2\[AnimeRG] Nanatsu no Taizai Season 2 -  -  06 [x265 720p 10bit] [JRR].mkv|169553996|1533133769.243282
+H:Anime_1Tera\Nanatsu no Taizai\S2\[AnimeRG] Nanatsu no Taizai Season 2 -  -  07 [x265 720p 10bit] [JRR].mkv|191470643|1533133795.172765
+H:Anime_1Tera\Nanatsu no Taizai\S2\[AnimeRG] Nanatsu no Taizai Season 2 -  -  08 [x265 720p 10bit] [JRR].mkv|219232692|1533133825.6335075
+H:Anime_1Tera\Nanatsu no Taizai\S2\[AnimeRG] Nanatsu no Taizai Season 2 -  -  09 [x265 720p 10bit] [JRR].mkv|194702572|1533133851.1429665
+H:Anime_1Tera\Nanatsu no Taizai\S2\[AnimeRG] Nanatsu no Taizai Season 2 -  -  10 [x265 720p 10bit] [JRR].mkv|203615673|1533133856.2632594
+H:Anime_1Tera\Nanatsu no Taizai\S2\[AnimeRG] Nanatsu no Taizai Season 2 -  -  11 [x265 720p 10bit] [JRR].mkv|169819609|1533133892.2833197
+H:Anime_1Tera\Nanatsu no Taizai\S2\[AnimeRG] Nanatsu no Taizai Season 2 -  -  12 [x265 720p 10bit] [JRR].mkv|189907950|1533133937.6099122
+H:Anime_1Tera\Nanatsu no Taizai\S2\[AnimeRG] Nanatsu no Taizai Season 2 -  -  13 [x265 720p 10bit] [JRR].mkv|207678751|1533133965.1964898
+H:Anime_1Tera\Nanatsu no Taizai\S2\[AnimeRG] Nanatsu no Taizai Season 2 -  -  14 [x265 720p 10bit] [JRR].mkv|204092128|1533134010.4680793
+H:Anime_1Tera\Nanatsu no Taizai\S2\[AnimeRG] Nanatsu no Taizai Season 2 -  -  15 [x265 720p 10bit] [JRR].mkv|197082752|1533134078.750985
+H:Anime_1Tera\Nanatsu no Taizai\S2\[AnimeRG] Nanatsu no Taizai Season 2 -  -  16 [x265 720p 10bit] [JRR].mkv|195572576|1533134143.8817103
+H:Anime_1Tera\Nanatsu no Taizai\S2\[AnimeRG] Nanatsu no Taizai Season 2 -  -  17 [x265 720p 10bit] [JRR].mkv|178209404|1533134158.2775335
+H:Anime_1Tera\Nanatsu no Taizai\S2\[AnimeRG] Nanatsu no Taizai Season 2 -  -  18 [x265 720p 10bit] [JRR].mkv|183413346|1533134224.3103104
+H:Anime_1Tera\Nanatsu no Taizai\S2\[AnimeRG] Nanatsu no Taizai Season 2 -  -  19 [x265 720p 10bit] [JRR].mkv|200108574|1533134264.5976148
+H:Anime_1Tera\Nanatsu no Taizai\S2\[AnimeRG] Nanatsu no Taizai Season 2 -  -  20 [x265 720p 10bit] [JRR].mkv|193679250|1533134298.1645346
+H:Anime_1Tera\Nanatsu no Taizai\S2\[AnimeRG] Nanatsu no Taizai Season 2 -  -  21 [x265 720p 10bit] [JRR].mkv|171392588|1533134357.265915
+H:Anime_1Tera\Nanatsu no Taizai\S2\[AnimeRG] Nanatsu no Taizai Season 2 -  -  22 [x265 720p 10bit] [JRR].mkv|268452930|1533134423.982731
+H:Anime_1Tera\Nanatsu no Taizai\S2\[AnimeRG] Nanatsu no Taizai Season 2 -  -  23 [x265 720p 10bit] [JRR].mkv|221998669|1533134471.0804248
+H:Anime_1Tera\Nanatsu no Taizai\S2\[AnimeRG] Nanatsu no Taizai Season 2 -  -  24 V2 [x265 720p 10bit] [JRR].mkv|172077699|1533134494.8917868
+H:Anime_1Tera\Naruto|16384|1451558104.7757022
+H:Anime_1Tera\No Game No Life|3778209025|1442649506.3831253
+H:Anime_1Tera\No Game No Life\No Game No Life  Ep.10.mp4|332808182|1442658817.4716437
+H:Anime_1Tera\No Game No Life\No Game No Life  Ep.11.mkv|404621502|1442662253.38667
+H:Anime_1Tera\No Game No Life\No Game No Life  Ep.12.mp4|262348752|1442662267.0584521
+H:Anime_1Tera\No Game No Life\No Game No Life  Ep.5.mp4|299516193|1442654541.2931058
+H:Anime_1Tera\No Game No Life\No Game No Life  Ep.6.mp4|373267316|1442654897.2134633
+H:Anime_1Tera\No Game No Life\No Game No Life  Ep.7.mp4|381468380|1442656902.1351383
+H:Anime_1Tera\No Game No Life\No Game No Life  EP.8.mp4|362328575|1442656931.6888218
+H:Anime_1Tera\No Game No Life\No Game No Life  Ep.9.mp4|289901316|1442658800.973739
+H:Anime_1Tera\No Game No Life\No Game No Life Ep.1.mp4|381664435|1442651902.7201881
+H:Anime_1Tera\No Game No Life\No Game No Life Ep.2.mp4|313880554|1442649811.1595576
+H:Anime_1Tera\No Game No Life\No Game No Life Ep.3.mp4|376395628|1442651039.5538177
+H:Anime_1Tera\No Game No Life\No Game No Life Ep.4.mp4|392195590|1442653574.3127978
+H:Anime_1Tera\No.6|1222190825|1451581377.5817077
+H:Anime_1Tera\No.6\Ani-World.CoM.No.6.Ep.2.SD(1).mp4|78701552|1451581377.5847077
+H:Anime_1Tera\No.6\desktop.ini|91|1451581384.5731075
+H:Anime_1Tera\No.6\No.6_03_SD_3asq_JIN(1).mp4|104861250|1451581384.6141098
+H:Anime_1Tera\No.6\No.6_04_SD_JIN(1).mp4|104897114|1451581394.2756624
+H:Anime_1Tera\No.6\no.6_07_hq_ar.animegist.com_2.mp4|209041143|1451581402.7871492
+H:Anime_1Tera\No.6\No.6_08_SD_ar.animegist.com.mp4|104097399|1451581419.1110828
+H:Anime_1Tera\No.6\No.6_10_SD_ar.animegist.com.mp4|104024013|1451581427.573567
+H:Anime_1Tera\No.6\No.6_11_SD_ar.animegist.com.mp4|103653981|1451581435.3820136
+H:Anime_1Tera\No.6\No.6_9_SD_ar.animegist.com(1).mp4|104088270|1451581444.6425433
+H:Anime_1Tera\No.6\Thumbs.db|41984|1451581452.3059814
+H:Anime_1Tera\No.6\[L.D] No. 6 - 05.mp4|204250288|1451581452.4289887
+H:Anime_1Tera\No.6\[L.D] No. 6 - 06 SD.mp4|104525548|1451581468.5339098
+H:Anime_1Tera\No.6\[tblackstar.com] No. 6 - 01 [SD](1).mp4|103744621|1451581476.038339
+H:Anime_1Tera\One Punch Man|4517829646|1451579187.430438
+H:Anime_1Tera\One Punch Man\1_al1d2v7tyedjsh_[Animop.com] OPM - 012 [FHD][1080p].mp4|600757332|1451514340.3994815
+H:Anime_1Tera\One Punch Man\[Animop.com] OPM - 001 [SD][480p][V2].mp4|192186210|1451579187.4334383
+H:Anime_1Tera\One Punch Man\[Animop.com] OPM - 007 [FHD][1080p][V3].mp4|525630105|1451579198.1280499
+H:Anime_1Tera\One Punch Man\[Animop.com] OPM - 008 [FHD][1080p]_2.mp4|601476904|1451579239.8664372
+H:Anime_1Tera\One Punch Man\[Animop.com] OPM - 009 [HD][720p].mp4|363765833|1451579285.757062
+H:Anime_1Tera\One Punch Man\[Animop.com] OPM - 010 [FHD][1080p].mp4|447683558|1451579312.6205986
+H:Anime_1Tera\One Punch Man\[Animop.com] OPM - 011 [FHD][1080p].mp4|538288580|1451579343.3063538
+H:Anime_1Tera\One Punch Man\[ZiMABDk] One Punch Man - 02  [720P][arabic].mp4|295106423|1451579384.15269
+H:Anime_1Tera\One Punch Man\[ZiMABDk] One Punch Man - 03 [720P][arabic].mp4|307316539|1451579410.2321815
+H:Anime_1Tera\One Punch Man\[ZiMABDk] One Punch Man - 05  [720P][arabic].mp4|331987280|1451579431.3233879
+H:Anime_1Tera\One Punch Man\[ZiMABDk] One-Punch Man - 04  [720P][arabic].mp4|313622690|1451579469.4945712
+H:Anime_1Tera\One Punch Man\[ZiMABDk] One-Punch Man - 06  [720P][arabic].mp4|327581778|1451579496.0400896
+H:Anime_1Tera\Parasyte|6676989322|1443379598.0343168
+H:Anime_1Tera\Parasyte\Parasyte Ep.1.mp4|293644765|1443320215.1758115
+H:Anime_1Tera\Parasyte\Parasyte Ep.10.mp4|419521060|1443345062.2449825
+H:Anime_1Tera\Parasyte\Parasyte Ep.11.mp4|419494421|1443349136.575021
+H:Anime_1Tera\Parasyte\Parasyte Ep.12.mp4|419593524|1443347027.0173612
+H:Anime_1Tera\Parasyte\Parasyte Ep.13.mp4|262118189|1443350664.044387
+H:Anime_1Tera\Parasyte\Parasyte Ep.14.mp4|262179796|1443355660.151148
+H:Anime_1Tera\Parasyte\Parasyte Ep.15.mp4|262099740|1443356334.9267433
+H:Anime_1Tera\Parasyte\Parasyte Ep.16.mp4|262331842|1443357032.5756464
+H:Anime_1Tera\Parasyte\Parasyte Ep.17.mp4|293665702|1443357917.1232395
+H:Anime_1Tera\Parasyte\Parasyte Ep.18.mp4|293643830|1443358850.0365992
+H:Anime_1Tera\Parasyte\Parasyte Ep.19.mp4|293546591|1443359772.2583473
+H:Anime_1Tera\Parasyte\Parasyte Ep.2.mp4|293776114|1443321119.3325264
+H:Anime_1Tera\Parasyte\Parasyte Ep.20.mp4|240308431|1443361384.0835383
+H:Anime_1Tera\Parasyte\Parasyte Ep.21.mp4|230990745|1443362735.0338082
+H:Anime_1Tera\Parasyte\Parasyte Ep.22.mp4|226084911|1443363474.6971147
+H:Anime_1Tera\Parasyte\Parasyte Ep.23.mp4|242526675|1443376663.0224438
+H:Anime_1Tera\Parasyte\Parasyte Ep.24 End.mp4|293628878|1443379575.5100286
+H:Anime_1Tera\Parasyte\Parasyte Ep.3.mp4|293809209|1443321784.3005605
+H:Anime_1Tera\Parasyte\Parasyte Ep.4.mp4|293788557|1443321877.410886
+H:Anime_1Tera\Parasyte\Parasyte Ep.5.mp4|293590656|1443323667.1972558
+H:Anime_1Tera\Parasyte\Parasyte Ep.6.mp4|293671124|1443323684.7432594
+H:Anime_1Tera\Parasyte\Parasyte Ep.7.mp4|230751637|1443326555.1764388
+H:Anime_1Tera\Parasyte\Parasyte Ep.8.mp4|262206541|1443326587.6222947
+H:Anime_1Tera\Parasyte\Parasyte Ep.9.mp4|262091197|1443345046.537084
+H:Anime_1Tera\Planetes|5353511451|1450799924.8554204
+H:Anime_1Tera\Planetes\Planetes Ep.1.mkv|231461777|1450799924.8754203
+H:Anime_1Tera\Planetes\Planetes Ep.10.mkv|209293031|1450799936.6354368
+H:Anime_1Tera\Planetes\Planetes Ep.11.mkv|209259246|1450799945.2754488
+H:Anime_1Tera\Planetes\Planetes Ep.12.mkv|209384770|1450799954.4354618
+H:Anime_1Tera\Planetes\Planetes Ep.13.mkv|261760393|1450799963.6454747
+H:Anime_1Tera\Planetes\Planetes Ep.14.mkv|209284020|1450799974.8354902
+H:Anime_1Tera\Planetes\Planetes Ep.15.mkv|209343673|1450799983.9855032
+H:Anime_1Tera\Planetes\Planetes Ep.16.mkv|209338788|1450799992.8555155
+H:Anime_1Tera\Planetes\Planetes Ep.17.mkv|209383611|1450800002.0855284
+H:Anime_1Tera\Planetes\Planetes Ep.18.mkv|209381651|1450800010.935541
+H:Anime_1Tera\Planetes\Planetes Ep.19.mkv|209353232|1450800020.0255535
+H:Anime_1Tera\Planetes\Planetes Ep.2.mkv|231449411|1450800029.025566
+H:Anime_1Tera\Planetes\Planetes Ep.20.mkv|209358411|1450800039.665581
+H:Anime_1Tera\Planetes\Planetes Ep.21.mkv|209325919|1450800048.975594
+H:Anime_1Tera\Planetes\Planetes Ep.22.mkv|209296581|1450800058.225607
+H:Anime_1Tera\Planetes\Planetes Ep.23.mkv|209333542|1450800066.9656193
+H:Anime_1Tera\Planetes\Planetes Ep.24.mkv|209374213|1450800076.2256322
+H:Anime_1Tera\Planetes\Planetes Ep.25.mkv|209354345|1450800085.0556445
+H:Anime_1Tera\Planetes\Planetes Ep.26.mkv|209265411|1450800094.2156575
+H:Anime_1Tera\Planetes\Planetes Ep.3.mkv|209205743|1450800102.8356695
+H:Anime_1Tera\Planetes\Planetes Ep.4.mkv|209318205|1450800112.3856828
+H:Anime_1Tera\Planetes\Planetes Ep.5.mkv|232925089|1450800121.7156959
+H:Anime_1Tera\Planetes\Planetes Ep.6.mkv|209358962|1450800131.83571
+H:Anime_1Tera\Planetes\Planetes Ep.7.mkv|209357112|1450800141.035723
+H:Anime_1Tera\Planetes\Planetes Ep.8.mkv|209327931|1450800150.2657359
+H:Anime_1Tera\Planetes\Planetes Ep.9.mkv|209322838|1450800159.3157487
+H:Anime_1Tera\Psycho Pass|11356292812|1451579535.7953634
+H:Anime_1Tera\Psycho Pass\OVA|0|1589529987.8325868
+H:Anime_1Tera\Psycho Pass\OVA\[animesan1.com] Gekijouban Psycho-Pass (BD.720p.10bit).mkv|2523183427|1470003341.9886348
+H:Anime_1Tera\Psycho Pass\S1|4760039985|1589533855.839779
+H:Anime_1Tera\Psycho Pass\S1\ShQQaa.com_Psycho-Pass- 01 - HD_By alforma.mkv|208985470|1451579535.7973635
+H:Anime_1Tera\Psycho Pass\S1\ShQQaa.com_Psycho-Pass- 02 - HD_By alforma.mp4|285699494|1451579546.349967
+H:Anime_1Tera\Psycho Pass\S1\ShQQaa.com_Psycho-Pass- 03 - HD_By alforma.mp4|206327165|1451579560.4837756
+H:Anime_1Tera\Psycho Pass\S1\ShQQaa.com_Psycho-Pass- 04 - HD_By alforma.mp4|206326576|1451579570.546351
+H:Anime_1Tera\Psycho Pass\S1\ShQQaa.com_Psycho-Pass- 05 - HD_By alforma.mp4|259644825|1451579580.634928
+H:Anime_1Tera\Psycho Pass\S1\ShQQaa.com_Psycho-Pass- 06 - HD_By alforma.mp4|206301866|1451579593.5646677
+H:Anime_1Tera\Psycho Pass\S1\ShQQaa.com_Psycho-Pass- 07 - HD_By alforma.mp4|277157612|1451579603.7342494
+H:Anime_1Tera\Psycho Pass\S1\ShQQaa.com_Psycho-Pass- 08 - HD_By alforma.mp4|206182325|1451579616.456977
+H:Anime_1Tera\Psycho Pass\S1\ShQQaa.com_Psycho-Pass- 09 - HD_By alforma.mp4|255933860|1451579626.1485312
+H:Anime_1Tera\Psycho Pass\S1\ShQQaa.com_Psycho-Pass- 10 - HD_By alforma.mp4|221776713|1451579637.945206
+H:Anime_1Tera\Psycho Pass\S1\ShQQaa.com_Psycho-Pass- 11 - HD_By alforma.mp4|233426048|1451579648.2357945
+H:Anime_1Tera\Psycho Pass\S1\ShQQaa.com_Psycho-Pass- 12 - HD_By alforma.mp4|248908994|1451579659.2404242
+H:Anime_1Tera\Psycho Pass\S1\ShQQaa.com_Psycho-Pass- 13 - HD_By alforma.mp4|233584446|1451579671.0971022
+H:Anime_1Tera\Psycho Pass\S1\ShQQaa.com_Psycho-Pass- 14 - HD_By alforma.mp4|221759977|1451579681.879719
+H:Anime_1Tera\Psycho Pass\S1\ShQQaa.com_Psycho-Pass- 15 - HD_By alforma.mp4|254320159|1451579692.7413402
+H:Anime_1Tera\Psycho Pass\S1\ShQQaa.com_Psycho-Pass- 16 - HD_By alforma.mp4|226888822|1451579704.3080018
+H:Anime_1Tera\Psycho Pass\S1\ShQQaa.com_Psycho-Pass- 17 - HD_By alforma.mp4|205063801|1451579714.8776064
+H:Anime_1Tera\Psycho Pass\S1\ShQQaa.com_Psycho-Pass- 18 - HD_By alforma.mp4|181606319|1451579724.8851788
+H:Anime_1Tera\Psycho Pass\S1\ShQQaa.com_Psycho-Pass- 19 - HD_By alforma.mp4|197359873|1451579735.39978
+H:Anime_1Tera\Psycho Pass\S1\ShQQaa.com_Psycho-Pass- 20 - HD_By alforma.mp4|215139163|1451579746.4174104
+H:Anime_1Tera\Psycho Pass\S1\ShQQaa.com_Psycho-Pass- 21 - HD_By alforma.mp4|207630093|1451579757.1930265
+H:Anime_1Tera\Psycho Pass\S1\ShQQaa.com_Psycho-Pass- 22 END - HD_By alforma.mp4|251201737|1451579769.6737404
+H:Anime_1Tera\Psycho Pass\S2|3821863567|1451579197.1589944
+H:Anime_1Tera\Psycho Pass\S2\[animesan1.com] Psycho-Pass 2 - 01 [HD 720p].mkv|366363773|1451579197.2059972
+H:Anime_1Tera\Psycho Pass\S2\[animesan1.com] Psycho-Pass 2 - 02 [HD 720p].mkv|321650641|1451579218.6312227
+H:Anime_1Tera\Psycho Pass\S2\[animesan1.com] Psycho-Pass 2 - 03 [HD 720p].mkv|344938217|1451579252.1841419
+H:Anime_1Tera\Psycho Pass\S2\[animesan1.com] Psycho-Pass 2 - 04 [HD 720p].mkv|394832074|1451579286.4991045
+H:Anime_1Tera\Psycho Pass\S2\[animesan1.com] Psycho-Pass 2 - 05 [HD 720p][.mkv|370240865|1451579333.7378063
+H:Anime_1Tera\Psycho Pass\S2\[animesan1.com] Psycho-Pass 2 - 06 [HD 720p].mkv|450233607|1451579369.0688272
+H:Anime_1Tera\Psycho Pass\S2\[animesan1.com] Psycho-Pass 2 - 07 [HD 720p].mkv|375900467|1451579397.5894585
+H:Anime_1Tera\Psycho Pass\S2\[animesan1.com] Psycho-Pass 2 - 08 [HD 720p].mkv|365547252|1451579428.2722135
+H:Anime_1Tera\Psycho Pass\S2\[animesan1.com] Psycho-Pass 2 - 09 [HD 720p].mkv|394632462|1451579453.2046394
+H:Anime_1Tera\Psycho Pass\S2\[animesan1.com] Psycho-Pass 2 - 10 [HD 720p].mkv|437516017|1451579478.6800966
+H:Anime_1Tera\Psycho Pass\S2\[animesan1.com] Psycho-Pass 2 - 11 [HD 720p].mkv|434686013|1451579514.650154
+H:Anime_1Tera\Rokka no Yuusha|3716238649|1456559750.3515346
+H:Anime_1Tera\Rokka no Yuusha\Rokka no Yuusha Ep.1.mkv|338187826|1456545428.998711
+H:Anime_1Tera\Rokka no Yuusha\Rokka no Yuusha Ep.10.mkv|337921124|1456545608.1346672
+H:Anime_1Tera\Rokka no Yuusha\Rokka no Yuusha Ep.11.mkv|337243998|1456545635.9094782
+H:Anime_1Tera\Rokka no Yuusha\Rokka no Yuusha Ep.12.mkv|337564146|1456545662.3302047
+H:Anime_1Tera\Rokka no Yuusha\Rokka no Yuusha Ep.2.mkv|338059592|1456545457.6187382
+H:Anime_1Tera\Rokka no Yuusha\Rokka no Yuusha Ep.3.mkv|337139664|1456545474.2542796
+H:Anime_1Tera\Rokka no Yuusha\Rokka no Yuusha Ep.4.mkv|338185034|1456545490.579174
+H:Anime_1Tera\Rokka no Yuusha\Rokka no Yuusha Ep.5.mkv|338098710|1456545508.304247
+H:Anime_1Tera\Rokka no Yuusha\Rokka no Yuusha Ep.6.mkv|338274263|1456545522.2001946
+H:Anime_1Tera\Rokka no Yuusha\Rokka no Yuusha Ep.7.mkv|338324420|1456545543.3584418
+H:Anime_1Tera\Rokka no Yuusha\Rokka no Yuusha Ep.8.mkv|337231680|1456545560.5032482
+H:Anime_1Tera\Rokka no Yuusha\Rokka no Yuusha Ep.9.mkv|337147350|1456545582.088898
+H:Anime_1Tera\Seirei no Moribito|7475882166|1461947860.4501193
+H:Anime_1Tera\Seirei no Moribito\[animesan1.com] Seirei no Moribito [01][JP-AR][1280x720][5EABC74D].mkv|281054422|1461947860.4501193
+H:Anime_1Tera\Seirei no Moribito\[animesan1.com] Seirei no Moribito [02][JP-AR][1280x720][62A2D60A].mkv|261644026|1461947884.062245
+H:Anime_1Tera\Seirei no Moribito\[animesan1.com] Seirei no Moribito [03][JP-AR][1280x720][C619AC1C].mkv|301031431|1461947905.2444437
+H:Anime_1Tera\Seirei no Moribito\[animesan1.com] Seirei no Moribito [04][JP-AR][1280x720][39EA3F0F].mkv|311086220|1461947934.0910935
+H:Anime_1Tera\Seirei no Moribito\[animesan1.com] Seirei no Moribito [05][JP-AR][1280x720][D3A46CB9].mkv|306113523|1461947960.448601
+H:Anime_1Tera\Seirei no Moribito\[animesan1.com] Seirei no Moribito [06][JP-AR][1280x720][88BE1911].mkv|364296670|1461947985.3920279
+H:Anime_1Tera\Seirei no Moribito\[animesan1.com] Seirei no Moribito [07][JP-AR][1280x720][827FFAB7].mkv|269891993|1461948014.7997098
+H:Anime_1Tera\Seirei no Moribito\[animesan1.com] Seirei no Moribito [08][JP-AR][1280x720][33A31BA9].mkv|223804820|1461948036.989979
+H:Anime_1Tera\Seirei no Moribito\[animesan1.com] Seirei no Moribito [09][JP-AR][1280x720][5280F517].mkv|253859899|1461948056.3030837
+H:Anime_1Tera\Seirei no Moribito\[animesan1.com] Seirei no Moribito [10][JP-AR][1280x720][1A37DF55].mkv|258104819|1461948078.4683514
+H:Anime_1Tera\Seirei no Moribito\[animesan1.com] Seirei no Moribito [11][JP-AR][1280x720][5755C03B].mkv|265520181|1461948100.1785932
+H:Anime_1Tera\Seirei no Moribito\[animesan1.com] Seirei no Moribito [12][JP-AR][1280x720][80D267D2].mkv|254673736|1461948122.9288943
+H:Anime_1Tera\Seirei no Moribito\[animesan1.com] Seirei no Moribito [13][JP-AR][1280x720][CF1C2873].mkv|355203900|1461948145.945211
+H:Anime_1Tera\Seirei no Moribito\[animesan1.com] Seirei no Moribito [14][JP-AR][1280x720][CB1C0D48].mkv|364896134|1461948176.6799688
+H:Anime_1Tera\Seirei no Moribito\[animesan1.com] Seirei no Moribito [15][JP-AR][1280x720][E33CB705].mkv|328021034|1461948206.8036919
+H:Anime_1Tera\Seirei no Moribito\[animesan1.com] Seirei no Moribito [16][JP-AR][1280x720][2B764F60].mkv|229986031|1461948242.071709
+H:Anime_1Tera\Seirei no Moribito\[animesan1.com] Seirei no Moribito [17][JP-AR][1280x720][5152032A].mkv|244937397|1461948259.6007116
+H:Anime_1Tera\Seirei no Moribito\[animesan1.com] Seirei no Moribito [18][JP-AR][1280x720][3C92CD3D].mkv|231680055|1461948278.4837916
+H:Anime_1Tera\Seirei no Moribito\[animesan1.com] Seirei no Moribito [19][JP-AR][1280x720][538EA552].mkv|306179764|1461948296.425818
+H:Anime_1Tera\Seirei no Moribito\[animesan1.com] Seirei no Moribito [20][JP-AR][1280x720][04B2593D].mkv|326156862|1461948320.4021893
+H:Anime_1Tera\Seirei no Moribito\[animesan1.com] Seirei no Moribito [21][JP-AR][1280x720][37BD9758].mkv|331809466|1461948342.3444443
+H:Anime_1Tera\Seirei no Moribito\[animesan1.com] Seirei no Moribito [22][JP-AR][1280x720][ADA09729].mkv|326640744|1461948366.767841
+H:Anime_1Tera\Seirei no Moribito\[animesan1.com] Seirei no Moribito [23][JP-AR][1280x720][123A172C].mkv|354165679|1461948392.3003016
+H:Anime_1Tera\Seirei no Moribito\[animesan1.com] Seirei no Moribito [24][JP-AR][1280x720][33E11626].mkv|354551175|1461948422.6420372
+H:Anime_1Tera\Seirei no Moribito\[animesan1.com] Seirei no Moribito [25][JP-AR][1280x720][264A91F9].mkv|370531225|1461948446.2423868
+H:Anime_1Tera\Seirei no Moribito\[animesan1.com] Seirei no Moribito [26][JP-AR][1280x720][350D6D61].mkv|355464823|1461948482.9704876
+H:Anime_1Tera\Shimoneta to Iu Gainen ga Sonzai Shinai Taikutsu na Sekai|2878525122|1452257207.3636062
+H:Anime_1Tera\Shimoneta to Iu Gainen ga Sonzai Shinai Taikutsu na Sekai\[Vergil] Shimoneta to Iu Gainen ga Sonzai Shinai Taikutsu na Sekai - 01 [720p].mp4|275557020|1452257207.3946078
+H:Anime_1Tera\Shimoneta to Iu Gainen ga Sonzai Shinai Taikutsu na Sekai\[Vergil] Shimoneta to Iu Gainen ga Sonzai Shinai Taikutsu na Sekai - 02 [720p].mp4|266144213|1452257219.9903283
+H:Anime_1Tera\Shimoneta to Iu Gainen ga Sonzai Shinai Taikutsu na Sekai\[Vergil] Shimoneta to Iu Gainen ga Sonzai Shinai Taikutsu na Sekai - 03 [720p].mp4|282712141|1452257231.856007
+H:Anime_1Tera\Shimoneta to Iu Gainen ga Sonzai Shinai Taikutsu na Sekai\[Vergil] Shimoneta to Iu Gainen ga Sonzai Shinai Taikutsu na Sekai - 04 [720p].mp4|226576924|1452257244.4777288
+H:Anime_1Tera\Shimoneta to Iu Gainen ga Sonzai Shinai Taikutsu na Sekai\[Vergil] Shimoneta to Iu Gainen ga Sonzai Shinai Taikutsu na Sekai - 05 [720p].mp4|231086518|1452257254.829321
+H:Anime_1Tera\Shimoneta to Iu Gainen ga Sonzai Shinai Taikutsu na Sekai\[Vergil] Shimoneta to Iu Gainen ga Sonzai Shinai Taikutsu na Sekai - 06 [720P].mp4|263337623|1452257264.77989
+H:Anime_1Tera\Shimoneta to Iu Gainen ga Sonzai Shinai Taikutsu na Sekai\[Vergil] Shimoneta to Iu Gainen ga Sonzai Shinai Taikutsu na Sekai - 07 [720p].mp4|274190096|1452257276.0635355
+H:Anime_1Tera\Shimoneta to Iu Gainen ga Sonzai Shinai Taikutsu na Sekai\[Vergil] Shimoneta to Iu Gainen ga Sonzai Shinai Taikutsu na Sekai - 08 [720p].mp4|277602942|1452257287.733203
+H:Anime_1Tera\Shimoneta to Iu Gainen ga Sonzai Shinai Taikutsu na Sekai\[Vergil] Shimoneta to Iu Gainen ga Sonzai Shinai Taikutsu na Sekai - 09 [720p].mp4|276310791|1452257300.1269119
+H:Anime_1Tera\Shimoneta to Iu Gainen ga Sonzai Shinai Taikutsu na Sekai\[Vergil] Shimoneta to Iu Gainen ga Sonzai Shinai Taikutsu na Sekai - 10  [HD].mp4|232960734|1452257318.401957
+H:Anime_1Tera\Shimoneta to Iu Gainen ga Sonzai Shinai Taikutsu na Sekai\[Vergil] Shimoneta to Iu Gainen ga Sonzai Shinai Taikutsu na Sekai - 11 [720p].mp4|272029736|1452257333.7938375
+H:Anime_1Tera\Shimoneta to Iu Gainen ga Sonzai Shinai Taikutsu na Sekai\[Vergil] Shimoneta to Iu Gainen ga Sonzai Shinai Taikutsu na Sekai - 12 END [HD].mp4|277861251|1452257351.2078335
+H:Anime_1Tera\Soul Eater|11920222861|1451580409.160317
+H:Anime_1Tera\Soul Eater\1.mkv|271062431|1451580409.2003193
+H:Anime_1Tera\Soul Eater\6.mkv|256403693|1451580423.011109
+H:Anime_1Tera\Soul Eater\desktop.ini|108|1451580435.3628156
+H:Anime_1Tera\Soul Eater\SE07_Al3asq_Upload_Team_MOdy92.mkv|246218256|1451580435.4418201
+H:Anime_1Tera\Soul Eater\SE08_Al3asq_Upload_Team_MOdy92.mkv|246192128|1451580447.9785373
+H:Anime_1Tera\Soul Eater\SE09_Al3asq_Upload_Team_MOdy92.mkv|258260361|1451580459.6222034
+H:Anime_1Tera\Soul Eater\SE10_Al3asq_Upload_Team_MOdy92.mkv|248879394|1451580471.5108833
+H:Anime_1Tera\Soul Eater\SE11_Al3asq_Upload_Team_MOdy92.mkv|239819669|1451580483.535571
+H:Anime_1Tera\Soul Eater\SE12_Al3asq_Upload_Team_MOdy92.mkv|236788278|1451580494.5762024
+H:Anime_1Tera\Soul Eater\SE13_Al3asq_Upload_Team_MOdy92.mp4|184775785|1451580505.841847
+H:Anime_1Tera\Soul Eater\SE14_Al3asq_Upload_Team_MOdy92.mkv|242556552|1451580514.2283266
+H:Anime_1Tera\Soul Eater\SE15_Al3asq_Upload_Team_MOdy92.mkv|247664767|1451580525.5899763
+H:Anime_1Tera\Soul Eater\SE16_Al3asq_Upload_Team_MOdy92.mkv|260209719|1451580536.9396255
+H:Anime_1Tera\Soul Eater\SE17_Al3asq_Upload_Team_MOdy92.mkv|303181464|1451580549.4263399
+H:Anime_1Tera\Soul Eater\SE18_Al3asq_Upload_Team_MOdy92.mkv|244181230|1451580563.7261577
+H:Anime_1Tera\Soul Eater\SE19_Al3asq_Upload_Team_MOdy92.mkv|295396593|1451580574.449771
+H:Anime_1Tera\Soul Eater\SE20_Al3asq_Upload_Team_MOdy92.mkv|255051743|1451580587.9255419
+H:Anime_1Tera\Soul Eater\SE21_Al3asq_Upload_Team_MOdy92.mkv|250328445|1451580599.537206
+H:Anime_1Tera\Soul Eater\SE22_Al3asq_Upload_Team_MOdy92.mkv|262285944|1451580616.166157
+H:Anime_1Tera\Soul Eater\SE23_Al3asq_Upload_Team_MOdy92.mkv|259937898|1451580635.97429
+H:Anime_1Tera\Soul Eater\SE24_Al3asq_Upload_Team_MOdy92.mkv|287351267|1451580655.3043957
+H:Anime_1Tera\Soul Eater\SE25_Al3asq_Upload_Team_MOdy92.mkv|258673550|1451580678.038696
+H:Anime_1Tera\Soul Eater\SE26_Al3asq_Upload_Team_MOdy92.mkv|267394387|1451580698.6968777
+H:Anime_1Tera\Soul Eater\SE27_Al3asq_Upload_Team_MOdy92.mkv|333909616|1451580718.3780034
+H:Anime_1Tera\Soul Eater\SE28_Al3asq_Upload_Team_MOdy92.mkv|345352080|1451580741.8813477
+H:Anime_1Tera\Soul Eater\SE29_Al3asq_Upload_Team_MOdy92.mkv|218324920|1451580766.1627364
+H:Anime_1Tera\Soul Eater\SE30_Al3asq_Upload_Team_MOdy92.mkv|251885161|1451580783.3867216
+H:Anime_1Tera\Soul Eater\SE31_Al3asq_Upload_Team_MOdy92.mkv|225834859|1451580802.521816
+H:Anime_1Tera\Soul Eater\SE32_Al3asq_Upload_Team_MOdy92.mkv|271981181|1451580819.6967983
+H:Anime_1Tera\Soul Eater\SE33_Al3asq_Upload_Team_MOdy92.mkv|259295030|1451580841.2010283
+H:Anime_1Tera\Soul Eater\SE34_Al3asq_Upload_Team_MOdy92.mkv|364940545|1451580861.3641815
+H:Anime_1Tera\Soul Eater\SE35_Al3asq_Upload_Team_MOdy92.mkv|324917905|1451580887.20866
+H:Anime_1Tera\Soul Eater\SE36_Al3asq_Upload_Team_MOdy92.mkv|324566734|1451580913.6481721
+H:Anime_1Tera\Soul Eater\SE37_Al3asq_Upload_Team_MOdy92.mkv|229281943|1451580937.6725461
+H:Anime_1Tera\Soul Eater\SE38_Al3asq_Upload_Team_MOdy92.mkv|217947674|1451580955.5485685
+H:Anime_1Tera\Soul Eater\SE39_Al3asq_Upload_Team_MOdy92.mkv|207025343|1451580972.4895377
+H:Anime_1Tera\Soul Eater\SE40_Al3asq_Upload_Team_MOdy92.mkv|208869631|1451580987.6254034
+H:Anime_1Tera\Soul Eater\SE41_Al3asq_Upload_Team_MOdy92.mkv|192112302|1451581002.9962826
+H:Anime_1Tera\Soul Eater\SE42_Al3asq_Upload_Team_MOdy92.mkv|226852512|1451581018.197152
+H:Anime_1Tera\Soul Eater\SE43_Al3asq_Upload_Team_MOdy92.mkv|302068714|1451581035.6951528
+H:Anime_1Tera\Soul Eater\SE44_Al3asq_Upload_Team_MOdy92.mkv|231873362|1451581058.3264472
+H:Anime_1Tera\Soul Eater\SE45_Al3asq_Upload_Team_MOdy92.mkv|221037567|1451581075.9224536
+H:Anime_1Tera\Soul Eater\SE46_Al3asq_Upload_Team_MOdy92.mkv|240118560|1451581093.0484333
+H:Anime_1Tera\Soul Eater\SE47_Al3asq_Upload_Team_MOdy92.mkv|304292184|1451581110.7534459
+H:Anime_1Tera\Soul Eater\SE48_Al3asq_Upload_Team_MOdy92.mkv|262128136|1451581133.4417436
+H:Anime_1Tera\Soul Eater\SE49_Al3asq_Upload_Team_MOdy92.mkv|268126852|1451581153.9279153
+H:Anime_1Tera\Soul Eater\SE50_Al3asq_Upload_Team_MOdy92.mkv|264817236|1451581175.1941316
+H:Anime_1Tera\Soul Eater\SE51_Al3asq_Upload_Team_MOdy92.mkv|353965742|1451581195.3102822
+H:Anime_1Tera\Sword Art Online|5659673840|1444467792.86871
+H:Anime_1Tera\Sword Art Online\Sword Art Online Ep.1.mp4|209745000|1444467695.6314507
+H:Anime_1Tera\Sword Art Online\Sword Art Online Ep.10.mp4|208842188|1444469878.4456449
+H:Anime_1Tera\Sword Art Online\Sword Art Online Ep.11.mp4|157251059|1444469971.5962079
+H:Anime_1Tera\Sword Art Online\Sword Art Online Ep.12.mp4|179408088|1444470035.3663466
+H:Anime_1Tera\Sword Art Online\Sword Art Online Ep.13.mkv|239619241|1444470083.9262898
+H:Anime_1Tera\Sword Art Online\Sword Art Online Ep.14.mkv|289662034|1444470146.8364542
+H:Anime_1Tera\Sword Art Online\Sword Art Online Ep.15.mkv|159009983|1444470229.5759132
+H:Anime_1Tera\Sword Art Online\Sword Art Online Ep.16.mkv|235418516|1444470266.9318573
+H:Anime_1Tera\Sword Art Online\Sword Art Online Ep.17.mp4|387625938|1444470371.8419375
+H:Anime_1Tera\Sword Art Online\Sword Art Online Ep.18.mp4|202381192|1444470415.9782612
+H:Anime_1Tera\Sword Art Online\Sword Art Online Ep.19.mkv|245998761|1444470615.7166152
+H:Anime_1Tera\Sword Art Online\Sword Art Online Ep.2.mp4|209325213|1444467951.5724595
+H:Anime_1Tera\Sword Art Online\Sword Art Online Ep.20.mkv|310012620|1444501073.6858964
+H:Anime_1Tera\Sword Art Online\Sword Art Online Ep.21.mkv|274466946|1444501158.6691384
+H:Anime_1Tera\Sword Art Online\Sword Art Online Ep.22.mkv|342288460|1444501192.8409266
+H:Anime_1Tera\Sword Art Online\Sword Art Online Ep.23.mkv|344268758|1444501268.136749
+H:Anime_1Tera\Sword Art Online\Sword Art Online Ep.24.mp4|262195666|1444501604.957172
+H:Anime_1Tera\Sword Art Online\Sword Art Online Ep.25.mkv|149302443|1444501767.7961025
+H:Anime_1Tera\Sword Art Online\Sword Art Online Ep.3.mp4|208902028|1444468757.4109607
+H:Anime_1Tera\Sword Art Online\Sword Art Online Ep.4.mp4|208951066|1444469559.13962
+H:Anime_1Tera\Sword Art Online\Sword Art Online Ep.5.mp4|209034655|1444469584.4366953
+H:Anime_1Tera\Sword Art Online\Sword Art Online Ep.6.mp4|208824376|1444469724.3808475
+H:Anime_1Tera\Sword Art Online\Sword Art Online Ep.7.mkv|208219732|1444469762.3590803
+H:Anime_1Tera\Sword Art Online\Sword Art Online Ep.8.mp4|208903493|1444469804.9943964
+H:Anime_1Tera\Sword Art Online\Sword Art Online Ep.9.mkv|196824540|1444469840.2071307
+H:Anime_1Tera\Sword of the Stranger|0|1470005874.6114924
+H:Anime_1Tera\Sword of the Stranger\[Arabasma.com]_Sword of the stranger_HD_[720p].mp4|797181948|1467496041.074384
+H:Anime_1Tera\Your Lie In April|5240163900|1452143490.4214692
+H:Anime_1Tera\Your Lie In April\Your Lie In April Ep.1.mkv|295218972|1452143490.4524708
+H:Anime_1Tera\Your Lie In April\Your Lie In April Ep.10.mkv|192032023|1452143505.1863136
+H:Anime_1Tera\Your Lie In April\Your Lie In April Ep.11.mkv|231955295|1452143514.7818625
+H:Anime_1Tera\Your Lie In April\Your Lie In April Ep.12.mkv|237527933|1452143532.2248602
+H:Anime_1Tera\Your Lie In April\Your Lie In April Ep.13.mkv|232138111|1452143548.1057684
+H:Anime_1Tera\Your Lie In April\Your Lie In April Ep.14.mkv|304151433|1452143564.6317136
+H:Anime_1Tera\Your Lie In April\Your Lie In April Ep.15.mkv|192125545|1452143585.0178797
+H:Anime_1Tera\Your Lie In April\Your Lie In April Ep.16.mkv|266094775|1452143598.854671
+H:Anime_1Tera\Your Lie In April\Your Lie In April Ep.17.mkv|193127545|1452143617.6347454
+H:Anime_1Tera\Your Lie In April\Your Lie In April Ep.18.mkv|227199155|1452143631.458536
+H:Anime_1Tera\Your Lie In April\Your Lie In April Ep.19.mkv|216970802|1452143647.526455
+H:Anime_1Tera\Your Lie In April\Your Lie In April Ep.2.mkv|250026915|1452143663.4903681
+H:Anime_1Tera\Your Lie In April\Your Lie In April Ep.20.mkv|218479308|1452143680.7883575
+H:Anime_1Tera\Your Lie In April\Your Lie In April Ep.21.mkv|234497769|1452143696.5042562
+H:Anime_1Tera\Your Lie In April\Your Lie In April Ep.22.mkv|301024412|1452143718.3395052
+H:Anime_1Tera\Your Lie In April\Your Lie In April Ep.3.mkv|239115066|1452143739.5987213
+H:Anime_1Tera\Your Lie In April\Your Lie In April Ep.4.mkv|278671115|1452143755.3916245
+H:Anime_1Tera\Your Lie In April\Your Lie In April Ep.5.mkv|338470442|1452143775.1067522
+H:Anime_1Tera\Your Lie In April\Your Lie In April Ep.6.mkv|267784890|1452143798.9391153
+H:Anime_1Tera\Your Lie In April\Your Lie In April Ep.7.mkv|281606195|1452143817.8061943
+H:Anime_1Tera\Your Lie In April\Your Lie In April Ep.8.mkv|241929815|1452143837.0382943
+H:Anime_1Tera\Your Lie In April\Your Lie In April Ep.9.mkv|233787006|1452143853.1262145

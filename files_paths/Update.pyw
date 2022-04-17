@@ -1,4 +1,5 @@
 import os
+from pprint import pprint
 from time import sleep
 import settings
 
@@ -17,7 +18,7 @@ def calc_size(paths, sizes):
                 break
 
 def update_all():
-    for txt_path, details in settings.get_txt().items():
+    for txt_path, details in settings.get_txts_info().items():
         if os.path.exists(details['clips path']):
             update(details['clips path'], txt_path)
 
@@ -33,11 +34,9 @@ def generate_txt(txt_path, paths, sizes, ctimes):
                 file_object.write(f'{path}|{size}|{ctime}\n')
             except Exception as E:
                 pass
-        hdd_letter = os.path.splitdrive(path[0])[1]
-        print(f'Updated {hdd_letter}:\\')
 
 
-def update(main_root, txt_path):
+def update(main_root, txt_path, clips_path):
     '''
     Writes to a collections of .txts the trees of files and folders inside
     specific dirs
@@ -63,33 +62,29 @@ def update(main_root, txt_path):
                  sizes=sizes,
                  ctimes=ctimes,
                  txt_path=rel_txt_path)
+    print(f'Updated : {clips_path}')
 
 
+working_dir = r'F:\Coding\Scripts\Files Manager\files_paths'
+os.chdir(working_dir)
+for txt_path, details in settings.get_txts_info().items():
+    if os.path.exists(details['clips path']):
+        update(details['clips path'], txt_path, details['clips path'])
+hdds = {
+    'My Passport(1)': False,
+    'My Passport(2)': False,
+    'Toshiba(1)': False,
+    'Toshiba(2)': False,
+}
+while False in hdds.values():
+    for hdd_name, update_status in hdds.items():
+        letter = settings.get_driver_letter(hdd_name)
+        if letter and not update_status:
+            txt = settings.get_txts_info()
+            hdds[hdd_name] = True
+            for txt_path, details in settings.get_txts_info().items():
+                if os.path.exists(details['clips path']):
+                    update(details['clips path'], txt_path, details['clips path'])
+    sleep(1)
 
-
-def main():
-    for txt_path, details in settings.get_txt().items():
-        if os.path.exists(details['clips path']):
-            update(details['clips path'], txt_path)
-
-    hdds = {
-        'My Passport(1)': False,
-        'My Passport(2)': False,
-        'Toshiba(1)': False,
-        'Toshiba(2)': False,
-    }
-    while False in hdds.values():
-        for hdd_name, update_status in hdds.items():
-            if os.path.exists(settings.get_hdd_letter(hdd_name)) and not update_status:
-                hdds[hdd_name] = True
-                for txt_path, details in settings.get_txt().items():
-                    if os.path.exists(details['clips path']):
-                        update(details['clips path'], txt_path)
-
-        sleep(1)
-
-
-if __name__ == '__main__':
     # hello this is test branch
-    os.chdir('F:\Coding\Scripts\Files Manager\files_paths')
-    main() 

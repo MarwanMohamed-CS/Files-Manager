@@ -1,14 +1,12 @@
-from typing import Collection
 import colorama
 import os
 import re
-import collections
-import MediaInfo
 from send2trash import send2trash
 from time import sleep
 from guessit import guessit
 import files_manipulation as fm
 from files_paths import settings
+
 
 def update():
     '''
@@ -67,7 +65,7 @@ def read():
     the file objects '''
     paths = []
     CURR_DIR = os.getcwd()
-    for path, details in settings.get_txt().items():
+    for path, details in settings.get_txts_info().items():
         path = f'{CURR_DIR}/{path}'
         if not os.path.exists(path):
             continue
@@ -139,6 +137,7 @@ def open_file(results, end_cmd):
          is compressed.***''')
         sleep(4.5)
 
+
 def gen_rars_dups_txt(paths):
     def get_rars_dups(paths):
         rars_dirs = fm.get_rars_dirs(paths)
@@ -149,7 +148,7 @@ def gen_rars_dups_txt(paths):
                 for path in paths:
                     counter += 1
                     ext = os.path.splitext(path.path)[1]
-                    if rars_dir == os.path.dirname(path.path) and( ext == '.mkv' or  ext == '.mp4'):
+                    if rars_dir == os.path.dirname(path.path) and (ext == '.mkv' or ext == '.mp4'):
                         to_del_clips_paths[path] = count
                         break
         return to_del_clips_paths
@@ -160,16 +159,38 @@ def gen_rars_dups_txt(paths):
     with open("new.txt", "w") as file_obj:
         for to_del_clip_path, count in to_del_clips_paths.items():
             size += to_del_clip_path.size
-            ind_size = fm.to_unit(to_del_clip_path.size, object = True)
+            ind_size = fm.to_unit(to_del_clip_path.size, object=True)
             # ans = input(f'want to del: {to_del_clip_path.path}  \n(y/n)?')
             file_obj.write(to_del_clip_path.path + ' ' + str(ind_size.value)
-             + ' ' + ind_size.unit + ' ' + str(count) +'\n' )
-    input(fm.to_unit(size)) # size of everything
+                           + ' ' + ind_size.unit + ' ' + str(count) + '\n')
+    input(fm.to_unit(size))  # size of everything
+
+
+
+def get_path_dir_ind(paths, file_index):
+    '''
+    returns index of the dir path in the paths list of the file path 
+    passed'''
+    dir_path = os.path.dirname(paths[file_index])
+    up_index = 0
+    for path in paths[file_index::-1]:
+        if path.path == dir_path:
+            return file_index - up_index
+        up_index += 1
+
+
+def get_rars_dirs(paths):
+    '''
+    
+    '''
+    pass
+
 
 def main():
     os.system('cls')
     print('loading...')
-    paths = read()    
+    paths = read()
+
     while True:
         os.system('cls')
         inp = input(f'{colorama.Fore.GREEN}Name: {colorama.Fore.WHITE}')
@@ -177,7 +198,6 @@ def main():
             continue
         net_inp, cmd = fm.parse_inp(inp)
         results = []
-
         if not cmd:  # normal search
             results = fm.search(paths, net_inp)
             fm.print_results(results)
@@ -189,7 +209,7 @@ def main():
                 results = fm.get_clips(paths, cmd)
                 fm.print_results(results)
             elif cmd['func name'] == 'update':
-                pass
+                os.system(r'python "F:\Coding\Scripts\Files Manager\files_paths\Update.pyw"')
             elif cmd['func name'] == 'get_stats':
                 file_types = fm.get_stats(cmd, paths)
                 fm.print_stats(file_types)
@@ -210,11 +230,9 @@ def main():
             fm.clean()
         elif 'del' in end_cmd:
             root = fm.get_root(results, end_cmd)
-            if root:# root is False if path was never extracted
-                fm.delete(root.path) 
-            
+            if root:  # root is False if path was never extracted
+                fm.delete(root.path)
 
 
 if __name__ == '__main__':
-
     main()

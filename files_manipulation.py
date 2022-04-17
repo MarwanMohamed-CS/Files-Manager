@@ -2,7 +2,6 @@ import os
 import collections
 import re
 import colorama
-import pdb
 import prettytable
 import shutil
 import datetime
@@ -40,11 +39,11 @@ class File():
             size = int(size)
         elif self.size < 10**9:  # converts bytes to MBs
             # 1048576 is 1024 * 1024
-            size = self.size//1048576
+            size = self.size//1_048_576
             unit = 'MB'
         else:  # if size>10^9 converts to GBs
             # 1073741824 is 1024 * 1024 * 1024
-            size = self.size/1073741824
+            size = self.size/1_073_741_824
             size = round(size, 1)  # rounds to a total of 4 digits
             unit = 'GB'
         if int(size) == 0:
@@ -557,3 +556,12 @@ def create_pdf(results, inp, pdf_name='results',):
     os.remove(DOCX_PATH)
     print(' .docx Converted succesfully.')
     sleep(2)
+
+
+def is_rar(path):
+    '''
+    takes in a file path, returns true if it's a rar file or a r\d\d file'''
+    match = re.search('(?:rar|r\d\d)$')
+    if match:
+        return True
+    return False
