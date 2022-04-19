@@ -150,6 +150,9 @@ def get_cmd(inp):
         elif cmd_tag == '-all animes':
             cmd['func name'] = 'get_clips'
             cmd['file type'] = 'anime'
+        elif cmd_tag == '-all courses':
+            cmd['func name'] = 'get_clips'
+            cmd['file type'] = 'course'
         elif cmd_tag == '-pc e':
             cmd['func name'] = 'get_clips'
             cmd['dir tag'] = 'this pc e'
