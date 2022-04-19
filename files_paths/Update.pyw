@@ -1,5 +1,7 @@
+import argparse
+from lib2to3.pgen2 import driver
 import os
-from pprint import pprint
+from argparse import ArgumentParser
 from time import sleep
 import settings
 
@@ -16,6 +18,7 @@ def calc_size(paths, sizes):
                                                     net_paths_iterator_index]
             else:
                 break
+
 
 def update_all():
     for txt_path, details in settings.get_txts_info().items():
@@ -36,7 +39,7 @@ def generate_txt(txt_path, paths, sizes, ctimes):
                 pass
 
 
-def update(main_root, txt_path, clips_path):
+def update(main_root, txt_path):
     '''
     Writes to a collections of .txts the trees of files and folders inside
     specific dirs
@@ -62,29 +65,58 @@ def update(main_root, txt_path, clips_path):
                  sizes=sizes,
                  ctimes=ctimes,
                  txt_path=rel_txt_path)
-    print(f'Updated : {clips_path}')
+    print(f'Updated : {main_root}')
+
+
+def run_once():
+    '''returns the args object'''
+    parser = ArgumentParser()
+    parser.add_argument(
+        '-o', '--once', action='store_true', help='makes the script run once')
+    args = parser.parse_args()
+    return args.once
+
 
 
 working_dir = r'F:\Coding\Scripts\Files Manager\files_paths'
 os.chdir(working_dir)
-for txt_path, details in settings.get_txts_info().items():
-    if os.path.exists(details['clips path']):
-        update(details['clips path'], txt_path, details['clips path'])
-hdds = {
-    'My Passport(1)': False,
-    'My Passport(2)': False,
-    'Toshiba(1)': False,
-    'Toshiba(2)': False,
+
+parser = ArgumentParser()
+parser.add_argument(
+    '-o', '--once', action='store_true', help='makes the script run once')
+args = parser.parse_args()
+
+serials = {
+    'EC6F4F5A':{'updated' : False, 'volume name' : 'C:'},
+    '66E2D7AC':{'updated' : False, 'volume name' : 'D:'},
+    'B0193957':{'updated' : False, 'volume name' : 'E:'},
+    'A653ADC9':{'updated' : False, 'volume name' : 'F:'},
+    '1AEA6007':{'updated' : False, 'volume name' : 'My Passport(1)'},
+    '6C8E2E75':{'updated' : False, 'volume name' : 'My Passport(2):'},
+    '03D08A60':{'updated' : False, 'volume name' : 'Toshiba(1)'},
 }
-while False in hdds.values():
-    for hdd_name, update_status in hdds.items():
-        letter = settings.get_driver_letter(hdd_name)
-        if letter and not update_status:
-            txt = settings.get_txts_info()
-            hdds[hdd_name] = True
-            for txt_path, details in settings.get_txts_info().items():
-                if os.path.exists(details['clips path']):
-                    update(details['clips path'], txt_path, details['clips path'])
-    sleep(1)
+
+update_statuses ={}
+for serial in serials.keys():
+    update_statuses[serial] = False
+
+if not args.once:
+    while False in update_statuses.values():
+        for hdd_serial, hdd_details in serials.items():
+            letter = settings.get_driver_component(driver_id= hdd_serial)
+            # in here the letter acts as boolean to check exists
+            txts_info = settings.get_txts_info() # if you remove then get letter is called again
+            for txt_path, details in txts_info.items():
+                if details['serial number'] == hdd_serial:
+                    if os.path.exists(details['clips path']) and not update_statuses[hdd_serial]:
+                        for txt_path, details in txts_info.items():
+                            if os.path.exists(details['clips path']):
+                                update(details['clips path'], txt_path)
+                        update_statuses[hdd_serial] = True
+        sleep(1)
+else:
+    for txt_path, details in settings.get_txts_info().items():
+        if os.path.exists(details['clips path']):
+            update(details['clips path'], txt_path)
 
     # hello this is test branch

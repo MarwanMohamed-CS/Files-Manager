@@ -1,34 +1,4 @@
-import wmi
-from pprint import pprint
-
-def get_driver_component(driver_name='', driver_id=''):
-    # DRIVE_TYPES = {
-    # 0 : "Unknown",
-    # 1 : "No Root Directory",
-    # 2 : "Removable Disk",
-    # 3 : "Local Disk",
-    # 4 : "Network Drive",
-    # 5 : "Compact Disc",
-    # 6 : "RAM Disk"
-    # }
-    c = wmi.WMI()
-    for drive in c.Win32_LogicalDisk():
-        # prints all the drives details including name, type and size
-        input(drive)
-        if driver_name and driver_name == drive.VolumeName:
-            return drive.name
-        if driver_id == drive.VolumeSerialNumber:
-            return drive.name
-        # print (drive.Name, drive.VolumeSerialNumber)
-    return ''
-
-
-def get_txts_info():
-    '''resets the txt'''
-    hdd_letter_2_tera = get_driver_component('My Passport(2)')
-    hdd_letter_toshiba_2 = get_driver_component('Toshiba(2)')
-    hdd_letter_1_tera = get_driver_component('My Passport(1)')
-    txts = {'files_paths\\1_tera_animes.txt': {'clips path': 'H:Anime_1Tera',
+new = {'files_paths\\1_tera_animes.txt': {'clips path': 'H:Anime_1Tera',
                                     'dir tag': '1 tera animes',
                                     'file type': 'anime',
                                     'hard disk': '1 tera',
@@ -108,12 +78,7 @@ def get_txts_info():
                                  'file type': 'tv series',
                                  'hard disk': 'toshiba',
                                  'serial number': '03D08A60'}}
-    return txts
 
 
-# CONSTANTS
-PRINTING_RESULTS_LIMIT = 200
-EMPTY_SIZE = 1024**2 * 200  # means 200MB is the empty size of a folder
-DESKTOP_PATH = r'C:\Users\COMPU1\Desktop'
-TO_DELETE_TXT_PATH = r'files_paths\to_delete.txt'
-RESULTS_LIMIT = 100
+for k, v in new.items():
+    print('hard disk: {}   serial: {}'.format(new[k]['dir tag'], new[k]['serial number']))

@@ -188,6 +188,9 @@ def get_cmd(inp):
             cmd['func name'] = 'get_clips'
             cmd['file type'] = 'anime'
             cmd['dir tag'] = '1 tera animes'
+        elif cmd_tag == '-all books':
+            cmd['func name'] = 'get_clips'
+            cmd['file type'] = 'book'
         elif cmd_tag == '-u' or cmd_tag == '-update':
             cmd['func name'] = 'update'
         elif cmd_tag == '-new':
@@ -290,7 +293,7 @@ def print_results(results, dups=False):
                     break
                 date, time = result.get_creation_date()
                 table.add_row([colorama.Fore.LIGHTBLUE_EX+f'{num}',
-                               colorama.Fore.LIGHTBLUE_EX+f'{result.name:80}',
+                               colorama.Fore.LIGHTBLUE_EX+f'{result.name.strip():80}',
                                colorama.Fore.LIGHTBLUE_EX +
                                f'{result.dir_tag.title():<10}',
                                colorama.Fore.LIGHTBLUE_EX +
