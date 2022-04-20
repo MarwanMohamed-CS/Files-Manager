@@ -210,6 +210,7 @@ def main():
                 fm.print_results(results)
             elif cmd['func name'] == 'update':
                 os.system(r'python "F:\Coding\Scripts\Files Manager\files_paths\Update.pyw" -o')
+                paths = read()
             elif cmd['func name'] == 'get_stats':
                 file_types = fm.get_stats(cmd, paths)
                 fm.print_stats(file_types)
