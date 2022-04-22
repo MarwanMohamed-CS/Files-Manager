@@ -1,4 +1,4 @@
-E:/Movies(2)|247305819787|1587911786.848659
+E:/Movies(2)|247305823883|1587911786.848659
 E:/Movies(2)\21.Grams.2003.720p.BluRay.x264-x0r|2824534490|1589522797.6266968
 E:/Movies(2)\21.Grams.2003.720p.BluRay.x264-x0r\21.Grams.2003.720p.BluRay.x264-x0r.fanart.jpg|286388|1589522798.2648757
 E:/Movies(2)\21.Grams.2003.720p.BluRay.x264-x0r\21.Grams.2003.720p.BluRay.x264-x0r.ico|109349|1604860626.4390101
@@ -642,7 +642,7 @@ E:/Movies(2)\Parasite 720p (x0r)\Parasite.2019.720p.BluRay.x264-x0r.mkv|29785109
 E:/Movies(2)\Parasite 720p (x0r)\Parasite.2019.720p.BluRay.x264-x0r.nfo|55|1580759462.180686
 E:/Movies(2)\Parasite 720p (x0r)\Parasite.2019.720p.BluRay.x264-x0r[TRAILER-Theatrical Trailer].mov|101573875|1580759461.9116797
 E:/Movies(2)\Parasite 720p (x0r)\_readme.txt|1110|1582250280.4420774
-E:/Movies(2)\Pawn Sacrifice (2014) [1080p]|1977466567|1589526968.8447165
+E:/Movies(2)\Pawn Sacrifice (2014) [1080p]|1977474759|1589526968.8447165
 E:/Movies(2)\Pawn Sacrifice (2014) [1080p]\Pawn.Sacrifice.2014.1080p.BluRay.x264.[YTS.AG].mp4|1977369384|1589526968.8603165
 E:/Movies(2)\Pawn Sacrifice (2014) [1080p]\Pawn.Sacrifice.2014.1080p.BluRay.x264.[YTS.AG].srt|97183|1644859111.7665884
 E:/Movies(2)\Pawn Sacrifice (2014) [1080p]\WWW.YTS.AG.jpg|105827|1589527232.5201807

@@ -2,6 +2,7 @@ import os
 import collections
 import re
 import colorama
+from importlib_metadata import files
 import prettytable
 import shutil
 import datetime
@@ -70,11 +71,27 @@ class File():
         return formated_date_in_days, formated_date_in_hm
 
 
+class HardDisk():
+    def __init__(self, serial_number) :
+        self.serial_number  = serial_number
+        
+    def add_dir(self, dirs_path, files_type, dir_tag):
+        '''
+        Adds dir and some specifications, dirs_path is a list
+        '''
+        self.dirs_path = dirs_path # is a list
+        self.files_type = files_type
+        self.dir_tag = dir_tag
+
+    def tree_scan_dir(self):
+        for dir_path in self.dirs_path:
+            
+
 class FilesManager():
     '''
     '''
 
-    def __init__(self):
+    def __init__(self,):
         self.paths = self.read()
 
     def read():
@@ -244,3 +261,18 @@ class FilesManager():
             dir_tag = None
             net_inp = inp
         return net_inp, dir_tag
+
+
+class Dir():
+    
+    def __init__(self, dir_path, files_type, dir_tag):
+        self.dir_path = dir_path
+        self.files_type = files_type
+        self.dir_tag = dir_tag
+
+    def read_dir():
+        with open(self.dir_path) as file_obj:
+            lines = file_obj.readlines()
+        for line in lines:
+            line.split('||')
+    def dump_data():
