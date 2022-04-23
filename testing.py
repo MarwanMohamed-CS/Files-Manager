@@ -1,29 +1,17 @@
-import os
-from files_paths import settings
-import files_manipulation as fm
+class Tree():
+    def __init__(self):
+        self.obj = Dir(1)
+
+    def return_dir(self):
+        return self.obj
 
 
+class Dir():
+    def __init__(self, num):
+        self.num = num
 
-def read():
-    '''reads trees of each path and returns a list containing
-    the file objects '''
-        txt_path = r''
-        with open(path) as file_object:
-            lines = file_object.read()
-            lines = lines.split('\n')
-            del lines[-1]
-            for line in lines:
-                file_path, file_size, file_details = line.split('|')
-                if os.path.dirname(file_path) == details['clips path']:
-                    surface = True
-                else:
-                    surface = False
-                paths.append(fm.File(file_path,
-                                     details['file type'],
-                                     details['dir tag'],
-                                     int(file_size),
-                                     file_details,
-                                     surface,
-                                     details['hard disk'],
-                                     ))
-    return paths
+tree = Tree()
+obj  = tree.return_dir()
+print(tree.obj.num)
+obj.num = 5
+print(tree.obj.num)
