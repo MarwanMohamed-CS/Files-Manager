@@ -274,21 +274,27 @@ class Dir():
         self.txt_path = self.files_type + '_' + os.path.basename(dir_path)
         if not os.path.exists(self.dir_path):
             return None
-        with open(self.dir_path) as file_obj:
-            lines = file_obj.readlines()
-        for line in lines:
-            line.split('||')
-        with open(dir_path) as file_object:
-            lines = file_object.read()
-            lines = lines.split('\n')
-            del lines[-1]
-            surface_path = lines[0].split('|')[0]
-            for line in lines:
-                file_path, file_size, file_details = line.split('|')
-                if os.path.dirname(file_path) == surface_path:
-                    surface = True
-                else:
-                    surface = False
+        with open(self.dir_path) as file_object:
+                    lines = file_object.read()
+                    lines = lines.split('\n')
+                    del lines[-1]
+                    surface_path = lines[0].split('|')[0]
+                    for line in lines:
+                        file_path, file_size, file_details = line.split('|')
+                        if os.path.dirname(file_path) == surface_path:
+                            surface = True
+                        else:
+                            surface = False
+                        paths.append(fm.File(file_path,
+                                            details['file type'],
+                                            details['dir tag'],
+                                            int(file_size),
+                                            file_details,
+                                            surface,
+                                            details['hard disk'],
+                                            )
+                                    )
+            return paths
 
 
     def dump_data():
