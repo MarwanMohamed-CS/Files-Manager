@@ -269,7 +269,8 @@ class Dir():
         self.dir_path = dir_path
         self.files_type = files_type
         self.dir_tag = dir_tag
-
+        self.txt_path = os.path.basename(self.dir_path) + '_' + self.files_type
+    
     def read_dir():
         self.txt_path = self.files_type + '_' + os.path.basename(dir_path)
         if not os.path.exists(self.dir_path):
