@@ -271,12 +271,14 @@ class Dir():
         self.dir_tag = dir_tag
 
     def read_dir():
-        if not os.path.exists(self.dir_path)
+        self.txt_path = self.files_type + '_' + os.path.basename(dir_path)
+        if not os.path.exists(self.dir_path):
+            return None
         with open(self.dir_path) as file_obj:
             lines = file_obj.readlines()
         for line in lines:
             line.split('||')
-        with open(path) as file_object:
+        with open(dir_path) as file_object:
             lines = file_object.read()
             lines = lines.split('\n')
             del lines[-1]
@@ -287,6 +289,8 @@ class Dir():
                     surface = True
                 else:
                     surface = False
+
+
     def dump_data():
 
 
