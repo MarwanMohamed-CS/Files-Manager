@@ -1,4 +1,4 @@
-F:/TV Series|265311586336|1582509366.4413435
+F:/TV Series|265293556219|1582509366.4413435
 F:/TV Series\1883(incomplete)|26013336307|1644598184.021387
 F:/TV Series\1883(incomplete)\1883.S01E01.720p.WEB.H264-CAKES|4300102811|1644598218.4944901
 F:/TV Series\1883(incomplete)\1883.S01E01.720p.WEB.H264-CAKES\1883.s01e01.720p.web.h264-cakes.mkv|2150046528|1644598954.0938528
@@ -451,7 +451,7 @@ F:/TV Series\Lost Complete 720p BluRay nHD x264 NhaNc3\Lost S06E14 720p BluRay n
 F:/TV Series\Lost Complete 720p BluRay nHD x264 NhaNc3\Lost S06E16 720p BluRay nHD x264 NhaNc3.mkv|768262396|1632745351.83556
 F:/TV Series\Lost Complete 720p BluRay nHD x264 NhaNc3\Lost S06E17-18 720p BluRay nHD x264 NhaNc3.mkv|1768007577|1632745371.1213565
 F:/TV Series\Lost Complete 720p BluRay nHD x264 NhaNc3\~uTorrentPartFile_15CB51394A.dat|15347016|1632645168.1925862
-F:/TV Series\Mix|103253424567|1607575454.9631624
+F:/TV Series\Mix|103253423918|1607575454.9631624
 F:/TV Series\Mix\1883.S01E08.720p.WEB.H264-CAKES|3813902092|1644909677.291191
 F:/TV Series\Mix\1883.S01E08.720p.WEB.H264-CAKES\1883.s01e08.720p.web.h264-cakes.mkv|1906946165|1644910709.8197825
 F:/TV Series\Mix\1883.S01E08.720p.WEB.H264-CAKES\1883.s01e08.720p.web.h264-cakes.r00|200000000|1644909693.7185392
@@ -1821,10 +1821,9 @@ F:/TV Series\Mix\The.Vampire.Diaries.S04.Season.4.720p.WEB-DL.H264-KiNGS\The.Vam
 F:/TV Series\Mix\The.Vampire.Diaries.S04.Season.4.720p.WEB-DL.H264-KiNGS\The.Vampire.Diaries.S04E04.720p.WEB-DL.DD5.1.H.264-KiNGS.mkv|1425858782|1613312128.4030464
 F:/TV Series\Mix\The.Vampire.Diaries.S04.Season.4.720p.WEB-DL.H264-KiNGS\The.Vampire.Diaries.S04E05.720p.WEB-DL.DD5.1.H.264-KiNGS.mkv|1402381412|1613380113.843221
 F:/TV Series\Mix\The.Vampire.Diaries.S04.Season.4.720p.WEB-DL.H264-KiNGS\~uTorrentPartFile_7A168A2FB.dat|14173067|1613296904.9237292
-F:/TV Series\Mix\The.Walking.Dead.S11E09.720p.WEB.H264-CAKES[rarbg]|2370661291|1645141304.4746406
+F:/TV Series\Mix\The.Walking.Dead.S11E09.720p.WEB.H264-CAKES[rarbg]|2370660642|1645141304.4746406
 F:/TV Series\Mix\The.Walking.Dead.S11E09.720p.WEB.H264-CAKES[rarbg]\the.walking.dead.s11e09.720p.web.h264-cakes.mkv|2370660642|1645141304.4746406
 F:/TV Series\Mix\The.Walking.Dead.S11E09.720p.WEB.H264-CAKES[rarbg]\the.walking.dead.s11e09.720p.web.h264-cakes.nfo|649|1645142094.709525
-F:/TV Series\Mix\The.Walking.Dead.S11E09.720p.WEB.H264-CAKES[rarbg]\~uTorrentPartFile_8D4D6C2C.dat|144825|1645141304.4746406
 F:/TV Series\Outlander S03 WebRip hevc-d3g|16874238065|1595690361.6227534
 F:/TV Series\Outlander S03 WebRip hevc-d3g\Outlander.S03E01.The.Battle.Joined.WEBRip.1080p.DD5.1.H265-d3g.mkv|1322420968|1595690361.6227534
 F:/TV Series\Outlander S03 WebRip hevc-d3g\Outlander.S03E02.Surrender.WEBRip.1080p.DD5.1.H265-d3g.mkv|1355929469|1595735381.555966
@@ -2037,7 +2036,6 @@ F:/TV Series\Spartacus Complete 10bit hevc-d3g\Spartacus S01 Blood and Sand 10bi
 F:/TV Series\Spartacus Complete 10bit hevc-d3g\Spartacus S01 Blood and Sand 10bit hevc-d3g\Spartacus.Blood.And.Sand.S01E08.Mark.of.the.Brotherhood.BluRay.10Bit.1080p.DD5.1.H265-d3g.mkv|1263699915|1610361217.0057437
 F:/TV Series\Spartacus Complete 10bit hevc-d3g\Spartacus S01 Blood and Sand 10bit hevc-d3g\Spartacus.Blood.And.Sand.S01E09.Whore.BluRay.10Bit.1080p.DD5.1.H265-d3g.mkv|1248834796|1610361232.7295792
 F:/TV Series\Spartacus.S01-S03.Gods.Of.Arena.720p.BluRay.nHD.x264-NhaNc3|0|1610328525.0972373
-F:/TV Series\Spartacus.S01-S03.Gods.Of.Arena.720p.BluRay.nHD.x264-NhaNc3\~uTorrentPartFile_93A1A2306.dat|17885292|1610328525.1021569
 F:/TV Series\The Walking Dead|25399118682|1629846953.2668898
 F:/TV Series\The Walking Dead\S11|25399122778|1629846962.2461405
 F:/TV Series\The Walking Dead\S11\The.Walking.Dead.S11E01.720p.WEB.H264-GGEZ|4875480527|1629847003.0494602

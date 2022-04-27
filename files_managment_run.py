@@ -212,7 +212,7 @@ def main():
                 os.system(r'python "F:\Coding\Scripts\Files Manager\files_paths\Update.pyw" -o')
                 paths = read()
             elif cmd['func name'] == 'get_stats':
-                file_types = fm.get_stats(cmd, paths)
+                file_types = fm.get_stats(paths)
                 fm.print_stats(file_types)
         elif cmd['type'] == 'dir tag':
             results = fm.search(paths, net_inp, cmd['dir tag'])

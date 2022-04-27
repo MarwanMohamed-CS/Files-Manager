@@ -1,4 +1,4 @@
-E:/Courses|29078011853|1611335407.4250758
+E:/Courses|29077205169|1611335407.4250758
 E:/Courses\Packt.Learn.Python.and.Ethical.Hacking.from.Scratch-XQZT|9390222733|1611335407.4270756
 E:/Courses\Packt.Learn.Python.and.Ethical.Hacking.from.Scratch-XQZT\Check if packt learn in here is the same by extracting them.txt|0|1611335407.4303863
 E:/Courses\Packt.Learn.Python.and.Ethical.Hacking.from.Scratch-XQZT\Packt.Learn.Python.and.Ethical.Hacking.from.Scratch-XQZT|4686809613|1611335407.4328825
@@ -237,10 +237,9 @@ E:/Courses\Packt.Learn.Python.and.Ethical.Hacking.from.Scratch-XQZT\plpaehfs-7cf
 E:/Courses\Packt.Learn.Python.and.Ethical.Hacking.from.Scratch-XQZT\plpaehfs-7cf7-xqzt\Learn Python and Ethical Hacking from Scratch [Video]\Exercise Files\CODES\subdomains-wodlist (1).txt|6861626|1611335627.344985
 E:/Courses\Packt.Learn.Python.and.Ethical.Hacking.from.Scratch-XQZT\plpaehfs-7cf7-xqzt\Learn Python and Ethical Hacking from Scratch [Video]\Exercise Files\CODES\Thumbs.db|19456|1611335627.4068637
 E:/Courses\Packt.Learn.Python.and.Ethical.Hacking.from.Scratch-XQZT\plpaehfs-7cf7-xqzt\Learn Python and Ethical Hacking from Scratch [Video]\Exercise Files\CODES\Website-Hacking.pdf|354614|1611335627.4323554
-E:/Courses\The Complete Python Course in the Professional OOP Approach|13103560631|1611335917.969478
+E:/Courses\The Complete Python Course in the Professional OOP Approach|13102753947|1611335917.969478
 E:/Courses\The Complete Python Course in the Professional OOP Approach\TutsNode.com.txt|63|1611536266.2006679
 E:/Courses\The Complete Python Course in the Professional OOP Approach\[TGx]Downloaded from torrentgalaxy.to .txt|585|1612671991.1192782
-E:/Courses\The Complete Python Course in the Professional OOP Approach\~uTorrentPartFile_313C6E95E.dat|806684|1612695407.6573784
 E:/Courses\The Complete Python Course in the Professional OOP Approach\.pad|117636237|1611335919.3852706
 E:/Courses\The Complete Python Course in the Professional OOP Approach\.pad\0|29|1612671991.1083043
 E:/Courses\The Complete Python Course in the Professional OOP Approach\.pad\1|53107282|1612671991.1545196

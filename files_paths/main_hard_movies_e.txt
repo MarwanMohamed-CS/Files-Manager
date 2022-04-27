@@ -1,4 +1,4 @@
-E:/Movies(2)|247305823883|1587911786.848659
+E:/Movies(2)|244961931746|1587911786.848659
 E:/Movies(2)\21.Grams.2003.720p.BluRay.x264-x0r|2824534490|1589522797.6266968
 E:/Movies(2)\21.Grams.2003.720p.BluRay.x264-x0r\21.Grams.2003.720p.BluRay.x264-x0r.fanart.jpg|286388|1589522798.2648757
 E:/Movies(2)\21.Grams.2003.720p.BluRay.x264-x0r\21.Grams.2003.720p.BluRay.x264-x0r.ico|109349|1604860626.4390101
@@ -663,12 +663,6 @@ E:/Movies(2)\Seven.Pounds.2008.1080p.BrRip.x264.FERAL81|1774427831|1585909653.04
 E:/Movies(2)\Seven.Pounds.2008.1080p.BrRip.x264.FERAL81\Seven.Pounds.2008.Brrip.x264.m-HD.400mb.mp4|1774366816|1585909653.0517256
 E:/Movies(2)\Seven.Pounds.2008.1080p.BrRip.x264.FERAL81\Seven.Pounds.2008.Brrip.x264.m-HD.400mb.srt|61015|1585909671.874362
 E:/Movies(2)\Seven.Pounds.2008.1080p.BrRip.x264.FERAL81\Thumbs.db|9728|1585909671.8893414
-E:/Movies(2)\Slumdog.Millionaire.2008.720p.BluRay.x264-x0r|2306226039|1589557741.6723616
-E:/Movies(2)\Slumdog.Millionaire.2008.720p.BluRay.x264-x0r\Slumdog.Millionaire.2008.720p.BluRay.x264-x0r.fanart.jpg|132301|1589557742.516827
-E:/Movies(2)\Slumdog.Millionaire.2008.720p.BluRay.x264-x0r\Slumdog.Millionaire.2008.720p.BluRay.x264-x0r.jpg|435307|1589557743.7157612
-E:/Movies(2)\Slumdog.Millionaire.2008.720p.BluRay.x264-x0r\Slumdog.Millionaire.2008.720p.BluRay.x264-x0r.mkv|2305650186|1589557745.9386635
-E:/Movies(2)\Slumdog.Millionaire.2008.720p.BluRay.x264-x0r\Slumdog.Millionaire.2008.720p.BluRay.x264-x0r.nfo|53|1589558169.8721902
-E:/Movies(2)\Slumdog.Millionaire.2008.720p.BluRay.x264-x0r\Slumdog.Millionaire.2008.720p.BluRay.x264-x0r[TRAILER-Theatrical Trailer].mov|37670194|1589558170.3730433
 E:/Movies(2)\Sophie Scholl The Final Days 2005 BDRip 1080p- HighCode|1799|1589522808.9139006
 E:/Movies(2)\Sophie Scholl The Final Days 2005 BDRip 1080p- HighCode\INFO.nfo|1799|1589522809.7146387
 E:/Movies(2)\Sophie Scholl The Final Days 2005 BDRip 1080p- HighCode\Sophie Scholl The Final Days 2005 BDRip 1080p- HighCode.mkv|5533784068|1589522814.0177362

@@ -199,6 +199,9 @@ def get_cmd(inp):
         elif cmd_tag == '-new':
             cmd['func name'] = 'get_clips'
             cmd['file type'] = 'new'
+        elif cmd_tag == '-stats':
+            cmd['func name'] = 'get_stats'
+
     match = re.search('-.*', inp)
     cmd = {}
     if match:
@@ -296,7 +299,8 @@ def print_results(results, dups=False):
                     break
                 date, time = result.get_creation_date()
                 table.add_row([colorama.Fore.LIGHTBLUE_EX+f'{num}',
-                               colorama.Fore.LIGHTBLUE_EX+f'{result.name.strip():80}',
+                               colorama.Fore.LIGHTBLUE_EX +
+                               f'{result.name.strip():80}',
                                colorama.Fore.LIGHTBLUE_EX +
                                f'{result.dir_tag.title():<10}',
                                colorama.Fore.LIGHTBLUE_EX +
@@ -347,6 +351,77 @@ def get_duplicates(clips):
         dup_obj = Dup(dup_name, file_type, locations, dir_tags)
         duplicates.append(dup_obj)
     return duplicates
+
+
+def get_stats(paths):
+    '''
+    returns a stats namedtuple that contains data stats of paths
+    '''
+    stats = {
+        'movies': {'size': 0, 'paths': []},
+        'animes': {'size': 0, 'paths': []},
+        'tv series': {'size': 0, 'paths': []},
+        'courses': {'size': 0, 'paths': []},
+
+    }
+    for path in paths:
+        if path.surface:
+            if path.file_type == 'movie':
+                stats['movies']['size'] += path.size
+                stats['movies']['paths'].append(path.path)
+            elif path.file_type == 'tv series':
+                stats['tv series']['size'] += path.size
+                stats['tv series']['paths'].append(path.path)
+            elif path.file_type == 'anime':
+                stats['animes']['size'] += path.size
+                stats['animes']['paths'].append(path.path)
+            elif path.file_type == 'course':
+                stats['courses']['size'] += path.size
+                stats['courses']['paths'].append(path.path)
+    return stats
+
+
+def print_stats(stats):
+    os.system('cls')
+    table = prettytable.PrettyTable([colorama.Fore.YELLOW+' ' * 5,
+                                     colorama.Fore.YELLOW+'Movies',
+                                     colorama.Fore.YELLOW+'TV Series',
+                                     colorama.Fore.YELLOW+'Animes',
+                                     colorama.Fore.YELLOW+'Courses'])
+    table.add_row([colorama.Fore.LIGHTGREEN_EX+f'Size',
+                   colorama.Fore.LIGHTBLUE_EX +
+                   '{} {}'.format(*to_unit(stats['movies']['size'])),
+                   colorama.Fore.LIGHTBLUE_EX +
+                   '{} {}'.format(
+                       *to_unit(stats['tv series']['size'])),
+                   colorama.Fore.LIGHTBLUE_EX +
+                   '{} {}'.format(
+                       *to_unit(stats['animes']['size'])),
+                   colorama.Fore.LIGHTBLUE_EX +
+                   '{} {}'.format(*to_unit(stats['courses']['size']))])
+
+    table.add_row([colorama.Fore.LIGHTGREEN_EX+f'Number',
+                   colorama.Fore.LIGHTBLUE_EX +
+                   '{}'.format(len(stats['movies']['paths'])),
+                   colorama.Fore.LIGHTBLUE_EX +
+                   '{}'.format(
+                       len(stats['tv series']['paths'])),
+                   colorama.Fore.LIGHTBLUE_EX +
+                   '{}'.format(
+                       len(stats['animes']['paths'])),
+                   colorama.Fore.LIGHTBLUE_EX +
+                   '{}'.format(len(stats['courses']['paths']))])
+    
+    print(table)
+    # print('Movies: {}, size : {} {}'.format(
+    #     len(stats['movies']['paths']), *to_unit(stats['movies']['size'])))
+    # print('Tv shows: {}, size : {} {}'.format(
+    #     len(stats['tv series']['paths']), *to_unit(stats['tv series']['size'])))
+    # print('Animes: {}, size : {} {}'.format(
+    #     len(stats['animes']['paths']), *to_unit(stats['animes']['size'])))
+    # print('Courses: {}, size : {} {}'.format(
+    #     len(stats['courses']['paths']), *to_unit(stats['courses']['size'])))
+    input()
 
 
 def to_unit(size):
