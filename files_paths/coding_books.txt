@@ -1,0 +1,12 @@
+F:\Coding\Books|75685566|1587906268.94377
+F:\Coding\Books\automate the boring stuff with python automate the boring stuff with python ( PDFDrive.com ).pdf|17449893|1600522318.0898156
+F:\Coding\Books\Black hat Python - Python programming for hackers and pentesters ( PDFDrive.com ).pdf|10527370|1599480404.3855693
+F:\Coding\Books\Clean Code.pdf|3072887|1613866796.9114778
+F:\Coding\Books\Python Crash Course.pdf|5641895|1588624896.3136842
+F:\Coding\Books\Python Playground.pdf|12952217|1595535768.836381
+F:\Coding\Books\Rapid GUI Programming with Python and Qt.pdf ( PDFDrive.com ).pdf|5656386|1594829618.089999
+F:\Coding\Books\the linux command line the linux command line ( PDFDrive.com ).pdf|6715619|1595109873.346634
+F:\Coding\Books\Write Great Code- Volume 1- Understanding the Machine ( PDFDrive.com ).pdf|4780646|1595110046.495484
+F:\Coding\Books\Code Complete|8880461|1612770794.9273324
+F:\Coding\Books\Code Complete\code-complete-2ed.pdf|8880461|1596253614.3339171
+F:\Coding\Books\Code Complete\notes_1.docx|14110|1612718220.127635

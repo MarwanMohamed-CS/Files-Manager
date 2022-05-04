@@ -1,13 +1,15 @@
-import argparse
-parser = argparse.ArgumentParser()
-# Insert your rules
+# importing the required module
+import timeit
 
-# Parse my string, first splitting it into a list.
-parser.add_argument(
-    '-o', '--once', action='store_true', help='makes the script run once')
-parser.add_argument(
-    '-H', '--Help', action='store_true', help='makes the script run once')
-args = parser.parse_args("--once --help".split())
+# code snippet to be executed only once
+mysetup = "from math import sqrt"
 
-print(args.once)
-print(args.Help)
+# code snippet whose execution time is to be measured
+mycode = '''
+from  http.server import SimpleHTTPRequestHandler
+'''
+
+# timeit statement
+print (timeit.timeit(setup = mysetup,
+					stmt = mycode,
+					number = 10000))
