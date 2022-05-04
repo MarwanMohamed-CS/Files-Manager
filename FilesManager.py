@@ -16,6 +16,10 @@ from guessit import guessit
 from files_paths import settings
 
 
+class FilesManager():
+    def __init__(self) -> None:
+        pass
+
 class File():
     '''Carries info of a file and has file management methods'''
 

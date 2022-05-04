@@ -88,7 +88,6 @@ def gen_rars_dups_txt(paths):
     input(fm.to_unit(size))  # size of everything
 
 
-
 def get_path_dir_ind(paths, file_index):
     '''
     returns index of the dir path in the paths list of the file path 
