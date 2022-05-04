@@ -60,10 +60,6 @@ def update():
     # if removed the .txt is going to be overwrriten even if path doesn't exist
 
 
-
-
-
-
 def gen_rars_dups_txt(paths):
     def get_rars_dups(paths):
         rars_dirs = fm.get_rars_dirs(paths)
