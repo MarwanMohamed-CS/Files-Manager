@@ -16,10 +16,6 @@ from guessit import guessit
 from files_paths import settings
 
 
-class FilesManager():
-    def __init__(self) -> None:
-        pass
-
 class File():
     '''Carries info of a file and has file management methods'''
 
@@ -71,34 +67,35 @@ class File():
         datetime_time = str(datetime_time)
         formated_date_in_days, formated_date_in_hm = datetime_time.split(
             ' ')   # hm stands for hours/mins
-        #date_formater = collections.namedtuple('creation_date', 'date time')
+        # date_formater = collections.namedtuple('creation_date', 'date time')
         return formated_date_in_days, formated_date_in_hm
 
 
 class HardDisk():
-    def __init__(self, serial_number) :
-        self.serial_number  = serial_number
-        
-    def add_dir(self, dirs_path, files_type, dir_tag):
+    def __init__(self, serial_number, name):
+        self.serial_number = serial_number
+        self.name = name
+
+    def add_dir(self, dir_path, files_type, dir_tag):
         '''
         Adds dir and some specifications, dirs_path is a list
         '''
-        self.dirs_path = dirs_path # is a list
+        self.dir_path = dir_path  ### is a list imp*
         self.files_type = files_type
         self.dir_tag = dir_tag
 
-    def tree_scan_dir(self):
-        for dir_path in self.dirs_path:
-            
 
 class FilesManager():
     '''
     '''
 
-    def __init__(self,):
-        self.paths = self.read()
+    def __init__(self):
+        self.hard_disks = []
 
-    def read():
+    def add_hard_disk(self, serial_number, name):
+        self.hard_disks.append(HardDisk(serial_number, name))
+        
+    def read(hard_disk):
         '''reads trees of each path and returns a list containing
         the file objects '''
         paths = []
@@ -268,13 +265,13 @@ class FilesManager():
 
 
 class Dir():
-    
+
     def __init__(self, dir_path, files_type, dir_tag):
         self.dir_path = dir_path
         self.files_type = files_type
         self.dir_tag = dir_tag
         self.txt_path = os.path.basename(self.dir_path) + '_' + self.files_type
-    
+
     def read_dir():
         self.txt_path = self.files_type + '_' + os.path.basename(dir_path)
         if not os.path.exists(self.dir_path):
