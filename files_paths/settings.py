@@ -74,7 +74,12 @@ def get_txts_info():
                                                        'dir tag': 'this pc e',
                                                        'file type': 'tv series',
                                                        'hard disk': 'main',
-                                                       'serial number': 'B0193957'},
+                                                       'serial number': 'B0193957'}, # "E:\Audio Books"
+            'files_paths\\main hard_e_audio_books.txt': {'clips path': 'E:/Audio Books',
+                                                       'dir tag': 'this pc e',
+                                                       'file type': 'audio book',
+                                                       'hard disk': 'main',
+                                                       'serial number': 'B0193957'}, # "E:\Audio Books"
             'files_paths\\main hard_f_animes.txt': {'clips path': 'F:\\Anime',
                                                     'dir tag': 'this pc f',
                                                     'file type': 'anime',
